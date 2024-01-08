@@ -1,0 +1,145 @@
+\documentclass[a4paper, 11pt]{article}
+
+
+% Page Geometry, Typography and Encoding
+\usepackage[a4paper, left=1.5cm, right=1.5cm, top=1.5cm, bottom=1.5cm]{geometry} % kleinere Ränder
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern} % microtype is not scalable
+\renewcommand{\phi}{\varphi}
+\renewcommand{\epsilon}{\varepsilon}
+\renewcommand{\theta}{\vartheta} % if you want
+
+% Math packages
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{mathtools}
+
+% Floats
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{bm}
+
+% Figures
+\usepackage{tikz}
+\usetikzlibrary{positioning,arrows.meta, patterns, decorations.pathreplacing,calligraphy}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{diagbox} % Diagonal boxes in tabular
+\usepackage{collcell}
+
+% Colors
+\usepackage{xcolor} %already loaded by tikz, but here for completeness
+% RWTH colors
+% blue violet purple carmine red magenta orange yellow grass cyan gold silver
+\definecolor{rwth-blue}{cmyk}{1,.5,0,0}\colorlet{rwth-lblue}{rwth-blue!50}\colorlet{rwth-llblue}{rwth-blue!25}
+\definecolor{rwth-violet}{cmyk}{.6,.6,0,0}\colorlet{rwth-lviolet}{rwth-violet!50}\colorlet{rwth-llviolet}{rwth-violet!25}
+\definecolor{rwth-purple}{cmyk}{.7,1,.35,.15}\colorlet{rwth-lpurple}{rwth-purple!50}\colorlet{rwth-llpurple}{rwth-purple!25}
+\definecolor{rwth-carmine}{cmyk}{.25,1,.7,.2}\colorlet{rwth-lcarmine}{rwth-carmine!50}\colorlet{rwth-llcarmine}{rwth-carmine!25}
+\definecolor{rwth-red}{cmyk}{.15,1,1,0}\colorlet{rwth-lred}{rwth-red!50}\colorlet{rwth-llred}{rwth-red!25}
+\definecolor{rwth-magenta}{cmyk}{0,1,.25,0}\colorlet{rwth-lmagenta}{rwth-magenta!50}\colorlet{rwth-llmagenta}{rwth-magenta!25}
+\definecolor{rwth-orange}{cmyk}{0,.4,1,0}\colorlet{rwth-lorange}{rwth-orange!50}\colorlet{rwth-llorange}{rwth-orange!25}
+\definecolor{rwth-yellow}{cmyk}{0,0,1,0}\colorlet{rwth-lyellow}{rwth-yellow!50}\colorlet{rwth-llyellow}{rwth-yellow!25}
+\definecolor{rwth-grass}{cmyk}{.35,0,1,0}\colorlet{rwth-lgrass}{rwth-grass!50}\colorlet{rwth-llgrass}{rwth-grass!25}
+\definecolor{rwth-green}{cmyk}{.7,0,1,0}\colorlet{rwth-lgreen}{rwth-green!50}\colorlet{rwth-llgreen}{rwth-green!25}
+\definecolor{rwth-cyan}{cmyk}{1,0,.4,0}\colorlet{rwth-lcyan}{rwth-cyan!50}\colorlet{rwth-llcyan}{rwth-cyan!25}
+\definecolor{rwth-teal}{cmyk}{1,.3,.5,.3}\colorlet{rwth-lteal}{rwth-teal!50}\colorlet{rwth-llteal}{rwth-teal!25}
+\definecolor{rwth-gold}{cmyk}{.35,.46,.7,.35}
+\definecolor{rwth-silver}{cmyk}{.39,.31,.32,.14}
+
+% Hyperlinks and Cross-References
+\usepackage{hyperref}
+\usepackage[capitalise,noabbrev]{cleveref}
+\hypersetup{%
+	pdftoolbar=false,
+	pdfmenubar=false,
+	colorlinks,
+	%pdfborderstyle={/S/U/W 1.25},
+	urlcolor={rwth-magenta},
+	linkcolor={rwth-red},
+	citecolor={rwth-green}
+}
+
+% Programmcode einbetten
+\usepackage{listings} %für Code
+\usepackage{verbatim} %für mehrzeilige Kommentare
+\lstset{literate=
+	{Ö}{{\O}}1
+	{Ä}{{\A}}1
+	{Ü}{{\U}}1
+	{ß}{{\ss}}1
+	{ü}{{\u}}1
+	{ä}{{\a}}1
+	{ö}{{\o}}1
+}% für Umlaute in Code
+\usepackage{xcolor}
+\definecolor{codeblue}{rgb}{0,0.6,0.9}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codered}{rgb}{0.8,0.2,0}
+\definecolor{backcolour}{rgb}{0.96,0.96,0.96}
+
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{codeblue},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codered},
+	emphstyle=\color{codepurple},
+	basicstyle=\ttfamily\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+\lstset{style=mystyle}
+
+ %The min, mid and max values
+\newcommand*{\MinNumber}{0.0}%
+\newcommand*{\MidNumber}{0.1} %
+\newcommand*{\MaxNumber}{1.0}%
+
+%Apply the gradient macro
+\newcommand{\ApplyGradient}[1]{%
+	\ifdim #1 pt > \MidNumber pt
+	\pgfmathsetmacro{\PercentColor}{max(min(100.0*(#1 - \MidNumber)/(\MaxNumber-\MidNumber),100.0),0.00)} %
+	\hspace{-0.33em}\colorbox{rwth-blue!\PercentColor!rwth-lblue}{#1}
+	\else
+	\pgfmathsetmacro{\PercentColor}{max(min(100.0*(\MidNumber - #1)/(\MidNumber-\MinNumber),100.0),0.00)} %
+	\hspace{-0.33em}\colorbox{white!\PercentColor!rwth-lblue}{#1}
+	\fi
+}
+
+\newcolumntype{R}{>{\collectcell\ApplyGradient}c<{\endcollectcell}}
+\renewcommand{\arraystretch}{0}
+\setlength{\fboxsep}{0.9mm} % box size
+\setlength{\tabcolsep}{0pt}
+
+\usepackage{natbib}
+\bibliographystyle{plainnat}
+\setcitestyle{numbers}
+\title{Machine Learning -  Project Report}
+\author{Lukas Johannes Ruettgers \and Isaac Hong Zhang Jie \and Chenrui}
+\date{\today}
+
+\begin{document}
+	\maketitle
+	\section{Introduction}
+	\section{Reinforcement Learning Algorithms}
+	\subsection{Proximal Policy Optimization}
+	\subsection{Actor Critic}
+	\section{Experiment Objective}
+	\section{Experiment Results}
+	\section{Conclusion}
+	\bibliography{references.bib}
+\end{document}
