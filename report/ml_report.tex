@@ -151,7 +151,7 @@
 	\[J(a_0,\cdots)=\mathbb{E}_{s_{t+1}\sim P(s_{t+1}\mid s_t,a_t)}\left[\sum_{t=0}^{T-1}r(s_t,a_t,s_{t+1})\right]\]
 	over a given \textit{horizon} $T$. However, this objective is ill-defined for an infinite horizon $T=\infty$, where any recurring non-zero reward could accumulate to infinity and render the maximization problem useless. To account for this, a \textit{discount factor} $\gamma\in(0,1)$ is usually used to model the rate with which rewards become more irrelevant over time, such that the objective becomes
 	\[J(a_0,\cdots)=\mathbb{E}_{s_{t+1}\sim P(s_{t+1}\mid s_t,a_t)}\left[\sum_{t=0}^{T-1}\gamma^t r(s_t,a_t,s_{t+1})\right].\] 
-	A common choice is $\gamma=0.99$, which means that after 100 steps, the reward experienced after the very first action is approximately 20 times less important than the current reward perceived at the 100th step.
+	A common choice is $\gamma=0.99$, which means that after 100 steps, the reward experienced at the current 100th step is approximately 20 times less important than the very first reward.
 	However, this problem formulation is still impractical, since an infinite horizon $T$ will have infinite number of actions as optimization parameters. Instead, we generally describe the behaviour of an agent by a \textit{policy} $\pi(a\mid s)$, which defines a probability distribution over the actions conditioned on each possible state. 
 	For a finite number of states and actions, this policy can also be regarded as a lookup table that stores the optimal action distribution in each state. In the case of continuous state domains, this approach renders infeasible and we are left with approximating this function by a set of finite parameters $\theta$.
 	Neural network architectures have proven to serve as accurate non-linear function approximators and are widely used in current Deep RL algorithms to approximate $\pi(a\mid s)\approx \pi_\theta(a\mid s)$.
@@ -258,8 +258,8 @@
 	
 	\subsubsection{Proximal Policy Optimization}
 	There are also numerous other optimization techniques to improve the objective function $J(\theta)$. To unravel this bouquet of opportunities, consider an alternative parametrization $\theta'$. The \textit{Performance Difference Lemma}, whose proof follows a similar spirit as the one for the Policy Gradient Theorem, states that 
-	\[J(\theta')-J(\theta)=\mathbb{E}_{\tau\sim P_{\pi_{\theta'}}}\left[\sum_{t=0}^{\infty} A_{\pi_{\theta}}(s_t,a_t) \right],\]
-	which intuitively means that $\theta'$ is desirable over $\theta$ if the new policy $\pi_{\theta'}$ executes those actions with a higher probability that are advantageous even if we follow the old policy $\pi_{\theta}$ in the subsequent states. Unfortunately, the evaluation of this term requires an approximation of the distribution of states and actions under the very $\theta'$ that we are trying to optimize. Na\"ively, this would require to empirically estimate the distribution under $P_{\pi_{\theta'}}$ with a large number of trajectories for each $\theta'$ we want to consider as a new parameter candidate, which imposes a severe computational limitation on the number of $\theta'$s that one can explore in each update step.
+	\[J(\theta')-J(\theta)=\mathbb{E}_{\tau\sim P_{\pi_{\theta'}}}\left[\sum_{t=0}^{\infty} A_{\pi_{\theta}}(s_t,a_t) \right].\]
+	Intuitively, this means that $\theta'$ is desirable over $\theta$ if the new policy $\pi_{\theta'}$ executes those actions with a higher probability that are advantageous even if we follow the old policy $\pi_{\theta}$ in the subsequent states. Unfortunately, the evaluation of this term requires an approximation of the distribution of states and actions under the very $\theta'$ that we are trying to optimize. Na\"ively, this would require to empirically estimate the distribution under $P_{\pi_{\theta'}}$ with a large number of trajectories for each $\theta'$ we want to consider as a new parameter candidate, which imposes a severe computational limitation on the number of $\theta'$s that one can explore in each update step.
 	Instead we can constrain $\theta'$ to remain close to $\theta$ with regard to $P_{\pi_{\theta}}$. Then approximating 
 	\[\mathbb{E}_{\tau\sim P_{\pi_{\theta'}}}\left[\sum_{t=0}^{\infty} A_{\pi_{\theta}}(s_t,a_t) \right]\approx\mathbb{E}_{\tau\sim P_{\pi_{\theta}}}\left[\sum_{t=0}^{\infty} \frac{\pi_{\theta'}(a_t\mid s_t)}{\pi_{\theta}(a_t\mid s_t)}A_{\pi_{\theta}}(s_t,a_t) \right]\]
 	will not exhibit a large distributional shift in the likelihood of states. \textit{Trust Region Policy Optimization} formulates this as a constrained optimization problem and maximize
@@ -290,8 +290,173 @@
 		\caption{PPO pseudo code algorithm.}
 		\label{fig:ppo}
 	\end{figure}
-	\section{Experiment Objective}
+	\section{Experiment Setup}
+	\subsection{Experiment Objective}
+	In this experiment, we want to investigate the performance of both PPO and REINFORCE on the \texttt{LunarLander-v2} environment provided by OpenAI's \texttt{gymnasium} package. We seek to understand how sensitive the model's performance is to some hyperparameters, which are concretized in the following.
+	For PPO, we alternate over
+	\begin{itemize}
+		\item three different reward configurations, which mainly deviate in sparsity,
+		\item the learning rates $\alpha=0.01,0.001,0.0003$ to validate whether faster rates than the low default learning rate of $3e-4$ still achieve stable training progress,
+		\item the discount factors $\gamma=0.5,0.7,0.999$ to compare far more shortsighted with the default, quite longsighted agent with $\gamma=0.999$, and
+		\item the clip offsets $\varepsilon=0.1,0.2,0.3$ as suggested by the original paper \cite{schulman2017proximal} to impose different restrictions on the policy's freedom to profit from its advantages.
+	\end{itemize}
+	The experiments for PPO were not done in parallel, but sequentially, and the best hyperparameters in each earlier experiment were fixed for the subsequent experiments.
+	For REINFORCE, we alternate over
+	% TODO: Specific experiment values.
+	\begin{itemize}
+		\item the Generalized Advantage Estimation discount $\lambda$
+		\item the learning rate $\alpha$,
+		\item the discount factor $\gamma$ to compare shortsighted with more longsighted agents, and
+		\item the batch size $N$
+	\end{itemize}
+	\subsection{LunarLander Environment}
+	The lunar environment simulates the problem of landing a spacecraft on a platform. The observation space $(q_x,q_y,\vartheta,v_x,v_y,\omega,\ell,r)$ is quasi-continuous and comprises both the robots coordinates, azimuthal angle, linear and angular velocities and two boolean variables that reflect if the left or right leg contact point touched the land.
+	The actions space is finite and merely continue four actions:
+	\begin{itemize}
+		\item Action 0: Do nothing,
+		\item Action 1: Fire left orientation engine,
+		\item Action 2: Fire the main engine,
+		\item Action 3: Fire right orientation engine.
+	\end{itemize}
+	
+	\subsection{Rewards}
+	We use different reward configurations during training. The first is the default reward configuration, which is fine-tuned and hence provides an accurate, dense signal towards the goal region. Specifically, the reward after an action
+	\begin{itemize}
+	\item is increased/decreased the closer/further the lander is to the landing pad,
+	\item is increased/decreased the slower/faster the lander is moving,
+	\item is decreased the more the lander is tilted (angle not horizontal),
+	\item is increased by 10 points for each leg that is in contact with the ground,
+	\item is decreased by 0.3 points each frame the main engine is firing,
+	\item is decreased by 0.03 points for each side engine firing,
+	\item is increased by 100 points for landing safely, and
+	\item is decreased by 100 points for crashing.
+	\end{itemize}
+	The reward configuration in the task description of our course project instead awards 100 points for each leg making ground contact and thus incentives safe landing. It also slight penalizes usage of the main engine to promote fuel efficiency. This approach allows for a nuanced modification of the reward system, encouraging behaviors like safe landing and fuel efficiency while still adhering to the game's fundamental objectives.
+	We refer to this reward configuration as the \textit{custom} reward, which --- for completeness ---
+	\begin{itemize}
+	\item is increased by 100 points for each leg that is in contact with the ground,
+	\item is decreased by 0.3 points each frame the main engine is firing,
+	\item is increased by 100 points for landing safely, and
+	\item is decreased by 100 points for crashing.
+	\end{itemize}
+	
+	To firstly showcase the relevance of the omitted rewards and secondly study how the higher leg contact reward affects the learning performance, we finally extend the custom reward by all terms that were not included. For the terms that are already included, we leave the values the same and do not adjust them to the values from the default reward configuration. Specifically, this leads to a \textit{combined} reward that deviates only from the default reward in assigning not 10 but 100 points for each leg contact.
+	\subsection{Implementation}
+	\subsubsection{PPO}
+	To ensure a correct implementation of PPO, we availed to the PPO implementation of \texttt{Stable Baselines 3}. 
+	Each model is trained for 1,500,000 iterations, which amounts to 367 policy updates and evaluations. While the model was only trained on one vectorized environment for simplicity, it was evaluated on 10 different environment configurations to obtain a more general evaluation score. Evaluation of the model's mean reward was done after every four policy updates. After training has finished, the model's mean reward was evaluated one final time.
+	The implementation is available in a Jupyter Notebook which was supplied along with the report.
+	The CustomCallback subclass of the BaseCallback class provides the mean rewards in training and evaluation mode for each episode, which were collected and finally plotted together.
+	\subsubsection{REINFORCE}
+	% TODO: Implementation Details.
+	\subsubsection{Reproducibility}
+	To ensure the reproducibility of the experiment results, all pseudorandom number generators from torch, numpy or the internal random package were fixed. Moreover, we tried to force torch and CUDA to use only deterministic algorithms by setting the environment variable \texttt{CUBLAS\_WORKSPACE\_CONFIG} according to the API Reference Guide of cuBLAS \cite{Nvid.CUDA}. However, we weren't able to perform any operations on the GPU if we set this variable. 
+	Since some of the models themselves already exhibited variance, we decided to run the experiments on a CPU and not a GPU to clearly distinguish variance that emerges from GPU operations from the variance inherent to the model architecture.
+	In the experiments with Stable Baselines 3, we however still observed small variances in the learning curves of agents with the exact same configuration. However, this variance was small and eventually does not perturb our results.
 	\section{Experiment Results}
+	\subsection{PPO}
+	\begin{figure}[H]
+		\begin{center}
+		\begin{subfigure}{0.48\textwidth}
+			\includegraphics[width=\linewidth]{ppo_figures/custom_env_results.png}
+			\caption{Project-custom rewards}
+			\label{fig:ppo_rewcust}
+		\end{subfigure}\hfill 
+		\begin{subfigure}{0.48\textwidth}
+		\includegraphics[width=\linewidth]{ppo_figures/default_env_results.png}
+		\caption{Default rewards}
+		\label{fig:ppo_rewdef}
+		\end{subfigure}\\ 
+		\begin{subfigure}{0.48\textwidth}
+		\includegraphics[width=\linewidth]{ppo_figures/combined_env_results.png}
+		\caption{Combined rewards}
+		\label{fig:ppo_rewcomb}
+		\end{subfigure}
+	\end{center}
+		\caption{Training and evaluation rewards of PPO for different reward configurations, namely the custom reward configuration proposed in the course project description, the default reward configuration of the environment, and a combination of both.}
+		\label{fig:ppo_reward}
+	\end{figure}
+	In the custom reward configuration, the agent will only receive any positive signal at the very end of the landing process, that is when a leg touches the ground and the overall landing process was successful. Before, it will only receive negative rewards for activating the main engine. Moreover, there is neither punishment nor reward for using the side engines. The agent actions will therefore obtain two degrees of freedoms on these two actions and result in uncontrolled, randomized behaviour with overwhelming probability.
+	This exacerbates the ability to learn stable successful long-horizon behaviour, as the intermediate steps taken do not directly receive any feedback. Conversely, the default reward configuration provides a dense training signal that rewards the agent for any improvement in the distance between the landing unit and the spacecraft, which quickly steers the agent into the region of interest where he then perceives rich reward experience. As the comparison in Figure \ref{fig:ppo_rewcust} demonstrates, the custom rewards exhibit a huge variance, because the agent lacks reward signals that teach him a fine-granular usage of his engines and will not acquire a stable behaviour. Conversely, the agent that perceives the default rewards converges faster and more stable to successful behaviour (Fig. \ref{fig:ppo_rewdef}), although its variance is only slightly smaller than the variance of the agent with the custom rewards. The quite negative rewards at the first evaluations scale the figure to a far larger range and creates the wrong illusion that the variance decreased drastically. For the combined model where only the positive reward for leg contact was enlarged from 10 to 100, the variance remains similar to the agent with the default rewards (Fig. \ref{fig:ppo_rewcomb}). However, it fails to live up to the average final reward of around 150 of the default reward agent, since it oscillates rather around 110 during the final evaluations. This proves how brittle the reward function can become from small deviations from a fine-tuned superposition and underscores the importance of providing a dense reward signal to stabilise the optimization procedure.
+	For the following, we hence continued with the default reward configuration.
+	
+	\begin{figure}[H]
+		\begin{center}
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{ppo_figures/lr_results_0.01.png}
+				\caption{$\alpha=0.01$}
+				\label{fig:ppo_lr0.01}
+			\end{subfigure}\hfill 
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{ppo_figures/lr_results_0.001.png}
+				\caption{$\alpha=0.001$}
+				\label{fig:ppo_lr0.001}
+			\end{subfigure}\\
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{ppo_figures/lr_results_0.0003.png}
+				\caption{$\alpha=0.0003$}
+				\label{fig:ppo_lr0.0003}
+			\end{subfigure} 
+		\end{center}
+		\caption{Training and evaluation rewards of PPO for different learning rates $\alpha=0.01,0.001,0.0003$.}
+		\label{fig:ppo_lr}
+	\end{figure}
+	The default learning rate of $\alpha=0.0003$ slowly approaches a sound mean reward (Fig. \ref{fig:ppo_lr0.0003}), but interestingly exhibits more variance during training and evaluation than the agent with the slightly larger learning rate of $\alpha=0.001$ (Fig. \ref{fig:ppo_lr0.001}). Originally, we expected the opposite behaviour, since a smaller learning rate should slow down the overall parameter change and hence the change in behaviour. What we did not consider in the beginning is that the behaviour itself can exhibit a large variance in performance due to imperfect actions.
+	We hypothesize that the slightly larger learning rate allows the optimization process to easier escape from local minima and converge faster to stable and successful performance. Especially at the end, both the training and evaluation mean reward achieve an unparalleled stability in a high value range of more than 150 (Fig. \ref{fig:ppo_lr0.001}).
+	On the contrary, the slower parameter changes for $\alpha=0.0003$ might prolong the required training time for culminating in successful behaviour. This reminds us of the importance of choosing the learning rate not too small as it might be less robust to a function landscape with many local minima. On the other hand, Fig. \ref{fig:ppo_lr0.01} illustrates that convergence can not be guaranteed for higher learning rates and in our case eventually leads to divergence. The agent fails to acquire any improvement in the policy and never settles down in a good solution region.
+	We therefore continue our experiments with $\alpha=0.001$.
+	
+	\begin{figure}[H]
+	\begin{center}
+		\begin{subfigure}{0.48\textwidth}
+			\includegraphics[width=\linewidth]{ppo_figures/gamma_results_0.5.png}
+			\caption{$\gamma=0.5$}
+			\label{fig:ppo_gamma0.5}
+		\end{subfigure}\hfill 
+		\begin{subfigure}{0.48\textwidth}
+		\includegraphics[width=\linewidth]{ppo_figures/gamma_results_0.7.png}
+		\caption{$\gamma=0.7$}
+		\label{fig:ppo_gamma0.7}
+		\end{subfigure}\\
+		\begin{subfigure}{0.48\textwidth}
+		\includegraphics[width=\linewidth]{ppo_figures/gamma_results_0.9.png}
+		\caption{$\gamma=0.999$}
+		\label{fig:ppo_gamma0.999}
+		\end{subfigure}
+	\end{center}
+	\caption{Training and evaluation rewards of PPO for different discount rates $\gamma=0.5,0.7,0.999$.}
+	\label{fig:ppo_gamma}
+	\end{figure}
+	
+	To end up stably on the ground, the spacecraft has to go through more than multiple dozens of actions and understand long-term physical relations between the change in position and velocity due to activations of the main and side engines.
+	The default high discount rate of $\gamma=0.999$ implies a quite farsighted agent, which still weighs rewards perceived after 100 steps with a weight of 0.9 and will hence allow the terminal reward signals of successful landing or leg contact to effect actions made far earlier.
+	In general, a sufficiently high discount rate is necessary to allow the agent to understand long-range causations. The agent with this high learning rate has the same configuration as the agent from the earlier Figure \ref{fig:ppo_lr0.001}, but obtains even more stable results due to randomness we could not fix during the training process. On the other hand, an agent with $\gamma=0.7$ will result in a cumulative discount of around 3\% after only 10 steps, while the agent with $\gamma=0.5$ even reaches $0.1$\%. As mentioned before, this prohibits the agent from comprehending the long-term impacts of engine activations on the dynamics of the space craft and hinders him from obtaining stable behaviour as Figures \ref{fig:ppo_gamma0.5} and \ref{fig:ppo_gamma0.7} depict. The discount factor depends both on the reward scale and the usual trajectory horizon and clearly profits from a high value of $\gamma=0.999$, while $\gamma=0.99$ might be a better choice for other environments. 
+	Here, we stick with $\gamma=0.999$.
+	
+	\begin{figure}[H]
+		\begin{center}
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{ppo_figures/cr_results_0.1.png}
+				\caption{$\varepsilon=0.1$}
+				\label{fig:ppo_cr01}
+			\end{subfigure}\hfill 
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{ppo_figures/cr_results_0.3.png}
+				\caption{$\varepsilon=0.3$}
+				\label{fig:ppo_cr03}
+			\end{subfigure}\\ 
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{ppo_figures/cr_results_0.2.png}
+				\caption{$\varepsilon=0.2$}
+				\label{fig:ppo_cr02}
+			\end{subfigure}\
+		\end{center}
+		\caption{Training and evaluation rewards of PPO for different clip rates $\varepsilon=0.1,0.2,0.3$}
+		\label{fig:ppo_cliprate}
+	\end{figure}
+	
+	Finally, we compare the performance of PPO on its salient clip value $\varepsilon$. $\varepsilon=0.2$ was the originally proposed default choice of the authors and proved optimal among our three candidates with regard to variance and convergence rate (Fig. \ref{fig:ppo_cr02}). While the agent still culminated in successful behaviour for $\varepsilon=0.3$, the mean rewards during evaluation clearly depict that the policy parameters oscillate more strongly, which we hypothesize to be attributable to the approximation error of the state distribution $P_{\pi_{\theta'}}$ because of the larger allowed distributional shift (Fig. \ref{fig:ppo_cr03}). On the contrary, the variance and performance of the policy aggravates for a smaller $\varepsilon=0.1$ too (Fig. \ref{fig:ppo_cr01}). We believe that the reason for this might be similar to the results observed for the low learning rate in Figure \ref{fig:ppo_lr0.0003}. The constraint might be so strong that it hinders the agent from escaping from local minima and reaching unseen and more desirable regions in the optimization landscape.
+	\subsection{REINFORCE}
 	\section{Conclusion}
 	\bibliography{references.bib}
 \end{document}

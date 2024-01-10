@@ -1,9 +1,17 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{2}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[affiliates(2023)]{Nvid.CUDA}
+{NVIDIA} Corporation~\& affiliates.
+\newblock {cuBLAS API Reference Guide}.
+\newblock
+  \url{https://docs.nvidia.com/cuda/cublas/index.html#cublasApi_reproducibility},
+  2023.
+\newblock Accessed: 2023-12-20.
 
 \bibitem[Schulman et~al.(2017)Schulman, Wolski, Dhariwal, Radford, and
   Klimov]{schulman2017proximal}

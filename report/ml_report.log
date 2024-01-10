@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.14)  10 JAN 2024 20:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.14)  10 JAN 2024 23:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1144,25 +1144,120 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.captio
 n.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.261 ...fty} A_{\pi_{\theta}}(s_t,a_t) \right],\]
-                                                  ] (ml_report.bbl [6
+l.261 ...fty} A_{\pi_{\theta}}(s_t,a_t) \right].\]
+                                                  ]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
+95.
+
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [6
 pdfTeX warning (ext4): destination with the same identifier (name{figure.captio
 n.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.14 \end{thebibliography}
-                          ]) [7] (ml_report.aux)
+l.297 	\begin{itemize}
+                      ]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
+98.
+
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [7{C:/Users/lukas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc
+}]
+<ppo_figures/custom_env_results.png, id=169, 734.9859pt x 395.3169pt>
+File: ppo_figures/custom_env_results.png Graphic file (type png)
+<use ppo_figures/custom_env_results.png>
+Package pdftex.def Info: ppo_figures/custom_env_results.png  used on input line
+ 361.
+(pdftex.def)             Requested size: 232.17242pt x 124.87534pt.
+<ppo_figures/default_env_results.png, id=171, 741.4902pt x 395.3169pt>
+File: ppo_figures/default_env_results.png Graphic file (type png)
+<use ppo_figures/default_env_results.png>
+Package pdftex.def Info: ppo_figures/default_env_results.png  used on input lin
+e 366.
+(pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
+<ppo_figures/combined_env_results.png, id=172, 734.9859pt x 395.3169pt>
+File: ppo_figures/combined_env_results.png Graphic file (type png)
+<use ppo_figures/combined_env_results.png>
+Package pdftex.def Info: ppo_figures/combined_env_results.png  used on input li
+ne 371.
+(pdftex.def)             Requested size: 232.17242pt x 124.87534pt.
+ [8]
+<ppo_figures/lr_results_0.01.png, id=181, 741.4902pt x 395.3169pt>
+File: ppo_figures/lr_results_0.01.png Graphic file (type png)
+<use ppo_figures/lr_results_0.01.png>
+Package pdftex.def Info: ppo_figures/lr_results_0.01.png  used on input line 38
+6.
+(pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
+<ppo_figures/lr_results_0.001.png, id=182, 773.89125pt x 411.03563pt>
+File: ppo_figures/lr_results_0.001.png Graphic file (type png)
+<use ppo_figures/lr_results_0.001.png>
+Package pdftex.def Info: ppo_figures/lr_results_0.001.png  used on input line 3
+91.
+(pdftex.def)             Requested size: 232.17242pt x 123.31163pt.
+<ppo_figures/lr_results_0.0003.png, id=183, 741.4902pt x 395.3169pt>
+File: ppo_figures/lr_results_0.0003.png Graphic file (type png)
+<use ppo_figures/lr_results_0.0003.png>
+Package pdftex.def Info: ppo_figures/lr_results_0.0003.png  used on input line 
+396.
+(pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
+
+[9 <./ppo_figures/custom_env_results.png> <./ppo_figures/default_env_results.pn
+g> <./ppo_figures/combined_env_results.png>]
+<ppo_figures/gamma_results_0.5.png, id=196, 749.4399pt x 395.3169pt>
+File: ppo_figures/gamma_results_0.5.png Graphic file (type png)
+<use ppo_figures/gamma_results_0.5.png>
+Package pdftex.def Info: ppo_figures/gamma_results_0.5.png  used on input line 
+412.
+(pdftex.def)             Requested size: 232.17242pt x 122.46251pt.
+<ppo_figures/gamma_results_0.7.png, id=197, 748.7172pt x 395.3169pt>
+File: ppo_figures/gamma_results_0.7.png Graphic file (type png)
+<use ppo_figures/gamma_results_0.7.png>
+Package pdftex.def Info: ppo_figures/gamma_results_0.7.png  used on input line 
+417.
+(pdftex.def)             Requested size: 232.17242pt x 122.58316pt.
+<ppo_figures/gamma_results_0.9.png, id=198, 741.4902pt x 395.3169pt>
+File: ppo_figures/gamma_results_0.9.png Graphic file (type png)
+<use ppo_figures/gamma_results_0.9.png>
+Package pdftex.def Info: ppo_figures/gamma_results_0.9.png  used on input line 
+422.
+(pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
+ [10 <./ppo_figures/lr_results_0.01.png> <./ppo_figures/lr_results_0.001.png> <
+./ppo_figures/lr_results_0.0003.png>]
+<ppo_figures/cr_results_0.1.png, id=210, 734.9859pt x 395.3169pt>
+File: ppo_figures/cr_results_0.1.png Graphic file (type png)
+<use ppo_figures/cr_results_0.1.png>
+Package pdftex.def Info: ppo_figures/cr_results_0.1.png  used on input line 439
+.
+(pdftex.def)             Requested size: 232.17242pt x 124.87534pt.
+<ppo_figures/cr_results_0.3.png, id=211, 741.4902pt x 395.3169pt>
+File: ppo_figures/cr_results_0.3.png Graphic file (type png)
+<use ppo_figures/cr_results_0.3.png>
+Package pdftex.def Info: ppo_figures/cr_results_0.3.png  used on input line 444
+.
+(pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
+<ppo_figures/cr_results_0.2.png, id=212, 741.4902pt x 395.3169pt>
+File: ppo_figures/cr_results_0.2.png Graphic file (type png)
+<use ppo_figures/cr_results_0.2.png>
+Package pdftex.def Info: ppo_figures/cr_results_0.2.png  used on input line 449
+.
+(pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
+ [11 <./ppo_figures/gamma_results_0.5.png> <./ppo_figures/gamma_results_0.7.png
+> <./ppo_figures/gamma_results_0.9.png>] (ml_report.bbl) [12 <./ppo_figures/cr_
+results_0.1.png> <./ppo_figures/cr_results_0.3.png> <./ppo_figures/cr_results_0
+.2.png>] (ml_report.aux)
 Package rerunfilecheck Info: File `ml_report.out' has not changed.
-(rerunfilecheck)             Checksum: AE134BBF9A359F0F043140D1B42D15A5;1672.
+(rerunfilecheck)             Checksum: AE372A798AD5CF94313691D5E9138B28;2725.
  ) 
 Here is how much of TeX's memory you used:
- 29699 strings out of 476331
- 573711 string characters out of 5787765
+ 29956 strings out of 476331
+ 580046 string characters out of 5787765
  1873660 words of memory out of 5000000
- 49580 multiletter control sequences out of 15000+600000
- 604078 words of font info for 103 fonts, out of 8000000 for 9000
+ 49795 multiletter control sequences out of 15000+600000
+ 604762 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,12n,104p,884b,943s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,104p,1705b,943s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lukas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
 b><C:/Users/lukas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/lukas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pf
@@ -1182,11 +1277,12 @@ ukas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/l
 ukas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/lu
 kas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/luk
 as/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/luka
+s/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/luka
 s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
 
-Output written on ml_report.pdf (7 pages, 357430 bytes).
+Output written on ml_report.pdf (12 pages, 1742263 bytes).
 PDF statistics:
- 236 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 352 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 500000)
+ 233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
