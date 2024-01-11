@@ -141,6 +141,10 @@
 \begin{document}
 	\maketitle
 	\section{Introduction}
+	The ability of humans to understand long-range causations between their behaviour and the environment and persuade goals that lie far ahead in a future is a key component to plan to move and manipulate in our world.
+	To teach robots such a behaviour, we often formalise this problem in the field of Reinforcement Learning. Although is field of research achieved much attention in the last decades, it still remains a hard challenge to allow robots to abstract from specific experiences and achieve general navigation and manipulation capabilities. In this project report, we study some popular policy optimization methods that are widely used in practice to teach robots such behaviour.
+	To that end, we first formally introduce the problem formulation of Reinforcement Learning and theoretically derive the core approaches. Afterwards, we motivate the development of actor-critic, policy gradient, and policy optimization methods and explain their functioning.
+	We will then conduct experiments with these algorithms on OpenAI's LunarLander simulation environment to investigate how strongly the performance of these algorithms depends on each of the hyperparameters and conclude with an analysis of our results. The implementations, figures, and evaluation videos are publicly accessible at \url{https://github.com/lukas-ruettgers/lunar-lander}.
 	\section{Reinforcement Learning}
 	\subsection{Problem Formulation}
 	Reinforcement Learning addresses the problem of learning successful behaviour in an unknown environment. This environment is usually modeled as a stochastic process, namely a \textit{Markov Decision process} (MDP) $(S,A,r,P,\gamma)$. Every process-relevant detail of the environment is included in a state vector $s\in S$, where $S$ is the set of all possible states the environment can be in. The agent has a state-independent set of actions $a\in A$ that describe his options to influence or interact with the environment. The current state $s$ of the environment is usually affected by the action $a$ of the agent, else the action would be useless. 
@@ -296,18 +300,24 @@
 	For PPO, we alternate over
 	\begin{itemize}
 		\item three different reward configurations, which mainly deviate in sparsity,
-		\item the learning rates $\alpha=0.01,0.001,0.0003$ to validate whether faster rates than the low default learning rate of $3e-4$ still achieve stable training progress,
+		\item the learning rates $\alpha=0.01,0.001,0.0003$ to validate whether faster rates than the low default learning rate of $0.0003$ still achieve stable training progress,
 		\item the discount factors $\gamma=0.5,0.7,0.999$ to compare far more shortsighted with the default, quite longsighted agent with $\gamma=0.999$, and
 		\item the clip offsets $\varepsilon=0.1,0.2,0.3$ as suggested by the original paper \cite{schulman2017proximal} to impose different restrictions on the policy's freedom to profit from its advantages.
 	\end{itemize}
 	The experiments for PPO were not done in parallel, but sequentially, and the best hyperparameters in each earlier experiment were fixed for the subsequent experiments.
-	For REINFORCE, we alternate over
+	Since we already covered the discount factor in the experiments for PPO and did not expect to obtain new enriching results from repeating another comparison of different discount rates, we choose to focus on other hyperparameters in the experiments conducted with REINFORCE.
+	Because the experiments on PPO and REINFORCE are not done in parallel but sequentially, we were able to integrate knowledge from the PPO experiments into the experiment setup of the REINFORCE agent.
+	Specifically, we observed that the environment sometimes does not provide the termination signal although the spacecraft landed on the goal area. The agent then hovers around by activating the side engines until the state is eventually accepted by the environment as goal state.
+	For that reason, we capped the maximum trajectory length on our own and defined a hyperparameter \texttt{time\_threshold}, which we will refer to as $T$ in the following. After $T$ steps, the run will be regarded as terminated even if the environment does not set the \texttt{is\_done} variable to True. If the agent did not finish its execution after this number of time steps, it also received a final negative reward of -50 to encourage him to avoid situations that may evoke such bugs in the environment.
+	To assess how such an early termination influenced the environment, we consider different values in the experiments too. We were concerned to not provide our agent a too strong incentive to quickly end the execution, because erratic crashes would then become more acceptable in comparison to the more careful and long-horizon interplay of engine activations that is required to successfully approach and land in the goal area.
+	Over and above, the learning rate that proved most successful in the PPO optimization failed completely to provide a stable and convergent parameter update in the REINFORCE case. For that reason, we considered the choice of an adequate learning rate again an open question for REINFORCE, which makes sense since the network architectures and limitations are of different nature.
+	As smaller learning rates were suggested from reference implementations, we considered learning rates in the $10^{-4}$ domain.
+	For REINFORCE, we hence alternate over
 	% TODO: Specific experiment values.
 	\begin{itemize}
-		\item the Generalized Advantage Estimation discount $\lambda$
-		\item the learning rate $\alpha$,
-		\item the discount factor $\gamma$ to compare shortsighted with more longsighted agents, and
-		\item the batch size $N$
+		\item the learning rates $\alpha=0.0001,0.0003,0.0005$,
+		\item the hidden layer size $H$ of the two hidden layers in the MLP to get a feeling of the required model size to achieve a good performance in the environment, and
+		\item the early termination threshold $T=20,30,40$.
 	\end{itemize}
 	\subsection{LunarLander Environment}
 	The lunar environment simulates the problem of landing a spacecraft on a platform. The observation space $(q_x,q_y,\vartheta,v_x,v_y,\omega,\ell,r)$ is quasi-continuous and comprises both the robots coordinates, azimuthal angle, linear and angular velocities and two boolean variables that reflect if the left or right leg contact point touched the land.
@@ -348,7 +358,9 @@
 	The implementation is available in a Jupyter Notebook which was supplied along with the report.
 	The CustomCallback subclass of the BaseCallback class provides the mean rewards in training and evaluation mode for each episode, which were collected and finally plotted together.
 	\subsubsection{REINFORCE}
-	% TODO: Implementation Details.
+	We implemented the REINFORCE algorithm using Tensorflow and chose the policy network as a 3-layer MLP with two hidden layers of default size 256 each. We employed ReLU as activation function in each neuron.
+	Instead of predicting a Gaussian distribution as in the example provided above, which applies to the more general case of continuous action spaces, our environment only included four actions. We hence decided to let the network predict a categorical distribution over the four possible actions by applying a softmax layer at the output layer of size 4.
+	We fixed optimized the network with Adam and a learning rate of $\alpha=0.0002$. Moreover, we decided to fix discount factor $\gamma=0.99$, as it proves successful in many environments, and chose a batch size of $N=5000$ episodes.
 	\subsubsection{Reproducibility}
 	To ensure the reproducibility of the experiment results, all pseudorandom number generators from torch, numpy or the internal random package were fixed. Moreover, we tried to force torch and CUDA to use only deterministic algorithms by setting the environment variable \texttt{CUBLAS\_WORKSPACE\_CONFIG} according to the API Reference Guide of cuBLAS \cite{Nvid.CUDA}. However, we weren't able to perform any operations on the GPU if we set this variable. 
 	Since some of the models themselves already exhibited variance, we decided to run the experiments on a CPU and not a GPU to clearly distinguish variance that emerges from GPU operations from the variance inherent to the model architecture.
@@ -438,6 +450,7 @@
 	In general, a sufficiently high discount rate is necessary to allow the agent to understand long-range causations. The agent with this high learning rate has the same configuration as the agent from the earlier Figure \ref{fig:ppo_lr0.001}, but obtains even more stable results due to randomness we could not fix during the training process. On the other hand, an agent with $\gamma=0.7$ will result in a cumulative discount of around 3\% after only 10 steps, while the agent with $\gamma=0.5$ even reaches $0.1$\%. As mentioned before, this prohibits the agent from comprehending the long-term impacts of engine activations on the dynamics of the space craft and hinders him from obtaining stable behaviour as Figures \ref{fig:ppo_gamma0.5} and \ref{fig:ppo_gamma0.7} depict. The discount factor depends both on the reward scale and the usual trajectory horizon and clearly profits from a high value of $\gamma=0.999$, while $\gamma=0.99$ might be a better choice for other environments. 
 	Here, we stick with $\gamma=0.999$.
 	
+	Finally, we compared the performance of PPO on its salient clip value $\varepsilon$. $\varepsilon=0.2$ was the originally proposed default choice of the authors and proved optimal among our three candidates with regard to variance and convergence rate (Fig. \ref{fig:ppo_cr02}). While the agent still culminated in successful behaviour for $\varepsilon=0.3$, the mean rewards during evaluation clearly depict that the policy parameters oscillate more strongly, which we hypothesize to be attributable to the approximation error of the state distribution $P_{\pi_{\theta'}}$ because of the larger allowed distributional shift (Fig. \ref{fig:ppo_cr03}). On the contrary, the variance and performance of the policy aggravates for a smaller $\varepsilon=0.1$ too (Fig. \ref{fig:ppo_cr01}). We believe that the reason for this might be similar to the results observed for the low learning rate in Figure \ref{fig:ppo_lr0.0003}. The constraint might be so strong that it hinders the agent from escaping from local minima and reaching unseen and more desirable regions in the optimization landscape.
 	\begin{figure}[H]
 		\begin{center}
 			\begin{subfigure}{0.48\textwidth}
@@ -460,7 +473,6 @@
 		\label{fig:ppo_cliprate}
 	\end{figure}
 	
-	Finally, we compare the performance of PPO on its salient clip value $\varepsilon$. $\varepsilon=0.2$ was the originally proposed default choice of the authors and proved optimal among our three candidates with regard to variance and convergence rate (Fig. \ref{fig:ppo_cr02}). While the agent still culminated in successful behaviour for $\varepsilon=0.3$, the mean rewards during evaluation clearly depict that the policy parameters oscillate more strongly, which we hypothesize to be attributable to the approximation error of the state distribution $P_{\pi_{\theta'}}$ because of the larger allowed distributional shift (Fig. \ref{fig:ppo_cr03}). On the contrary, the variance and performance of the policy aggravates for a smaller $\varepsilon=0.1$ too (Fig. \ref{fig:ppo_cr01}). We believe that the reason for this might be similar to the results observed for the low learning rate in Figure \ref{fig:ppo_lr0.0003}. The constraint might be so strong that it hinders the agent from escaping from local minima and reaching unseen and more desirable regions in the optimization landscape.
 	\subsection{REINFORCE}
 	\section{Conclusion}
 	\bibliography{references.bib}
