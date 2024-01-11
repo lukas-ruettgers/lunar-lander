@@ -352,7 +352,7 @@
 	\subsubsection{Reproducibility}
 	To ensure the reproducibility of the experiment results, all pseudorandom number generators from torch, numpy or the internal random package were fixed. Moreover, we tried to force torch and CUDA to use only deterministic algorithms by setting the environment variable \texttt{CUBLAS\_WORKSPACE\_CONFIG} according to the API Reference Guide of cuBLAS \cite{Nvid.CUDA}. However, we weren't able to perform any operations on the GPU if we set this variable. 
 	Since some of the models themselves already exhibited variance, we decided to run the experiments on a CPU and not a GPU to clearly distinguish variance that emerges from GPU operations from the variance inherent to the model architecture.
-	In the experiments with Stable Baselines 3, we however still observed small variances in the learning curves of agents with the exact same configuration. However, this variance was small and eventually does not perturb our results.
+	In the experiments with Stable Baselines 3, we however still observed small variances in the learning curves of agents with the exact same configuration. However, this variance was small and eventually does not perturb the statistical significance of our results.
 	\section{Experiment Results}
 	\subsection{PPO}
 	\begin{figure}[H]
