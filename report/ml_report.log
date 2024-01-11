@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.14)  11 JAN 2024 10:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.14)  11 JAN 2024 14:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1169,19 +1169,19 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 File: ppo_figures/custom_env_results.png Graphic file (type png)
 <use ppo_figures/custom_env_results.png>
 Package pdftex.def Info: ppo_figures/custom_env_results.png  used on input line
- 373.
+ 374.
 (pdftex.def)             Requested size: 232.17242pt x 124.87534pt.
 <ppo_figures/default_env_results.png, id=176, 741.4902pt x 395.3169pt>
 File: ppo_figures/default_env_results.png Graphic file (type png)
 <use ppo_figures/default_env_results.png>
 Package pdftex.def Info: ppo_figures/default_env_results.png  used on input lin
-e 378.
+e 379.
 (pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
 <ppo_figures/combined_env_results.png, id=177, 734.9859pt x 395.3169pt>
 File: ppo_figures/combined_env_results.png Graphic file (type png)
 <use ppo_figures/combined_env_results.png>
 Package pdftex.def Info: ppo_figures/combined_env_results.png  used on input li
-ne 383.
+ne 384.
 (pdftex.def)             Requested size: 232.17242pt x 124.87534pt.
 
 [9] [10 <./ppo_figures/custom_env_results.png> <./ppo_figures/default_env_resul
@@ -1190,19 +1190,19 @@ ts.png> <./ppo_figures/combined_env_results.png>]
 File: ppo_figures/lr_results_0.01.png Graphic file (type png)
 <use ppo_figures/lr_results_0.01.png>
 Package pdftex.def Info: ppo_figures/lr_results_0.01.png  used on input line 40
-3.
+4.
 (pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
 <ppo_figures/lr_results_0.001.png, id=195, 773.89125pt x 411.03563pt>
 File: ppo_figures/lr_results_0.001.png Graphic file (type png)
 <use ppo_figures/lr_results_0.001.png>
 Package pdftex.def Info: ppo_figures/lr_results_0.001.png  used on input line 4
-08.
+09.
 (pdftex.def)             Requested size: 232.17242pt x 123.31163pt.
 <ppo_figures/lr_results_0.0003.png, id=196, 741.4902pt x 395.3169pt>
 File: ppo_figures/lr_results_0.0003.png Graphic file (type png)
 <use ppo_figures/lr_results_0.0003.png>
 Package pdftex.def Info: ppo_figures/lr_results_0.0003.png  used on input line 
-413.
+414.
 (pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
  [11 <./ppo_figures/lr_results_0.01.png> <./ppo_figures/lr_results_0.001.png> <
 ./ppo_figures/lr_results_0.0003.png>]
@@ -1210,36 +1210,36 @@ Package pdftex.def Info: ppo_figures/lr_results_0.0003.png  used on input line
 File: ppo_figures/gamma_results_0.5.png Graphic file (type png)
 <use ppo_figures/gamma_results_0.5.png>
 Package pdftex.def Info: ppo_figures/gamma_results_0.5.png  used on input line 
-429.
+430.
 (pdftex.def)             Requested size: 232.17242pt x 122.46251pt.
 <ppo_figures/gamma_results_0.7.png, id=210, 748.7172pt x 395.3169pt>
 File: ppo_figures/gamma_results_0.7.png Graphic file (type png)
 <use ppo_figures/gamma_results_0.7.png>
 Package pdftex.def Info: ppo_figures/gamma_results_0.7.png  used on input line 
-434.
+435.
 (pdftex.def)             Requested size: 232.17242pt x 122.58316pt.
 <ppo_figures/gamma_results_0.9.png, id=211, 741.4902pt x 395.3169pt>
 File: ppo_figures/gamma_results_0.9.png Graphic file (type png)
 <use ppo_figures/gamma_results_0.9.png>
 Package pdftex.def Info: ppo_figures/gamma_results_0.9.png  used on input line 
-439.
+440.
 (pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
 <ppo_figures/cr_results_0.1.png, id=219, 734.9859pt x 395.3169pt>
 File: ppo_figures/cr_results_0.1.png Graphic file (type png)
 <use ppo_figures/cr_results_0.1.png>
-Package pdftex.def Info: ppo_figures/cr_results_0.1.png  used on input line 457
+Package pdftex.def Info: ppo_figures/cr_results_0.1.png  used on input line 458
 .
 (pdftex.def)             Requested size: 232.17242pt x 124.87534pt.
 <ppo_figures/cr_results_0.3.png, id=220, 741.4902pt x 395.3169pt>
 File: ppo_figures/cr_results_0.3.png Graphic file (type png)
 <use ppo_figures/cr_results_0.3.png>
-Package pdftex.def Info: ppo_figures/cr_results_0.3.png  used on input line 462
+Package pdftex.def Info: ppo_figures/cr_results_0.3.png  used on input line 463
 .
 (pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
 <ppo_figures/cr_results_0.2.png, id=221, 741.4902pt x 395.3169pt>
 File: ppo_figures/cr_results_0.2.png Graphic file (type png)
 <use ppo_figures/cr_results_0.2.png>
-Package pdftex.def Info: ppo_figures/cr_results_0.2.png  used on input line 467
+Package pdftex.def Info: ppo_figures/cr_results_0.2.png  used on input line 468
 .
 (pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
  [12 <./ppo_figures/gamma_results_0.5.png> <./ppo_figures/gamma_results_0.7.png
@@ -1279,7 +1279,7 @@ as/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/luka
 s/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/luka
 s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
 
-Output written on ml_report.pdf (13 pages, 1748420 bytes).
+Output written on ml_report.pdf (13 pages, 1748297 bytes).
 PDF statistics:
  358 PDF objects out of 1000 (max. 8388607)
  63 named destinations out of 1000 (max. 500000)
