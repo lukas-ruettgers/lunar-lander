@@ -1,0 +1,7 @@
+Round:0 score:59.9756825811032
+Round:1 score:244.59669568827798
+Round:2 score:268.98465436870543
+Round:3 score:257.7938580417802
+Round:4 score:246.5006790096407
+
+success (landed within flags): round 1, 2, 4
