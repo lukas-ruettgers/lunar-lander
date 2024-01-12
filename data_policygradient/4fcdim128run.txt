@@ -1,0 +1,2165 @@
+Episode:1 score:-123.86 avgscore:-123.86 highscore:-123.86 time:1.25
+Episode:2 score:-49.70 avgscore:-86.78 highscore:-49.70 time:0.57
+Episode:3 score:-474.08 avgscore:-215.88 highscore:-49.70 time:0.89
+Episode:4 score:-170.95 avgscore:-204.65 highscore:-49.70 time:0.97
+Episode:5 score:-350.01 avgscore:-233.72 highscore:-49.70 time:1.02
+Episode:6 score:-114.34 avgscore:-213.82 highscore:-49.70 time:0.77
+Episode:7 score:-139.36 avgscore:-203.19 highscore:-49.70 time:0.86
+Episode:8 score:-114.36 avgscore:-192.08 highscore:-49.70 time:0.68
+Episode:9 score:-124.31 avgscore:-184.55 highscore:-49.70 time:0.73
+Episode:10 score:-343.84 avgscore:-200.48 highscore:-49.70 time:0.96
+Episode:11 score:-316.49 avgscore:-211.03 highscore:-49.70 time:0.89
+Episode:12 score:-346.37 avgscore:-222.31 highscore:-49.70 time:0.86
+Episode:13 score:-120.37 avgscore:-214.46 highscore:-49.70 time:0.82
+Episode:14 score:-117.15 avgscore:-207.51 highscore:-49.70 time:0.62
+Episode:15 score:-153.53 avgscore:-203.91 highscore:-49.70 time:0.83
+Episode:16 score:-105.56 avgscore:-197.77 highscore:-49.70 time:0.88
+Episode:17 score:-272.86 avgscore:-202.18 highscore:-49.70 time:1.23
+Episode:18 score:-116.21 avgscore:-197.41 highscore:-49.70 time:0.86
+Episode:19 score:-129.65 avgscore:-193.84 highscore:-49.70 time:0.83
+Episode:20 score:-79.49 avgscore:-188.12 highscore:-49.70 time:0.56
+Episode:21 score:-87.17 avgscore:-183.32 highscore:-49.70 time:0.70
+Episode:22 score:-74.00 avgscore:-178.35 highscore:-49.70 time:0.52
+Episode:23 score:-341.42 avgscore:-185.44 highscore:-49.70 time:1.04
+Episode:24 score:-137.91 avgscore:-183.46 highscore:-49.70 time:0.69
+Episode:25 score:-82.45 avgscore:-179.42 highscore:-49.70 time:0.60
+Episode:26 score:-352.69 avgscore:-186.08 highscore:-49.70 time:0.88
+Episode:27 score:-86.58 avgscore:-182.40 highscore:-49.70 time:0.94
+Episode:28 score:-142.49 avgscore:-180.97 highscore:-49.70 time:0.71
+Episode:29 score:-122.66 avgscore:-178.96 highscore:-49.70 time:0.82
+Episode:30 score:-118.47 avgscore:-176.94 highscore:-49.70 time:1.52
+Episode:31 score:-113.02 avgscore:-174.88 highscore:-49.70 time:0.81
+Episode:32 score:-329.86 avgscore:-179.73 highscore:-49.70 time:0.74
+Episode:33 score:-432.11 avgscore:-187.37 highscore:-49.70 time:0.91
+Episode:34 score:-150.74 avgscore:-186.30 highscore:-49.70 time:1.12
+Episode:35 score:-86.40 avgscore:-183.44 highscore:-49.70 time:0.62
+Episode:36 score:-100.74 avgscore:-181.14 highscore:-49.70 time:0.93
+Episode:37 score:-76.44 avgscore:-178.31 highscore:-49.70 time:0.79
+Episode:38 score:-180.57 avgscore:-178.37 highscore:-49.70 time:0.74
+Episode:39 score:-90.31 avgscore:-176.12 highscore:-49.70 time:0.59
+Episode:40 score:-138.04 avgscore:-175.16 highscore:-49.70 time:1.04
+Episode:41 score:-129.10 avgscore:-174.04 highscore:-49.70 time:0.61
+Episode:42 score:-109.40 avgscore:-172.50 highscore:-49.70 time:0.53
+Episode:43 score:-275.17 avgscore:-174.89 highscore:-49.70 time:0.68
+Episode:44 score:9.31 avgscore:-170.70 highscore:9.31 time:1.16
+Episode:45 score:-133.09 avgscore:-169.87 highscore:9.31 time:0.80
+Episode:46 score:-171.79 avgscore:-169.91 highscore:9.31 time:0.99
+Episode:47 score:-86.62 avgscore:-168.14 highscore:9.31 time:0.51
+Episode:48 score:-74.52 avgscore:-166.19 highscore:9.31 time:0.86
+Episode:49 score:-65.70 avgscore:-164.14 highscore:9.31 time:0.73
+Episode:50 score:-92.59 avgscore:-162.70 highscore:9.31 time:0.57
+Episode:51 score:-74.89 avgscore:-161.73 highscore:9.31 time:0.61
+Episode:52 score:-276.95 avgscore:-166.27 highscore:9.31 time:0.81
+Episode:53 score:-273.95 avgscore:-162.27 highscore:9.31 time:1.22
+Episode:54 score:-167.97 avgscore:-162.21 highscore:9.31 time:0.87
+Episode:55 score:-259.34 avgscore:-160.39 highscore:9.31 time:0.79
+Episode:56 score:-241.84 avgscore:-162.94 highscore:9.31 time:0.68
+Episode:57 score:-267.41 avgscore:-165.51 highscore:9.31 time:1.04
+Episode:58 score:-478.08 avgscore:-172.78 highscore:9.31 time:0.92
+Episode:59 score:-45.81 avgscore:-171.21 highscore:9.31 time:1.36
+Episode:60 score:-88.57 avgscore:-166.10 highscore:9.31 time:0.65
+Episode:61 score:-169.42 avgscore:-163.16 highscore:9.31 time:1.01
+Episode:62 score:-65.62 avgscore:-157.55 highscore:9.31 time:0.65
+Episode:63 score:-119.93 avgscore:-157.54 highscore:9.31 time:0.93
+Episode:64 score:-112.00 avgscore:-157.44 highscore:9.31 time:0.56
+Episode:65 score:-193.42 avgscore:-158.23 highscore:9.31 time:0.94
+Episode:66 score:-105.15 avgscore:-158.23 highscore:9.31 time:1.28
+Episode:67 score:-118.07 avgscore:-155.13 highscore:9.31 time:0.84
+Episode:68 score:-89.56 avgscore:-154.60 highscore:9.31 time:1.00
+Episode:69 score:-111.76 avgscore:-154.24 highscore:9.31 time:0.75
+Episode:70 score:-76.26 avgscore:-154.18 highscore:9.31 time:0.54
+Episode:71 score:-40.27 avgscore:-153.24 highscore:9.31 time:0.84
+Episode:72 score:-86.36 avgscore:-153.48 highscore:9.31 time:0.76
+Episode:73 score:-355.66 avgscore:-153.77 highscore:9.31 time:0.99
+Episode:74 score:-139.81 avgscore:-153.81 highscore:9.31 time:0.54
+Episode:75 score:-87.36 avgscore:-153.91 highscore:9.31 time:1.11
+Episode:76 score:-80.36 avgscore:-148.46 highscore:9.31 time:0.69
+Episode:77 score:-111.64 avgscore:-148.96 highscore:9.31 time:0.90
+Episode:78 score:-72.65 avgscore:-147.56 highscore:9.31 time:1.22
+Episode:79 score:-157.45 avgscore:-148.26 highscore:9.31 time:1.03
+Episode:80 score:-363.05 avgscore:-153.15 highscore:9.31 time:1.04
+Episode:81 score:-221.96 avgscore:-155.33 highscore:9.31 time:0.92
+Episode:82 score:-255.67 avgscore:-153.85 highscore:9.31 time:1.11
+Episode:83 score:-146.73 avgscore:-148.14 highscore:9.31 time:0.75
+Episode:84 score:-83.01 avgscore:-146.78 highscore:9.31 time:0.75
+Episode:85 score:-226.97 avgscore:-149.59 highscore:9.31 time:0.72
+Episode:86 score:-109.40 avgscore:-149.77 highscore:9.31 time:0.74
+Episode:87 score:-118.21 avgscore:-150.60 highscore:9.31 time:0.68
+Episode:88 score:-96.12 avgscore:-148.91 highscore:9.31 time:1.06
+Episode:89 score:-302.07 avgscore:-153.15 highscore:9.31 time:0.84
+Episode:90 score:-144.97 avgscore:-153.29 highscore:9.31 time:0.68
+Episode:91 score:-82.63 avgscore:-152.36 highscore:9.31 time:0.66
+Episode:92 score:-180.93 avgscore:-153.79 highscore:9.31 time:0.91
+Episode:93 score:-72.11 avgscore:-149.73 highscore:9.31 time:1.29
+Episode:94 score:-48.47 avgscore:-150.88 highscore:9.31 time:0.70
+Episode:95 score:-225.87 avgscore:-152.74 highscore:9.31 time:1.03
+Episode:96 score:-138.94 avgscore:-152.08 highscore:9.31 time:0.65
+Episode:97 score:-69.24 avgscore:-151.73 highscore:9.31 time:0.60
+Episode:98 score:-166.90 avgscore:-153.58 highscore:9.31 time:0.83
+Episode:99 score:-73.68 avgscore:-153.74 highscore:9.31 time:1.01
+Episode:100 score:-119.01 avgscore:-154.27 highscore:9.31 time:0.82
+
+Evaluation at episode 100
+Evaluation Episode:1 score:-192.24656840714795
+Evaluation Episode:2 score:-144.14789599488523
+Evaluation Episode:3 score:-164.54387131391394
+Evaluation Episode:4 score:-59.723089003765615
+Evaluation Episode:5 score:-71.31305461844815
+Evaluation Episode:6 score:-162.09744225765058
+Evaluation Episode:7 score:-226.18596600794808
+Evaluation Episode:8 score:-187.16448017643438
+Evaluation Episode:9 score:-85.7364348979959
+Evaluation Episode:10 score:-50.23500035212925
+Evaluation at episode 100 average evaluation score:-134.33938030303187
+
+Episode:101 score:-179.96 avgscore:-156.37 highscore:9.31 time:5.63
+Episode:102 score:-186.23 avgscore:-154.56 highscore:9.31 time:0.81
+Episode:103 score:-77.70 avgscore:-150.63 highscore:9.31 time:0.53
+Episode:104 score:-126.68 avgscore:-149.81 highscore:9.31 time:0.78
+Episode:105 score:-86.24 avgscore:-146.34 highscore:9.31 time:0.63
+Episode:106 score:-410.85 avgscore:-149.72 highscore:9.31 time:0.95
+Episode:107 score:-66.67 avgscore:-145.71 highscore:9.31 time:1.01
+Episode:108 score:-103.06 avgscore:-138.21 highscore:9.31 time:1.04
+Episode:109 score:-279.57 avgscore:-142.88 highscore:9.31 time:0.89
+Episode:110 score:-35.22 avgscore:-141.82 highscore:9.31 time:0.64
+Episode:111 score:-285.06 avgscore:-144.13 highscore:9.31 time:1.00
+Episode:112 score:-197.72 avgscore:-146.77 highscore:9.31 time:0.96
+Episode:113 score:-273.56 avgscore:-149.84 highscore:9.31 time:1.18
+Episode:114 score:-52.84 avgscore:-148.66 highscore:9.31 time:0.63
+Episode:115 score:-91.06 avgscore:-146.61 highscore:9.31 time:0.67
+Episode:116 score:-139.12 avgscore:-147.29 highscore:9.31 time:0.72
+Episode:117 score:-124.95 avgscore:-147.43 highscore:9.31 time:0.85
+Episode:118 score:-84.33 avgscore:-147.33 highscore:9.31 time:1.09
+Episode:119 score:-189.34 avgscore:-148.88 highscore:9.31 time:1.20
+Episode:120 score:-208.45 avgscore:-151.52 highscore:9.31 time:0.76
+Episode:121 score:-123.24 avgscore:-153.18 highscore:9.31 time:0.86
+Episode:122 score:-93.29 avgscore:-153.32 highscore:9.31 time:0.64
+Episode:123 score:-221.30 avgscore:-150.63 highscore:9.31 time:0.98
+Episode:124 score:-104.83 avgscore:-149.93 highscore:9.31 time:0.60
+Episode:125 score:-107.63 avgscore:-150.34 highscore:9.31 time:0.57
+Episode:126 score:-110.80 avgscore:-150.95 highscore:9.31 time:0.80
+Episode:127 score:-210.19 avgscore:-152.92 highscore:9.31 time:0.87
+Episode:128 score:-105.89 avgscore:-153.58 highscore:9.31 time:0.95
+Episode:129 score:-83.55 avgscore:-152.11 highscore:9.31 time:0.81
+Episode:130 score:-109.22 avgscore:-147.03 highscore:9.31 time:0.86
+Episode:131 score:-131.06 avgscore:-145.21 highscore:9.31 time:1.31
+Episode:132 score:-252.17 avgscore:-145.14 highscore:9.31 time:0.76
+Episode:133 score:-333.93 avgscore:-148.88 highscore:9.31 time:1.12
+Episode:134 score:-100.98 avgscore:-149.24 highscore:9.31 time:0.76
+Episode:135 score:-73.02 avgscore:-146.16 highscore:9.31 time:0.83
+Episode:136 score:-138.26 avgscore:-146.74 highscore:9.31 time:0.97
+Episode:137 score:-260.87 avgscore:-149.60 highscore:9.31 time:0.98
+Episode:138 score:-195.70 avgscore:-151.59 highscore:9.31 time:0.94
+Episode:139 score:-89.47 avgscore:-147.34 highscore:9.31 time:0.59
+Episode:140 score:-108.36 avgscore:-146.60 highscore:9.31 time:0.73
+Episode:141 score:-133.71 avgscore:-147.62 highscore:9.31 time:1.33
+Episode:142 score:-76.96 avgscore:-145.55 highscore:9.31 time:0.77
+Episode:143 score:-138.89 avgscore:-146.88 highscore:9.31 time:0.57
+Episode:144 score:-80.59 avgscore:-147.52 highscore:9.31 time:0.71
+Episode:145 score:-104.98 avgscore:-145.11 highscore:9.31 time:0.97
+Episode:146 score:-85.68 avgscore:-144.04 highscore:9.31 time:1.30
+Episode:147 score:-168.12 avgscore:-146.02 highscore:9.31 time:0.82
+Episode:148 score:-389.95 avgscore:-150.48 highscore:9.31 time:0.74
+Episode:149 score:-88.51 avgscore:-150.78 highscore:9.31 time:0.78
+Episode:150 score:-93.57 avgscore:-150.27 highscore:9.31 time:0.83
+Episode:151 score:-93.66 avgscore:-148.54 highscore:9.31 time:0.98
+Episode:152 score:-94.81 avgscore:-146.71 highscore:9.31 time:0.92
+Episode:153 score:-355.53 avgscore:-152.27 highscore:9.31 time:1.11
+Episode:154 score:-102.50 avgscore:-151.79 highscore:9.31 time:0.73
+Episode:155 score:-62.85 avgscore:-151.32 highscore:9.31 time:0.60
+Episode:156 score:-126.95 avgscore:-145.64 highscore:9.31 time:0.76
+Episode:157 score:-6.55 avgscore:-144.44 highscore:9.31 time:1.21
+Episode:158 score:-282.64 avgscore:-148.03 highscore:9.31 time:0.97
+Episode:159 score:-86.35 avgscore:-144.16 highscore:9.31 time:0.74
+Episode:160 score:-114.87 avgscore:-145.76 highscore:9.31 time:0.99
+Episode:161 score:-149.88 avgscore:-143.05 highscore:9.31 time:0.84
+Episode:162 score:-200.94 avgscore:-143.12 highscore:9.31 time:1.02
+Episode:163 score:-72.04 avgscore:-139.09 highscore:9.31 time:0.66
+Episode:164 score:-134.78 avgscore:-140.73 highscore:9.31 time:1.04
+Episode:165 score:-161.54 avgscore:-142.14 highscore:9.31 time:0.87
+Episode:166 score:-122.32 avgscore:-141.80 highscore:9.31 time:0.88
+Episode:167 score:-92.20 avgscore:-141.14 highscore:9.31 time:0.55
+Episode:168 score:-146.84 avgscore:-142.39 highscore:9.31 time:1.17
+Episode:169 score:-211.91 avgscore:-142.85 highscore:9.31 time:0.86
+Episode:170 score:-142.86 avgscore:-141.53 highscore:9.31 time:0.81
+Episode:171 score:-245.00 avgscore:-143.97 highscore:9.31 time:0.54
+Episode:172 score:-75.08 avgscore:-143.61 highscore:9.31 time:0.60
+Episode:173 score:-65.89 avgscore:-140.50 highscore:9.31 time:0.99
+Episode:174 score:-162.76 avgscore:-141.66 highscore:9.31 time:1.00
+Episode:175 score:-93.30 avgscore:-141.37 highscore:9.31 time:0.67
+Episode:176 score:-84.13 avgscore:-140.84 highscore:9.31 time:0.63
+Episode:177 score:-207.36 avgscore:-140.78 highscore:9.31 time:0.82
+Episode:178 score:-184.84 avgscore:-142.36 highscore:9.31 time:0.85
+Episode:179 score:-90.65 avgscore:-142.50 highscore:9.31 time:1.11
+Episode:180 score:-114.82 avgscore:-142.61 highscore:9.31 time:0.88
+Episode:181 score:-163.05 avgscore:-143.25 highscore:9.31 time:1.11
+Episode:182 score:-267.38 avgscore:-143.56 highscore:9.31 time:1.20
+Episode:183 score:-244.93 avgscore:-141.78 highscore:9.31 time:1.06
+Episode:184 score:-267.42 avgscore:-145.10 highscore:9.31 time:1.08
+Episode:185 score:-124.34 avgscore:-146.13 highscore:9.31 time:1.09
+Episode:186 score:-120.40 avgscore:-145.77 highscore:9.31 time:0.76
+Episode:187 score:-63.23 avgscore:-141.82 highscore:9.31 time:0.57
+Episode:188 score:-78.15 avgscore:-139.47 highscore:9.31 time:0.82
+Episode:189 score:-357.51 avgscore:-144.83 highscore:9.31 time:1.46
+Episode:190 score:-184.69 avgscore:-146.36 highscore:9.31 time:0.62
+Episode:191 score:-88.96 avgscore:-145.46 highscore:9.31 time:0.58
+Episode:192 score:-1.92 avgscore:-143.96 highscore:9.31 time:0.82
+Episode:193 score:-88.32 avgscore:-142.95 highscore:9.31 time:0.63
+Episode:194 score:-151.89 avgscore:-144.38 highscore:9.31 time:1.12
+Episode:195 score:-159.57 avgscore:-145.47 highscore:9.31 time:1.33
+Episode:196 score:-390.15 avgscore:-151.56 highscore:9.31 time:1.17
+Episode:197 score:-39.89 avgscore:-148.99 highscore:9.31 time:0.97
+Episode:198 score:-67.66 avgscore:-142.55 highscore:9.31 time:0.56
+Episode:199 score:-161.17 avgscore:-144.00 highscore:9.31 time:0.85
+Episode:200 score:-115.01 avgscore:-144.43 highscore:9.31 time:1.19
+
+Evaluation at episode 200
+Evaluation Episode:1 score:-110.01527471674666
+Evaluation Episode:2 score:-107.49230162871125
+Evaluation Episode:3 score:-142.53502680194205
+Evaluation Episode:4 score:-449.9969643925238
+Evaluation Episode:5 score:-81.61389183596106
+Evaluation Episode:6 score:-97.20870721136437
+Evaluation Episode:7 score:-118.47709743988003
+Evaluation Episode:8 score:-92.5233838617419
+Evaluation Episode:9 score:-63.091889069171174
+Evaluation Episode:10 score:-156.28678633948152
+Evaluation at episode 200 average evaluation score:-141.92413232975235
+
+Episode:201 score:-100.45 avgscore:-144.56 highscore:9.31 time:5.91
+Episode:202 score:-100.34 avgscore:-144.68 highscore:9.31 time:0.69
+Episode:203 score:-95.24 avgscore:-139.47 highscore:9.31 time:0.75
+Episode:204 score:-88.41 avgscore:-139.19 highscore:9.31 time:0.58
+Episode:205 score:-174.59 avgscore:-141.42 highscore:9.31 time:0.73
+Episode:206 score:-96.97 avgscore:-140.82 highscore:9.31 time:0.74
+Episode:207 score:-298.31 avgscore:-146.66 highscore:9.31 time:0.99
+Episode:208 score:-102.80 avgscore:-143.06 highscore:9.31 time:0.87
+Episode:209 score:-91.78 avgscore:-143.17 highscore:9.31 time:0.64
+Episode:210 score:-195.73 avgscore:-144.79 highscore:9.31 time:0.62
+Episode:211 score:-116.66 avgscore:-144.12 highscore:9.31 time:0.74
+Episode:212 score:-110.46 avgscore:-142.31 highscore:9.31 time:0.67
+Episode:213 score:-68.80 avgscore:-142.25 highscore:9.31 time:1.24
+Episode:214 score:-106.24 avgscore:-141.68 highscore:9.31 time:0.70
+Episode:215 score:-110.09 avgscore:-140.65 highscore:9.31 time:0.81
+Episode:216 score:-277.77 avgscore:-143.76 highscore:9.31 time:0.64
+Episode:217 score:-128.45 avgscore:-144.48 highscore:9.31 time:0.62
+Episode:218 score:-105.44 avgscore:-143.65 highscore:9.31 time:0.90
+Episode:219 score:-213.66 avgscore:-143.69 highscore:9.31 time:1.21
+Episode:220 score:-171.77 avgscore:-144.27 highscore:9.31 time:1.20
+Episode:221 score:-115.72 avgscore:-141.68 highscore:9.31 time:0.66
+Episode:222 score:-448.91 avgscore:-149.16 highscore:9.31 time:1.33
+Episode:223 score:-118.30 avgscore:-150.21 highscore:9.31 time:1.06
+Episode:224 score:-254.21 avgscore:-152.04 highscore:9.31 time:0.90
+Episode:225 score:-124.51 avgscore:-152.66 highscore:9.31 time:0.92
+Episode:226 score:-68.34 avgscore:-152.34 highscore:9.31 time:0.60
+Episode:227 score:28.37 avgscore:-147.63 highscore:28.37 time:0.98
+Episode:228 score:-243.17 avgscore:-148.80 highscore:28.37 time:1.05
+Episode:229 score:-9.55 avgscore:-147.17 highscore:28.37 time:0.95
+Episode:230 score:-288.93 avgscore:-150.66 highscore:28.37 time:1.00
+Episode:231 score:-84.23 avgscore:-149.08 highscore:28.37 time:0.54
+Episode:232 score:-289.68 avgscore:-149.53 highscore:28.37 time:1.09
+Episode:233 score:-366.35 avgscore:-151.96 highscore:28.37 time:0.77
+Episode:234 score:-143.49 avgscore:-149.48 highscore:28.37 time:0.71
+Episode:235 score:-163.69 avgscore:-150.26 highscore:28.37 time:0.94
+Episode:236 score:-245.37 avgscore:-152.76 highscore:28.37 time:0.81
+Episode:237 score:-75.32 avgscore:-153.01 highscore:28.37 time:0.56
+Episode:238 score:-146.75 avgscore:-154.38 highscore:28.37 time:0.57
+Episode:239 score:25.49 avgscore:-146.72 highscore:28.37 time:0.79
+Episode:240 score:-125.04 avgscore:-145.52 highscore:28.37 time:0.77
+Episode:241 score:-131.42 avgscore:-146.37 highscore:28.37 time:0.63
+Episode:242 score:-63.04 avgscore:-147.60 highscore:28.37 time:0.76
+Episode:243 score:-115.28 avgscore:-148.13 highscore:28.37 time:0.70
+Episode:244 score:-142.08 avgscore:-147.94 highscore:28.37 time:0.65
+Episode:245 score:-82.29 avgscore:-146.39 highscore:28.37 time:0.79
+Episode:246 score:-94.95 avgscore:-140.49 highscore:28.37 time:0.92
+Episode:247 score:-81.64 avgscore:-141.32 highscore:28.37 time:0.63
+Episode:248 score:-194.99 avgscore:-143.87 highscore:28.37 time:0.80
+Episode:249 score:-168.17 avgscore:-144.01 highscore:28.37 time:1.03
+Episode:250 score:-111.60 avgscore:-143.94 highscore:28.37 time:0.72
+Episode:251 score:-183.75 avgscore:-145.61 highscore:28.37 time:0.91
+Episode:252 score:-80.14 avgscore:-145.20 highscore:28.37 time:0.68
+Episode:253 score:-325.18 avgscore:-149.80 highscore:28.37 time:1.07
+Episode:254 score:-163.78 avgscore:-151.31 highscore:28.37 time:0.67
+Episode:255 score:-98.57 avgscore:-149.79 highscore:28.37 time:0.66
+Episode:256 score:-172.87 avgscore:-151.31 highscore:28.37 time:0.50
+Episode:257 score:-155.59 avgscore:-148.45 highscore:28.37 time:0.97
+Episode:258 score:-97.97 avgscore:-148.36 highscore:28.37 time:0.70
+Episode:259 score:-8.88 avgscore:-146.70 highscore:28.37 time:0.98
+Episode:260 score:-91.73 avgscore:-144.62 highscore:28.37 time:1.01
+Episode:261 score:-98.12 avgscore:-144.25 highscore:28.37 time:0.65
+Episode:262 score:-150.47 avgscore:-145.05 highscore:28.37 time:0.76
+Episode:263 score:-112.42 avgscore:-145.92 highscore:28.37 time:0.73
+Episode:264 score:-130.18 avgscore:-146.40 highscore:28.37 time:1.07
+Episode:265 score:-93.25 avgscore:-146.06 highscore:28.37 time:0.53
+Episode:266 score:-156.42 avgscore:-143.64 highscore:28.37 time:0.94
+Episode:267 score:-111.74 avgscore:-143.30 highscore:28.37 time:0.85
+Episode:268 score:-48.96 avgscore:-142.17 highscore:28.37 time:0.57
+Episode:269 score:-116.46 avgscore:-140.23 highscore:28.37 time:0.66
+Episode:270 score:-127.28 avgscore:-139.34 highscore:28.37 time:1.05
+Episode:271 score:-101.46 avgscore:-139.05 highscore:28.37 time:0.74
+Episode:272 score:-113.41 avgscore:-132.34 highscore:28.37 time:0.76
+Episode:273 score:-105.86 avgscore:-132.09 highscore:28.37 time:0.77
+Episode:274 score:-420.58 avgscore:-135.42 highscore:28.37 time:0.81
+Episode:275 score:-61.59 avgscore:-134.16 highscore:28.37 time:0.69
+Episode:276 score:-125.60 avgscore:-135.31 highscore:28.37 time:0.99
+Episode:277 score:-105.18 avgscore:-137.98 highscore:28.37 time:0.76
+Episode:278 score:-100.53 avgscore:-135.13 highscore:28.37 time:0.86
+Episode:279 score:-85.59 avgscore:-136.65 highscore:28.37 time:0.57
+Episode:280 score:-104.60 avgscore:-132.96 highscore:28.37 time:1.08
+Episode:281 score:-80.22 avgscore:-132.88 highscore:28.37 time:0.56
+Episode:282 score:-132.87 avgscore:-129.75 highscore:28.37 time:0.96
+Episode:283 score:-79.19 avgscore:-124.00 highscore:28.37 time:0.53
+Episode:284 score:-68.17 avgscore:-122.50 highscore:28.37 time:0.85
+Episode:285 score:-105.69 avgscore:-121.34 highscore:28.37 time:0.99
+Episode:286 score:-79.74 avgscore:-118.02 highscore:28.37 time:1.11
+Episode:287 score:-105.43 avgscore:-118.62 highscore:28.37 time:0.72
+Episode:288 score:-111.77 avgscore:-117.92 highscore:28.37 time:0.88
+Episode:289 score:-25.50 avgscore:-118.94 highscore:28.37 time:0.58
+Episode:290 score:-102.59 avgscore:-118.50 highscore:28.37 time:0.57
+Episode:291 score:-164.55 avgscore:-119.16 highscore:28.37 time:0.82
+Episode:292 score:-108.17 avgscore:-120.06 highscore:28.37 time:0.48
+Episode:293 score:-511.47 avgscore:-127.98 highscore:28.37 time:51.65
+Episode:294 score:-77.41 avgscore:-126.69 highscore:28.37 time:0.72
+Episode:295 score:-131.09 avgscore:-127.67 highscore:28.37 time:0.85
+Episode:296 score:-104.01 avgscore:-127.85 highscore:28.37 time:0.71
+Episode:297 score:-84.06 avgscore:-127.90 highscore:28.37 time:0.88
+Episode:298 score:-41.36 avgscore:-124.82 highscore:28.37 time:1.16
+Episode:299 score:-85.19 avgscore:-123.16 highscore:28.37 time:0.80
+Episode:300 score:-109.50 avgscore:-123.12 highscore:28.37 time:0.83
+
+Evaluation at episode 300
+Evaluation Episode:1 score:-98.36501472158332
+Evaluation Episode:2 score:-95.08122220379093
+Evaluation Episode:3 score:-106.92408151439095
+Evaluation Episode:4 score:-164.28150868326256
+Evaluation Episode:5 score:-111.61687328923414
+Evaluation Episode:6 score:-45.80486556274303
+Evaluation Episode:7 score:-97.89905624411743
+Evaluation Episode:8 score:-83.74218566734109
+Evaluation Episode:9 score:-109.28951406031727
+Evaluation Episode:10 score:-94.5648559050452
+Evaluation at episode 300 average evaluation score:-100.7569177851826
+
+Episode:301 score:-111.64 avgscore:-121.68 highscore:28.37 time:5.29
+Episode:302 score:-110.89 avgscore:-122.30 highscore:28.37 time:0.88
+Episode:303 score:-279.00 avgscore:-121.37 highscore:28.37 time:1.36
+Episode:304 score:-82.35 avgscore:-119.74 highscore:28.37 time:0.60
+Episode:305 score:-60.03 avgscore:-118.97 highscore:28.37 time:1.13
+Episode:306 score:-134.18 avgscore:-118.20 highscore:28.37 time:0.84
+Episode:307 score:-89.45 avgscore:-116.88 highscore:28.37 time:0.55
+Episode:308 score:-83.92 avgscore:-116.60 highscore:28.37 time:0.56
+Episode:309 score:-89.39 avgscore:-118.21 highscore:28.37 time:0.63
+Episode:310 score:-107.82 avgscore:-118.53 highscore:28.37 time:0.66
+Episode:311 score:-76.94 avgscore:-118.10 highscore:28.37 time:0.65
+Episode:312 score:-96.53 avgscore:-117.02 highscore:28.37 time:1.02
+Episode:313 score:-155.59 avgscore:-117.89 highscore:28.37 time:0.67
+Episode:314 score:-140.83 avgscore:-118.10 highscore:28.37 time:0.60
+Episode:315 score:-102.86 avgscore:-118.29 highscore:28.37 time:0.73
+Episode:316 score:-89.64 avgscore:-116.96 highscore:28.37 time:0.49
+Episode:317 score:-88.23 avgscore:-116.49 highscore:28.37 time:0.85
+Episode:318 score:-103.85 avgscore:-117.58 highscore:28.37 time:1.10
+Episode:319 score:-94.86 avgscore:-117.15 highscore:28.37 time:0.62
+Episode:320 score:-96.73 avgscore:-116.54 highscore:28.37 time:0.96
+Episode:321 score:-115.15 avgscore:-116.82 highscore:28.37 time:0.70
+Episode:322 score:-70.60 avgscore:-115.96 highscore:28.37 time:0.57
+Episode:323 score:-224.46 avgscore:-118.33 highscore:28.37 time:1.04
+Episode:324 score:-174.47 avgscore:-113.41 highscore:28.37 time:0.67
+Episode:325 score:-107.39 avgscore:-114.33 highscore:28.37 time:0.82
+Episode:326 score:-148.14 avgscore:-114.78 highscore:28.37 time:0.95
+Episode:327 score:-64.78 avgscore:-113.97 highscore:28.37 time:0.70
+Episode:328 score:-104.73 avgscore:-114.05 highscore:28.37 time:0.82
+Episode:329 score:-3.80 avgscore:-112.42 highscore:28.37 time:0.84
+Episode:330 score:-197.12 avgscore:-114.27 highscore:28.37 time:0.92
+Episode:331 score:-131.31 avgscore:-115.29 highscore:28.37 time:0.86
+Episode:332 score:-216.96 avgscore:-116.97 highscore:28.37 time:0.83
+Episode:333 score:-177.35 avgscore:-118.93 highscore:28.37 time:0.84
+Episode:334 score:-100.27 avgscore:-119.58 highscore:28.37 time:1.08
+Episode:335 score:-82.40 avgscore:-119.11 highscore:28.37 time:0.93
+Episode:336 score:-271.81 avgscore:-122.95 highscore:28.37 time:0.90
+Episode:337 score:-99.44 avgscore:-122.83 highscore:28.37 time:0.61
+Episode:338 score:31.74 avgscore:-119.96 highscore:31.74 time:0.83
+Episode:339 score:-112.45 avgscore:-121.70 highscore:31.74 time:0.66
+Episode:340 score:-215.28 avgscore:-123.95 highscore:31.74 time:1.03
+Episode:341 score:-107.69 avgscore:-122.82 highscore:31.74 time:0.53
+Episode:342 score:-48.62 avgscore:-121.63 highscore:31.74 time:0.52
+Episode:343 score:-214.05 avgscore:-115.68 highscore:31.74 time:1.01
+Episode:344 score:-71.11 avgscore:-115.55 highscore:31.74 time:0.88
+Episode:345 score:-138.08 avgscore:-115.69 highscore:31.74 time:0.71
+Episode:346 score:-110.42 avgscore:-115.82 highscore:31.74 time:0.79
+Episode:347 score:-112.44 avgscore:-116.39 highscore:31.74 time:0.98
+Episode:348 score:-90.60 avgscore:-117.37 highscore:31.74 time:0.73
+Episode:349 score:-77.20 avgscore:-117.21 highscore:31.74 time:0.60
+Episode:350 score:-86.22 avgscore:-116.75 highscore:31.74 time:0.69
+Episode:351 score:-138.53 avgscore:-117.28 highscore:31.74 time:0.64
+Episode:352 score:-158.48 avgscore:-118.24 highscore:31.74 time:0.88
+Episode:353 score:-49.73 avgscore:-113.65 highscore:31.74 time:0.90
+Episode:354 score:-101.34 avgscore:-114.03 highscore:31.74 time:1.01
+Episode:355 score:-121.21 avgscore:-115.25 highscore:31.74 time:0.70
+Episode:356 score:40.19 avgscore:-111.77 highscore:40.19 time:0.79
+Episode:357 score:-211.12 avgscore:-114.20 highscore:40.19 time:1.13
+Episode:358 score:-106.70 avgscore:-114.66 highscore:40.19 time:0.61
+Episode:359 score:-152.94 avgscore:-115.93 highscore:40.19 time:0.85
+Episode:360 score:-139.44 avgscore:-116.56 highscore:40.19 time:0.92
+Episode:361 score:-105.70 avgscore:-117.13 highscore:40.19 time:0.59
+Episode:362 score:-74.61 avgscore:-116.70 highscore:40.19 time:0.62
+Episode:363 score:-74.40 avgscore:-115.07 highscore:40.19 time:0.70
+Episode:364 score:-96.43 avgscore:-114.18 highscore:40.19 time:0.65
+Episode:365 score:-101.17 avgscore:-114.15 highscore:40.19 time:0.92
+Episode:366 score:-137.73 avgscore:-115.11 highscore:40.19 time:0.68
+Episode:367 score:-117.13 avgscore:-115.69 highscore:40.19 time:0.59
+Episode:368 score:-65.39 avgscore:-114.92 highscore:40.19 time:0.76
+Episode:369 score:-79.79 avgscore:-114.62 highscore:40.19 time:0.60
+Episode:370 score:-97.69 avgscore:-114.64 highscore:40.19 time:1.00
+Episode:371 score:-95.77 avgscore:-114.25 highscore:40.19 time:0.86
+Episode:372 score:-111.82 avgscore:-115.08 highscore:40.19 time:0.96
+Episode:373 score:-216.11 avgscore:-114.91 highscore:40.19 time:0.98
+Episode:374 score:-104.69 avgscore:-113.51 highscore:40.19 time:0.66
+Episode:375 score:-105.31 avgscore:-113.47 highscore:40.19 time:0.73
+Episode:376 score:-125.17 avgscore:-113.01 highscore:40.19 time:0.53
+Episode:377 score:-57.29 avgscore:-112.86 highscore:40.19 time:0.62
+Episode:378 score:-64.33 avgscore:-112.05 highscore:40.19 time:1.08
+Episode:379 score:-384.53 avgscore:-119.67 highscore:40.19 time:0.93
+Episode:380 score:-108.95 avgscore:-117.91 highscore:40.19 time:0.82
+Episode:381 score:-51.69 avgscore:-116.31 highscore:40.19 time:0.82
+Episode:382 score:-151.90 avgscore:-115.01 highscore:40.19 time:1.10
+Episode:383 score:-73.11 avgscore:-112.93 highscore:40.19 time:0.76
+Episode:384 score:-105.90 avgscore:-113.04 highscore:40.19 time:0.81
+Episode:385 score:-110.69 avgscore:-113.61 highscore:40.19 time:1.00
+Episode:386 score:-80.33 avgscore:-109.78 highscore:40.19 time:0.76
+Episode:387 score:-111.34 avgscore:-110.01 highscore:40.19 time:0.59
+Episode:388 score:-62.64 avgscore:-111.90 highscore:40.19 time:0.59
+Episode:389 score:-19.67 avgscore:-110.05 highscore:40.19 time:0.58
+Episode:390 score:-65.77 avgscore:-107.06 highscore:40.19 time:0.96
+Episode:391 score:-151.01 avgscore:-107.92 highscore:40.19 time:0.87
+Episode:392 score:13.57 avgscore:-106.68 highscore:40.19 time:0.97
+Episode:393 score:-191.42 avgscore:-106.23 highscore:40.19 time:0.87
+Episode:394 score:-73.91 avgscore:-106.28 highscore:40.19 time:0.58
+Episode:395 score:-54.26 avgscore:-104.61 highscore:40.19 time:1.12
+Episode:396 score:-148.20 avgscore:-105.36 highscore:40.19 time:0.89
+Episode:397 score:-85.67 avgscore:-104.83 highscore:40.19 time:0.95
+Episode:398 score:-72.33 avgscore:-104.46 highscore:40.19 time:0.73
+Episode:399 score:-129.41 avgscore:-105.50 highscore:40.19 time:0.71
+Episode:400 score:-181.67 avgscore:-107.41 highscore:40.19 time:0.82
+
+Evaluation at episode 400
+Evaluation Episode:1 score:-121.65462159564132
+Evaluation Episode:2 score:-141.51792929935468
+Evaluation Episode:3 score:-117.07611103750546
+Evaluation Episode:4 score:-40.67430340827973
+Evaluation Episode:5 score:-289.5266900035286
+Evaluation Episode:6 score:-109.10876668792162
+Evaluation Episode:7 score:-106.03146410549354
+Evaluation Episode:8 score:-54.75810430291503
+Evaluation Episode:9 score:-110.36895635823876
+Evaluation Episode:10 score:-76.12936031880803
+Evaluation at episode 400 average evaluation score:-116.68463071176868
+
+Episode:401 score:-124.50 avgscore:-107.13 highscore:40.19 time:5.22
+Episode:402 score:-131.89 avgscore:-106.60 highscore:40.19 time:0.89
+Episode:403 score:-111.67 avgscore:-107.84 highscore:40.19 time:0.87
+Episode:404 score:-78.96 avgscore:-107.39 highscore:40.19 time:0.56
+Episode:405 score:-7.13 avgscore:-105.11 highscore:40.19 time:0.59
+Episode:406 score:-67.57 avgscore:-107.27 highscore:40.19 time:0.64
+Episode:407 score:-74.27 avgscore:-104.53 highscore:40.19 time:1.05
+Episode:408 score:-117.90 avgscore:-104.75 highscore:40.19 time:0.63
+Episode:409 score:-54.73 avgscore:-102.79 highscore:40.19 time:0.52
+Episode:410 score:-114.84 avgscore:-102.30 highscore:40.19 time:0.73
+Episode:411 score:-88.90 avgscore:-101.96 highscore:40.19 time:1.00
+Episode:412 score:-91.32 avgscore:-102.29 highscore:40.19 time:0.64
+Episode:413 score:-137.75 avgscore:-103.56 highscore:40.19 time:0.63
+Episode:414 score:-134.79 avgscore:-104.33 highscore:40.19 time:0.83
+Episode:415 score:21.78 avgscore:-101.87 highscore:40.19 time:1.05
+Episode:416 score:-117.71 avgscore:-101.47 highscore:40.19 time:0.93
+Episode:417 score:-67.17 avgscore:-100.47 highscore:40.19 time:0.92
+Episode:418 score:-138.97 avgscore:-101.94 highscore:40.19 time:0.65
+Episode:419 score:-99.28 avgscore:-102.33 highscore:40.19 time:0.88
+Episode:420 score:-249.84 avgscore:-105.37 highscore:40.19 time:0.93
+Episode:421 score:-107.13 avgscore:-105.60 highscore:40.19 time:0.66
+Episode:422 score:-100.47 avgscore:-105.38 highscore:40.19 time:0.92
+Episode:423 score:-9.99 avgscore:-101.25 highscore:40.19 time:0.93
+Episode:424 score:-96.20 avgscore:-101.08 highscore:40.19 time:0.63
+Episode:425 score:-80.94 avgscore:-100.60 highscore:40.19 time:0.54
+Episode:426 score:-201.31 avgscore:-102.12 highscore:40.19 time:0.97
+Episode:427 score:-91.63 avgscore:-102.81 highscore:40.19 time:0.73
+Episode:428 score:-117.08 avgscore:-103.86 highscore:40.19 time:0.83
+Episode:429 score:-57.89 avgscore:-97.33 highscore:40.19 time:0.58
+Episode:430 score:-72.80 avgscore:-96.60 highscore:40.19 time:0.89
+Episode:431 score:-88.94 avgscore:-97.35 highscore:40.19 time:0.63
+Episode:432 score:-64.14 avgscore:-95.59 highscore:40.19 time:0.51
+Episode:433 score:-89.11 avgscore:-95.91 highscore:40.19 time:0.67
+Episode:434 score:-70.94 avgscore:-95.21 highscore:40.19 time:0.58
+Episode:435 score:-117.94 avgscore:-95.36 highscore:40.19 time:0.86
+Episode:436 score:-119.52 avgscore:-96.14 highscore:40.19 time:0.98
+Episode:437 score:-90.66 avgscore:-95.73 highscore:40.19 time:0.61
+Episode:438 score:-66.11 avgscore:-95.80 highscore:40.19 time:0.63
+Episode:439 score:-121.83 avgscore:-97.84 highscore:40.19 time:1.23
+Episode:440 score:-85.81 avgscore:-98.24 highscore:40.19 time:0.72
+Episode:441 score:-36.43 avgscore:-95.95 highscore:40.19 time:0.57
+Episode:442 score:-77.95 avgscore:-97.78 highscore:40.19 time:1.01
+Episode:443 score:-103.29 avgscore:-96.02 highscore:40.19 time:0.87
+Episode:444 score:-95.83 avgscore:-96.46 highscore:40.19 time:0.93
+Episode:445 score:-76.23 avgscore:-96.90 highscore:40.19 time:1.02
+Episode:446 score:-89.91 avgscore:-95.73 highscore:40.19 time:0.97
+Episode:447 score:-58.80 avgscore:-95.19 highscore:40.19 time:0.59
+Episode:448 score:-114.51 avgscore:-96.04 highscore:40.19 time:0.91
+Episode:449 score:-105.86 avgscore:-95.57 highscore:40.19 time:0.78
+Episode:450 score:-80.42 avgscore:-93.54 highscore:40.19 time:1.14
+Episode:451 score:-186.97 avgscore:-94.79 highscore:40.19 time:1.05
+Episode:452 score:-130.07 avgscore:-94.75 highscore:40.19 time:0.72
+Episode:453 score:-94.95 avgscore:-94.42 highscore:40.19 time:0.94
+Episode:454 score:-140.68 avgscore:-95.65 highscore:40.19 time:0.82
+Episode:455 score:-89.35 avgscore:-97.30 highscore:40.19 time:0.61
+Episode:456 score:-109.26 avgscore:-98.13 highscore:40.19 time:0.86
+Episode:457 score:-55.00 avgscore:-97.75 highscore:40.19 time:0.52
+Episode:458 score:-69.00 avgscore:-96.77 highscore:40.19 time:0.59
+Episode:459 score:-118.17 avgscore:-98.04 highscore:40.19 time:0.91
+Episode:460 score:-89.46 avgscore:-97.53 highscore:40.19 time:0.71
+Episode:461 score:-174.74 avgscore:-99.25 highscore:40.19 time:0.57
+Episode:462 score:-82.45 avgscore:-99.07 highscore:40.19 time:0.69
+Episode:463 score:-90.24 avgscore:-98.12 highscore:40.19 time:0.61
+Episode:464 score:-105.29 avgscore:-97.53 highscore:40.19 time:0.62
+Episode:465 score:-38.33 avgscore:-98.73 highscore:40.19 time:1.04
+Episode:466 score:-118.33 avgscore:-98.74 highscore:40.19 time:0.58
+Episode:467 score:-136.03 avgscore:-100.12 highscore:40.19 time:0.83
+Episode:468 score:-127.90 avgscore:-99.90 highscore:40.19 time:0.78
+Episode:469 score:-116.34 avgscore:-100.24 highscore:40.19 time:0.86
+Episode:470 score:-83.00 avgscore:-96.90 highscore:40.19 time:0.85
+Episode:471 score:-108.07 avgscore:-96.92 highscore:40.19 time:0.97
+Episode:472 score:-83.03 avgscore:-96.57 highscore:40.19 time:0.84
+Episode:473 score:-109.80 avgscore:-98.57 highscore:40.19 time:1.00
+Episode:474 score:25.63 avgscore:-96.13 highscore:40.19 time:0.89
+Episode:475 score:-94.37 avgscore:-96.40 highscore:40.19 time:0.72
+Episode:476 score:-103.09 avgscore:-94.44 highscore:40.19 time:0.67
+Episode:477 score:-121.21 avgscore:-95.03 highscore:40.19 time:0.70
+Episode:478 score:-108.45 avgscore:-94.86 highscore:40.19 time:0.79
+Episode:479 score:-74.91 avgscore:-95.20 highscore:40.19 time:0.68
+Episode:480 score:-49.23 avgscore:-94.73 highscore:40.19 time:0.65
+Episode:481 score:-26.96 avgscore:-93.49 highscore:40.19 time:1.06
+Episode:482 score:-83.01 avgscore:-93.86 highscore:40.19 time:0.66
+Episode:483 score:-193.74 avgscore:-95.96 highscore:40.19 time:1.03
+Episode:484 score:-155.13 avgscore:-97.64 highscore:40.19 time:0.72
+Episode:485 score:-172.07 avgscore:-98.72 highscore:40.19 time:1.05
+Episode:486 score:-33.72 avgscore:-97.01 highscore:40.19 time:0.59
+Episode:487 score:-109.82 avgscore:-97.39 highscore:40.19 time:0.88
+Episode:488 score:-137.08 avgscore:-98.81 highscore:40.19 time:0.80
+Episode:489 score:-49.84 avgscore:-97.37 highscore:40.19 time:0.68
+Episode:490 score:-158.16 avgscore:-98.82 highscore:40.19 time:0.86
+Episode:491 score:-109.07 avgscore:-100.27 highscore:40.19 time:0.90
+Episode:492 score:-73.44 avgscore:-100.18 highscore:40.19 time:0.83
+Episode:493 score:-101.02 avgscore:-100.13 highscore:40.19 time:0.61
+Episode:494 score:-82.18 avgscore:-99.86 highscore:40.19 time:0.74
+Episode:495 score:-41.87 avgscore:-99.17 highscore:40.19 time:0.68
+Episode:496 score:-181.29 avgscore:-101.00 highscore:40.19 time:0.92
+Episode:497 score:-128.41 avgscore:-102.39 highscore:40.19 time:0.80
+Episode:498 score:-24.07 avgscore:-100.59 highscore:40.19 time:0.62
+Episode:499 score:-131.09 avgscore:-101.09 highscore:40.19 time:1.10
+Episode:500 score:-166.61 avgscore:-102.81 highscore:40.19 time:0.93
+
+Evaluation at episode 500
+Evaluation Episode:1 score:-41.99305294450997
+Evaluation Episode:2 score:-55.09214525824722
+Evaluation Episode:3 score:-91.5155546713886
+Evaluation Episode:4 score:-85.21348280751761
+Evaluation Episode:5 score:-27.137315101879338
+Evaluation Episode:6 score:-123.53625534009024
+Evaluation Episode:7 score:-72.84714765494788
+Evaluation Episode:8 score:-47.34727203091483
+Evaluation Episode:9 score:-87.44488049988213
+Evaluation Episode:10 score:-210.33161257734417
+Evaluation at episode 500 average evaluation score:-84.2458718886722
+
+Episode:501 score:-85.72 avgscore:-100.79 highscore:40.19 time:5.16
+Episode:502 score:-100.48 avgscore:-100.20 highscore:40.19 time:0.89
+Episode:503 score:-107.72 avgscore:-100.45 highscore:40.19 time:0.64
+Episode:504 score:-78.41 avgscore:-99.21 highscore:40.19 time:0.72
+Episode:505 score:-91.00 avgscore:-99.24 highscore:40.19 time:0.67
+Episode:506 score:-97.29 avgscore:-99.00 highscore:40.19 time:0.79
+Episode:507 score:-94.14 avgscore:-99.78 highscore:40.19 time:0.98
+Episode:508 score:-65.36 avgscore:-99.71 highscore:40.19 time:0.70
+Episode:509 score:-119.87 avgscore:-99.74 highscore:40.19 time:0.72
+Episode:510 score:-154.75 avgscore:-101.05 highscore:40.19 time:0.82
+Episode:511 score:-61.18 avgscore:-98.78 highscore:40.19 time:0.79
+Episode:512 score:-82.00 avgscore:-98.77 highscore:40.19 time:0.63
+Episode:513 score:-80.74 avgscore:-98.58 highscore:40.19 time:1.21
+Episode:514 score:-123.26 avgscore:-98.94 highscore:40.19 time:1.03
+Episode:515 score:-150.04 avgscore:-101.17 highscore:40.19 time:1.48
+Episode:516 score:-25.37 avgscore:-99.31 highscore:40.19 time:1.15
+Episode:517 score:-82.77 avgscore:-98.25 highscore:40.19 time:0.81
+Episode:518 score:-115.39 avgscore:-98.00 highscore:40.19 time:0.64
+Episode:519 score:-112.30 avgscore:-97.92 highscore:40.19 time:1.41
+Episode:520 score:-5.25 avgscore:-96.36 highscore:40.19 time:0.95
+Episode:521 score:-148.80 avgscore:-97.18 highscore:40.19 time:1.07
+Episode:522 score:-60.10 avgscore:-96.72 highscore:40.19 time:0.64
+Episode:523 score:-79.40 avgscore:-96.11 highscore:40.19 time:1.15
+Episode:524 score:-70.33 avgscore:-98.03 highscore:40.19 time:0.69
+Episode:525 score:-59.43 avgscore:-97.33 highscore:40.19 time:0.75
+Episode:526 score:-79.18 avgscore:-96.85 highscore:40.19 time:1.16
+Episode:527 score:-74.42 avgscore:-95.92 highscore:40.19 time:0.94
+Episode:528 score:-93.28 avgscore:-95.61 highscore:40.19 time:0.76
+Episode:529 score:-100.35 avgscore:-96.12 highscore:40.19 time:0.80
+Episode:530 score:-82.65 avgscore:-96.79 highscore:40.19 time:0.98
+Episode:531 score:-97.48 avgscore:-98.20 highscore:40.19 time:0.92
+Episode:532 score:-97.47 avgscore:-98.49 highscore:40.19 time:0.76
+Episode:533 score:-39.72 avgscore:-95.41 highscore:40.19 time:0.60
+Episode:534 score:-142.39 avgscore:-95.15 highscore:40.19 time:0.65
+Episode:535 score:-125.90 avgscore:-94.23 highscore:40.19 time:0.81
+Episode:536 score:-227.03 avgscore:-98.10 highscore:40.19 time:0.90
+Episode:537 score:-104.86 avgscore:-98.00 highscore:40.19 time:0.90
+Episode:538 score:-113.00 avgscore:-97.52 highscore:40.19 time:0.96
+Episode:539 score:-57.91 avgscore:-97.68 highscore:40.19 time:0.95
+Episode:540 score:-115.11 avgscore:-96.82 highscore:40.19 time:1.09
+Episode:541 score:-47.96 avgscore:-95.60 highscore:40.19 time:0.75
+Episode:542 score:-77.28 avgscore:-95.67 highscore:40.19 time:1.15
+Episode:543 score:35.57 avgscore:-92.94 highscore:40.19 time:0.98
+Episode:544 score:-68.48 avgscore:-92.67 highscore:40.19 time:0.69
+Episode:545 score:-67.86 avgscore:-93.19 highscore:40.19 time:0.66
+Episode:546 score:-84.91 avgscore:-91.26 highscore:40.19 time:0.73
+Episode:547 score:-42.96 avgscore:-89.55 highscore:40.19 time:1.10
+Episode:548 score:-1283.14 avgscore:-114.73 highscore:40.19 time:91.35
+Episode:549 score:-190.74 avgscore:-115.92 highscore:40.19 time:1.35
+Episode:550 score:-62.16 avgscore:-113.83 highscore:40.19 time:0.74
+Episode:551 score:-90.80 avgscore:-113.94 highscore:40.19 time:0.61
+Episode:552 score:-14.34 avgscore:-112.21 highscore:40.19 time:1.16
+Episode:553 score:-54.56 avgscore:-111.15 highscore:40.19 time:0.64
+Episode:554 score:-22.61 avgscore:-110.03 highscore:40.19 time:0.92
+Episode:555 score:-46.71 avgscore:-109.15 highscore:40.19 time:0.78
+Episode:556 score:-113.90 avgscore:-109.48 highscore:40.19 time:0.80
+Episode:557 score:-121.60 avgscore:-110.03 highscore:40.19 time:0.87
+Episode:558 score:-112.78 avgscore:-110.98 highscore:40.19 time:0.81
+Episode:559 score:-112.77 avgscore:-110.84 highscore:40.19 time:0.88
+Episode:560 score:-68.39 avgscore:-109.11 highscore:40.19 time:1.23
+Episode:561 score:-77.86 avgscore:-109.44 highscore:40.19 time:0.63
+Episode:562 score:-92.34 avgscore:-109.65 highscore:40.19 time:0.86
+Episode:563 score:-26.14 avgscore:-108.56 highscore:40.19 time:0.70
+Episode:564 score:-83.14 avgscore:-107.76 highscore:40.19 time:0.90
+Episode:565 score:-83.45 avgscore:-106.42 highscore:40.19 time:0.78
+Episode:566 score:-136.90 avgscore:-108.65 highscore:40.19 time:1.03
+Episode:567 score:-64.89 avgscore:-108.30 highscore:40.19 time:0.97
+Episode:568 score:-137.91 avgscore:-108.75 highscore:40.19 time:0.90
+Episode:569 score:-16.99 avgscore:-106.84 highscore:40.19 time:0.80
+Episode:570 score:-156.69 avgscore:-109.87 highscore:40.19 time:1.00
+Episode:571 score:-83.34 avgscore:-108.56 highscore:40.19 time:0.86
+Episode:572 score:-91.20 avgscore:-109.18 highscore:40.19 time:0.58
+Episode:573 score:-187.67 avgscore:-111.35 highscore:40.19 time:0.87
+Episode:574 score:-78.67 avgscore:-111.52 highscore:40.19 time:1.11
+Episode:575 score:-108.41 avgscore:-112.49 highscore:40.19 time:0.87
+Episode:576 score:-82.32 avgscore:-112.56 highscore:40.19 time:0.93
+Episode:577 score:-33.70 avgscore:-111.74 highscore:40.19 time:0.99
+Episode:578 score:-76.87 avgscore:-111.42 highscore:40.19 time:0.70
+Episode:579 score:-66.26 avgscore:-110.73 highscore:40.19 time:0.79
+Episode:580 score:-94.04 avgscore:-110.96 highscore:40.19 time:0.60
+Episode:581 score:-229.52 avgscore:-113.60 highscore:40.19 time:1.15
+Episode:582 score:-30.69 avgscore:-112.27 highscore:40.19 time:0.79
+Episode:583 score:-106.74 avgscore:-113.61 highscore:40.19 time:0.98
+Episode:584 score:-58.62 avgscore:-111.93 highscore:40.19 time:0.72
+Episode:585 score:-228.02 avgscore:-113.97 highscore:40.19 time:1.71
+Episode:586 score:-106.60 avgscore:-111.57 highscore:40.19 time:1.05
+Episode:587 score:-101.64 avgscore:-111.50 highscore:40.19 time:0.95
+Episode:588 score:-190.21 avgscore:-113.05 highscore:40.19 time:0.91
+Episode:589 score:-52.44 avgscore:-112.94 highscore:40.19 time:0.65
+Episode:590 score:-114.20 avgscore:-112.92 highscore:40.19 time:0.78
+Episode:591 score:-99.36 avgscore:-113.95 highscore:40.19 time:0.85
+Episode:592 score:-88.67 avgscore:-114.17 highscore:40.19 time:0.81
+Episode:593 score:-169.53 avgscore:-118.28 highscore:40.19 time:0.71
+Episode:594 score:-85.30 avgscore:-118.61 highscore:40.19 time:0.87
+Episode:595 score:-29.55 avgscore:-117.85 highscore:40.19 time:0.75
+Episode:596 score:-50.90 avgscore:-117.17 highscore:40.19 time:0.57
+Episode:597 score:-24.36 avgscore:-116.79 highscore:40.19 time:0.90
+Episode:598 score:-60.23 avgscore:-92.33 highscore:40.19 time:1.02
+Episode:599 score:-49.96 avgscore:-89.52 highscore:40.19 time:0.61
+Episode:600 score:-34.02 avgscore:-88.96 highscore:40.19 time:0.71
+
+Evaluation at episode 600
+Evaluation Episode:1 score:-106.6909705410595
+Evaluation Episode:2 score:-83.57801151111691
+Evaluation Episode:3 score:-239.8208904217388
+Evaluation Episode:4 score:-58.114061083672325
+Evaluation Episode:5 score:-59.74097035593756
+Evaluation Episode:6 score:-426.60573597717786
+Evaluation Episode:7 score:-36.025007773947806
+Evaluation Episode:8 score:-56.98885806987755
+Evaluation Episode:9 score:-81.48451632758326
+Evaluation Episode:10 score:-166.34978308266574
+Evaluation at episode 600 average evaluation score:-131.53988051447772
+
+Episode:601 score:-128.40 avgscore:-89.71 highscore:40.19 time:5.93
+Episode:602 score:-89.57 avgscore:-91.21 highscore:40.19 time:0.71
+Episode:603 score:-108.12 avgscore:-92.28 highscore:40.19 time:0.58
+Episode:604 score:-193.66 avgscore:-95.71 highscore:40.19 time:0.81
+Episode:605 score:-65.08 avgscore:-96.07 highscore:40.19 time:0.58
+Episode:606 score:-63.85 avgscore:-95.07 highscore:40.19 time:0.81
+Episode:607 score:-139.12 avgscore:-95.42 highscore:40.19 time:1.10
+Episode:608 score:-103.45 avgscore:-95.24 highscore:40.19 time:0.82
+Episode:609 score:-20.13 avgscore:-93.38 highscore:40.19 time:0.63
+Episode:610 score:-117.28 avgscore:-94.36 highscore:40.19 time:0.69
+Episode:611 score:-165.58 avgscore:-96.11 highscore:40.19 time:0.84
+Episode:612 score:-12.63 avgscore:-94.52 highscore:40.19 time:1.03
+Episode:613 score:-93.41 avgscore:-95.87 highscore:40.19 time:0.73
+Episode:614 score:-130.87 avgscore:-96.82 highscore:40.19 time:1.23
+Episode:615 score:-139.34 avgscore:-97.94 highscore:40.19 time:0.63
+Episode:616 score:-60.90 avgscore:-96.42 highscore:40.19 time:0.69
+Episode:617 score:-86.98 avgscore:-96.86 highscore:40.19 time:0.69
+Episode:618 score:-79.30 avgscore:-95.69 highscore:40.19 time:1.25
+Episode:619 score:-75.76 avgscore:-96.86 highscore:40.19 time:1.09
+Episode:620 score:-33.84 avgscore:-94.41 highscore:40.19 time:0.69
+Episode:621 score:-107.78 avgscore:-94.90 highscore:40.19 time:0.70
+Episode:622 score:-91.14 avgscore:-94.89 highscore:40.19 time:1.03
+Episode:623 score:-15.07 avgscore:-91.44 highscore:40.19 time:1.01
+Episode:624 score:-50.57 avgscore:-90.88 highscore:40.19 time:0.60
+Episode:625 score:-347.88 avgscore:-95.67 highscore:40.19 time:0.82
+Episode:626 score:-109.46 avgscore:-96.21 highscore:40.19 time:0.85
+Episode:627 score:-97.93 avgscore:-97.50 highscore:40.19 time:0.65
+Episode:628 score:-66.98 avgscore:-97.30 highscore:40.19 time:0.65
+Episode:629 score:-167.14 avgscore:-99.32 highscore:40.19 time:0.71
+Episode:630 score:-166.67 avgscore:-100.77 highscore:40.19 time:0.80
+Episode:631 score:-90.65 avgscore:-97.99 highscore:40.19 time:0.71
+Episode:632 score:-87.99 avgscore:-99.14 highscore:40.19 time:0.62
+Episode:633 score:-88.56 avgscore:-98.77 highscore:40.19 time:0.80
+Episode:634 score:-15.04 avgscore:-97.90 highscore:40.19 time:0.74
+Episode:635 score:-138.83 avgscore:-96.12 highscore:40.19 time:1.07
+Episode:636 score:-48.29 avgscore:-94.95 highscore:40.19 time:0.89
+Episode:637 score:-92.81 avgscore:-94.78 highscore:40.19 time:0.84
+Episode:638 score:-30.74 avgscore:-91.59 highscore:40.19 time:0.90
+Episode:639 score:-91.36 avgscore:-92.36 highscore:40.19 time:0.74
+Episode:640 score:-96.36 avgscore:-92.01 highscore:40.19 time:0.93
+Episode:641 score:-91.86 avgscore:-91.86 highscore:40.19 time:0.99
+Episode:642 score:-60.00 avgscore:-91.28 highscore:40.19 time:0.84
+Episode:643 score:-24.52 avgscore:-88.38 highscore:40.19 time:1.12
+Episode:644 score:-40.13 avgscore:-87.48 highscore:40.19 time:0.71
+Episode:645 score:-87.95 avgscore:-88.65 highscore:40.19 time:1.06
+Episode:646 score:-2.85 avgscore:-87.69 highscore:40.19 time:1.04
+Episode:647 score:-95.69 avgscore:-89.11 highscore:40.19 time:1.19
+Episode:648 score:-278.32 avgscore:-93.48 highscore:40.19 time:0.90
+Episode:649 score:-64.23 avgscore:-93.76 highscore:40.19 time:0.60
+Episode:650 score:-117.89 avgscore:-95.44 highscore:40.19 time:0.75
+Episode:651 score:-99.40 avgscore:-94.86 highscore:40.19 time:0.91
+Episode:652 score:-100.92 avgscore:-95.09 highscore:40.19 time:1.05
+Episode:653 score:-79.37 avgscore:-94.51 highscore:40.19 time:0.89
+Episode:654 score:-251.78 avgscore:-95.67 highscore:40.19 time:1.58
+Episode:655 score:-66.52 avgscore:-95.70 highscore:40.19 time:0.92
+Episode:656 score:-4.50 avgscore:-94.52 highscore:40.19 time:0.69
+Episode:657 score:-93.74 avgscore:-93.61 highscore:40.19 time:1.10
+Episode:658 score:-35.59 avgscore:-92.25 highscore:40.19 time:0.58
+Episode:659 score:-300.66 avgscore:-97.86 highscore:40.19 time:1.04
+Episode:660 score:-31.73 avgscore:-96.15 highscore:40.19 time:0.67
+Episode:661 score:-110.82 avgscore:-95.06 highscore:40.19 time:1.08
+Episode:662 score:-75.74 avgscore:-96.32 highscore:40.19 time:0.99
+Episode:663 score:-140.55 avgscore:-97.26 highscore:40.19 time:1.00
+Episode:664 score:-74.31 avgscore:-96.13 highscore:40.19 time:0.74
+Episode:665 score:-63.98 avgscore:-94.62 highscore:40.19 time:0.86
+Episode:666 score:-77.31 avgscore:-94.95 highscore:40.19 time:0.79
+Episode:667 score:-36.49 avgscore:-93.94 highscore:40.19 time:0.92
+Episode:668 score:-57.66 avgscore:-93.51 highscore:40.19 time:0.81
+Episode:669 score:-46.65 avgscore:-92.93 highscore:40.19 time:1.07
+Episode:670 score:-121.75 avgscore:-94.68 highscore:40.19 time:1.17
+Episode:671 score:-43.63 avgscore:-93.40 highscore:40.19 time:0.66
+Episode:672 score:-49.38 avgscore:-92.57 highscore:40.19 time:0.64
+Episode:673 score:-125.98 avgscore:-94.78 highscore:40.19 time:1.07
+Episode:674 score:-154.56 avgscore:-96.86 highscore:40.19 time:1.05
+Episode:675 score:-66.25 avgscore:-91.23 highscore:40.19 time:0.96
+Episode:676 score:-107.97 avgscore:-91.20 highscore:40.19 time:1.09
+Episode:677 score:-71.11 avgscore:-90.66 highscore:40.19 time:1.08
+Episode:678 score:-107.58 avgscore:-91.48 highscore:40.19 time:0.89
+Episode:679 score:-68.06 avgscore:-89.50 highscore:40.19 time:1.27
+Episode:680 score:-69.19 avgscore:-87.55 highscore:40.19 time:1.04
+Episode:681 score:-63.20 avgscore:-87.00 highscore:40.19 time:1.21
+Episode:682 score:-58.53 avgscore:-86.41 highscore:40.19 time:1.13
+Episode:683 score:-189.46 avgscore:-88.43 highscore:40.19 time:0.94
+Episode:684 score:-73.44 avgscore:-89.59 highscore:40.19 time:1.27
+Episode:685 score:-42.76 avgscore:-87.67 highscore:40.19 time:0.90
+Episode:686 score:-124.60 avgscore:-89.20 highscore:40.19 time:0.65
+Episode:687 score:-47.74 avgscore:-88.30 highscore:40.19 time:1.13
+Episode:688 score:-87.99 avgscore:-89.44 highscore:40.19 time:1.11
+Episode:689 score:-79.56 avgscore:-89.21 highscore:40.19 time:0.92
+Episode:690 score:-38.58 avgscore:-88.05 highscore:40.19 time:0.66
+Episode:691 score:-38.60 avgscore:-86.98 highscore:40.19 time:0.64
+Episode:692 score:-92.66 avgscore:-87.64 highscore:40.19 time:0.92
+Episode:693 score:-75.41 avgscore:-88.66 highscore:40.19 time:1.02
+Episode:694 score:-1047.82 avgscore:-108.81 highscore:40.19 time:101.75
+Episode:695 score:-60.63 avgscore:-108.26 highscore:40.19 time:1.12
+Episode:696 score:-192.13 avgscore:-112.05 highscore:40.19 time:1.21
+Episode:697 score:-15.10 avgscore:-110.44 highscore:40.19 time:1.38
+Episode:698 score:-81.15 avgscore:-106.49 highscore:40.19 time:0.60
+Episode:699 score:-72.52 avgscore:-106.66 highscore:40.19 time:0.74
+Episode:700 score:-24.43 avgscore:-104.79 highscore:40.19 time:0.84
+
+Evaluation at episode 700
+Evaluation Episode:1 score:-109.53135638708198
+Evaluation Episode:2 score:-79.11202075090178
+Evaluation Episode:3 score:-14.040626071067265
+Evaluation Episode:4 score:-181.86938384175994
+Evaluation Episode:5 score:-67.91894054535803
+Evaluation Episode:6 score:-168.87412695490178
+Evaluation Episode:7 score:-156.83706700734245
+Evaluation Episode:8 score:-100.32687607387635
+Evaluation Episode:9 score:-48.65411277756522
+Evaluation Episode:10 score:-24.096740557734236
+Evaluation at episode 700 average evaluation score:-95.1261250967589
+
+Episode:701 score:-165.97 avgscore:-106.12 highscore:40.19 time:6.56
+Episode:702 score:-48.77 avgscore:-105.08 highscore:40.19 time:0.81
+Episode:703 score:-73.47 avgscore:-104.96 highscore:40.19 time:0.95
+Episode:704 score:-65.68 avgscore:-101.24 highscore:40.19 time:0.72
+Episode:705 score:-130.63 avgscore:-102.52 highscore:40.19 time:1.05
+Episode:706 score:-128.33 avgscore:-105.00 highscore:40.19 time:1.32
+Episode:707 score:-165.54 avgscore:-106.43 highscore:40.19 time:0.95
+Episode:708 score:-19.03 avgscore:-106.10 highscore:40.19 time:1.05
+Episode:709 score:-53.92 avgscore:-101.17 highscore:40.19 time:1.44
+Episode:710 score:-9.27 avgscore:-100.72 highscore:40.19 time:0.76
+Episode:711 score:-60.64 avgscore:-99.71 highscore:40.19 time:0.82
+Episode:712 score:-98.51 avgscore:-100.17 highscore:40.19 time:1.21
+Episode:713 score:-95.99 avgscore:-99.28 highscore:40.19 time:0.96
+Episode:714 score:-100.93 avgscore:-99.81 highscore:40.19 time:1.11
+Episode:715 score:-243.03 avgscore:-103.39 highscore:40.19 time:0.84
+Episode:716 score:-80.95 avgscore:-103.46 highscore:40.19 time:1.00
+Episode:717 score:-75.95 avgscore:-104.25 highscore:40.19 time:0.86
+Episode:718 score:-300.47 avgscore:-109.11 highscore:40.19 time:2.49
+Episode:719 score:-91.35 avgscore:-110.00 highscore:40.19 time:1.07
+Episode:720 score:-22.55 avgscore:-108.02 highscore:40.19 time:1.27
+Episode:721 score:-72.48 avgscore:-108.60 highscore:40.19 time:1.22
+Episode:722 score:-131.67 avgscore:-110.24 highscore:40.19 time:1.05
+Episode:723 score:-110.62 avgscore:-109.94 highscore:40.19 time:1.47
+Episode:724 score:-20.63 avgscore:-107.26 highscore:40.19 time:0.89
+Episode:725 score:-58.86 avgscore:-107.11 highscore:40.19 time:1.25
+Episode:726 score:-40.06 avgscore:-105.75 highscore:40.19 time:1.32
+Episode:727 score:-98.82 avgscore:-106.31 highscore:40.19 time:0.87
+Episode:728 score:-33.62 avgscore:-104.83 highscore:40.19 time:0.82
+Episode:729 score:-10.91 avgscore:-103.68 highscore:40.19 time:1.56
+Episode:730 score:-114.40 avgscore:-104.59 highscore:40.19 time:0.94
+Episode:731 score:-21.10 avgscore:-103.75 highscore:40.19 time:1.24
+Episode:732 score:-265.50 avgscore:-107.88 highscore:40.19 time:1.09
+Episode:733 score:-43.47 avgscore:-104.97 highscore:40.19 time:0.92
+Episode:734 score:-59.55 avgscore:-104.69 highscore:40.19 time:0.94
+Episode:735 score:-179.15 avgscore:-107.42 highscore:40.19 time:1.11
+Episode:736 score:-63.88 avgscore:-106.20 highscore:40.19 time:1.07
+Episode:737 score:-1140.04 avgscore:-128.05 highscore:40.19 time:102.67
+Episode:738 score:-93.60 avgscore:-128.16 highscore:40.19 time:1.28
+Episode:739 score:-96.22 avgscore:-128.49 highscore:40.19 time:1.58
+Episode:740 score:-268.30 avgscore:-133.09 highscore:40.19 time:1.48
+Episode:741 score:-71.58 avgscore:-133.75 highscore:40.19 time:1.07
+Episode:742 score:-153.06 avgscore:-134.95 highscore:40.19 time:0.74
+Episode:743 score:-87.61 avgscore:-135.20 highscore:40.19 time:1.46
+Episode:744 score:-132.04 avgscore:-116.88 highscore:40.19 time:0.89
+Episode:745 score:-28.04 avgscore:-116.23 highscore:40.19 time:0.92
+Episode:746 score:-51.94 avgscore:-113.43 highscore:40.19 time:1.03
+Episode:747 score:-43.71 avgscore:-114.00 highscore:40.19 time:0.65
+Episode:748 score:-267.73 avgscore:-117.73 highscore:40.19 time:0.80
+Episode:749 score:-972.77 avgscore:-135.74 highscore:40.19 time:102.81
+Episode:750 score:-64.05 avgscore:-136.53 highscore:40.19 time:1.04
+Episode:751 score:-22.41 avgscore:-133.66 highscore:40.19 time:0.92
+Episode:752 score:-39.66 avgscore:-133.47 highscore:40.19 time:0.84
+Episode:753 score:-26.78 avgscore:-132.54 highscore:40.19 time:1.22
+Episode:754 score:-52.71 avgscore:-132.28 highscore:40.19 time:0.77
+Episode:755 score:-8.05 avgscore:-129.83 highscore:40.19 time:0.82
+Episode:756 score:-71.59 avgscore:-128.70 highscore:40.19 time:1.08
+Episode:757 score:-46.67 avgscore:-126.32 highscore:40.19 time:1.04
+Episode:758 score:-64.99 avgscore:-127.24 highscore:40.19 time:0.63
+Episode:759 score:-58.79 avgscore:-127.33 highscore:40.19 time:1.10
+Episode:760 score:-93.80 avgscore:-129.02 highscore:40.19 time:1.00
+Episode:761 score:-61.45 avgscore:-129.04 highscore:40.19 time:0.98
+Episode:762 score:-38.10 avgscore:-127.83 highscore:40.19 time:0.91
+Episode:763 score:-6.78 avgscore:-126.05 highscore:40.19 time:0.64
+Episode:764 score:-164.26 avgscore:-127.32 highscore:40.19 time:1.10
+Episode:765 score:-40.23 avgscore:-123.26 highscore:40.19 time:11.20
+Episode:766 score:-17.69 avgscore:-121.99 highscore:40.19 time:1.25
+Episode:767 score:-47.83 avgscore:-121.43 highscore:40.19 time:1.09
+Episode:768 score:-73.35 avgscore:-116.89 highscore:40.19 time:0.81
+Episode:769 score:-44.50 avgscore:-115.95 highscore:40.19 time:0.80
+Episode:770 score:-213.06 avgscore:-119.76 highscore:40.19 time:1.54
+Episode:771 score:-117.00 avgscore:-120.65 highscore:40.19 time:1.01
+Episode:772 score:-22.13 avgscore:-118.46 highscore:40.19 time:0.99
+Episode:773 score:-83.12 avgscore:-117.91 highscore:40.19 time:1.53
+Episode:774 score:-195.91 avgscore:-121.42 highscore:40.19 time:1.26
+Episode:775 score:-162.81 avgscore:-123.50 highscore:40.19 time:1.04
+Episode:776 score:-242.66 avgscore:-127.55 highscore:40.19 time:0.79
+Episode:777 score:-32.04 avgscore:-126.21 highscore:40.19 time:0.72
+Episode:778 score:-62.51 avgscore:-126.79 highscore:40.19 time:1.28
+Episode:779 score:15.02 avgscore:-126.27 highscore:40.19 time:0.75
+Episode:780 score:-59.73 avgscore:-125.18 highscore:40.19 time:0.73
+Episode:781 score:-107.72 avgscore:-126.91 highscore:40.19 time:1.14
+Episode:782 score:-62.54 avgscore:-122.85 highscore:40.19 time:1.10
+Episode:783 score:-93.65 avgscore:-123.86 highscore:40.19 time:0.84
+Episode:784 score:-161.51 avgscore:-125.89 highscore:40.19 time:0.89
+Episode:785 score:-82.69 avgscore:-123.97 highscore:40.19 time:0.86
+Episode:786 score:-54.58 avgscore:-123.78 highscore:40.19 time:0.84
+Episode:787 score:-11.64 avgscore:-101.21 highscore:40.19 time:0.66
+Episode:788 score:-68.57 avgscore:-100.71 highscore:40.19 time:1.14
+Episode:789 score:-12.89 avgscore:-99.04 highscore:40.19 time:0.83
+Episode:790 score:-44.93 avgscore:-94.58 highscore:40.19 time:1.38
+Episode:791 score:-82.19 avgscore:-94.79 highscore:40.19 time:0.94
+Episode:792 score:-160.32 avgscore:-94.93 highscore:40.19 time:0.87
+Episode:793 score:-60.34 avgscore:-94.39 highscore:40.19 time:1.06
+Episode:794 score:-85.37 avgscore:-93.46 highscore:40.19 time:0.85
+Episode:795 score:-57.66 avgscore:-94.05 highscore:40.19 time:1.03
+Episode:796 score:-264.96 avgscore:-98.31 highscore:40.19 time:1.17
+Episode:797 score:-64.01 avgscore:-98.71 highscore:40.19 time:1.58
+Episode:798 score:-49.20 avgscore:-94.34 highscore:40.19 time:1.28
+Episode:799 score:-106.03 avgscore:-77.01 highscore:40.19 time:1.48
+Episode:800 score:-82.82 avgscore:-77.38 highscore:40.19 time:1.22
+
+Evaluation at episode 800
+Evaluation Episode:1 score:-209.16886469649265
+Evaluation Episode:2 score:-86.67707920160043
+Evaluation Episode:3 score:-28.434748255274698
+Evaluation Episode:4 score:-100.25332530663145
+Evaluation Episode:5 score:-900.5379297821256
+Evaluation Episode:6 score:-166.46693996077104
+Evaluation Episode:7 score:-101.99288410457206
+Evaluation Episode:8 score:-34.464968041572874
+Evaluation Episode:9 score:-26.221913996742344
+Evaluation Episode:10 score:-66.09938699384006
+Evaluation at episode 800 average evaluation score:-172.03180403396232
+
+Episode:801 score:-30.16 avgscore:-77.54 highscore:40.19 time:74.14
+Episode:802 score:-1.55 avgscore:-76.78 highscore:40.19 time:1.34
+Episode:803 score:-70.92 avgscore:-77.66 highscore:40.19 time:0.87
+Episode:804 score:7.12 avgscore:-76.46 highscore:40.19 time:1.29
+Episode:805 score:-70.84 avgscore:-77.72 highscore:40.19 time:1.11
+Episode:806 score:-111.07 avgscore:-78.51 highscore:40.19 time:1.19
+Episode:807 score:-183.52 avgscore:-81.25 highscore:40.19 time:1.08
+Episode:808 score:-72.54 avgscore:-81.40 highscore:40.19 time:0.89
+Episode:809 score:7.42 avgscore:-80.07 highscore:40.19 time:1.36
+Episode:810 score:-103.80 avgscore:-80.27 highscore:40.19 time:0.65
+Episode:811 score:-68.53 avgscore:-80.41 highscore:40.19 time:1.00
+Episode:812 score:-1.13 avgscore:-79.67 highscore:40.19 time:1.31
+Episode:813 score:-883.84 avgscore:-97.22 highscore:40.19 time:102.98
+Episode:814 score:-35.83 avgscore:-94.65 highscore:40.19 time:0.79
+Episode:815 score:-33.60 avgscore:-94.51 highscore:40.19 time:1.24
+Episode:816 score:-73.28 avgscore:-95.63 highscore:40.19 time:0.74
+Episode:817 score:-7.99 avgscore:-94.83 highscore:40.19 time:0.97
+Episode:818 score:-122.32 avgscore:-95.81 highscore:40.19 time:1.02
+Episode:819 score:-104.04 avgscore:-97.00 highscore:40.19 time:1.08
+Episode:820 score:-83.88 avgscore:-94.42 highscore:40.19 time:1.65
+Episode:821 score:-45.70 avgscore:-92.99 highscore:40.19 time:0.67
+Episode:822 score:-133.21 avgscore:-95.21 highscore:40.19 time:0.79
+Episode:823 score:-200.31 avgscore:-97.56 highscore:40.19 time:1.28
+Episode:824 score:-53.87 avgscore:-94.72 highscore:40.19 time:1.21
+Episode:825 score:-75.87 avgscore:-92.98 highscore:40.19 time:1.10
+Episode:826 score:-51.26 avgscore:-89.15 highscore:40.19 time:1.11
+Episode:827 score:4.07 avgscore:-88.43 highscore:40.19 time:1.92
+Episode:828 score:-2.04 avgscore:-87.22 highscore:40.19 time:1.06
+Episode:829 score:-226.39 avgscore:-92.05 highscore:40.19 time:2.01
+Episode:830 score:2.10 avgscore:-90.81 highscore:40.19 time:1.68
+Episode:831 score:9.82 avgscore:-88.46 highscore:40.19 time:0.84
+Episode:832 score:-20.62 avgscore:-87.62 highscore:40.19 time:1.45
+Episode:833 score:-124.49 avgscore:-88.24 highscore:40.19 time:1.33
+Episode:834 score:-301.28 avgscore:-91.03 highscore:40.19 time:2.82
+Episode:835 score:-42.54 avgscore:-90.23 highscore:40.19 time:1.29
+Episode:836 score:-83.73 avgscore:-90.81 highscore:40.19 time:1.02
+Episode:837 score:-35.44 avgscore:-91.29 highscore:40.19 time:1.61
+Episode:838 score:-7.80 avgscore:-90.07 highscore:40.19 time:1.13
+Episode:839 score:-199.87 avgscore:-93.81 highscore:40.19 time:1.53
+Episode:840 score:-150.64 avgscore:-95.93 highscore:40.19 time:1.40
+Episode:841 score:-97.53 avgscore:-96.23 highscore:40.19 time:2.03
+Episode:842 score:-20.66 avgscore:-93.44 highscore:40.19 time:0.83
+Episode:843 score:-27.58 avgscore:-92.78 highscore:40.19 time:0.85
+Episode:844 score:-11.59 avgscore:-91.31 highscore:40.19 time:1.40
+Episode:845 score:-14.40 avgscore:-90.44 highscore:40.19 time:0.83
+Episode:846 score:-537.25 avgscore:-95.89 highscore:40.19 time:1.19
+Episode:847 score:-35.67 avgscore:-95.32 highscore:40.19 time:0.65
+Episode:848 score:-161.39 avgscore:-97.57 highscore:40.19 time:1.64
+Episode:849 score:-470.43 avgscore:-104.85 highscore:40.19 time:1.40
+Episode:850 score:-73.03 avgscore:-104.66 highscore:40.19 time:0.64
+Episode:851 score:-67.57 avgscore:-105.41 highscore:40.19 time:1.24
+Episode:852 score:-56.18 avgscore:-106.50 highscore:40.19 time:0.68
+Episode:853 score:16.65 avgscore:-104.75 highscore:40.19 time:1.15
+Episode:854 score:-162.38 avgscore:-108.14 highscore:40.19 time:1.01
+Episode:855 score:-866.72 avgscore:-124.06 highscore:40.19 time:103.49
+Episode:856 score:-401.08 avgscore:-129.86 highscore:40.19 time:1.69
+Episode:857 score:-290.95 avgscore:-132.00 highscore:40.19 time:1.98
+Episode:858 score:-50.28 avgscore:-131.56 highscore:40.19 time:1.91
+Episode:859 score:-81.70 avgscore:-133.34 highscore:40.19 time:1.73
+Episode:860 score:8.03 avgscore:-131.10 highscore:40.19 time:0.97
+Episode:861 score:8.87 avgscore:-129.56 highscore:40.19 time:1.32
+Episode:862 score:20.85 avgscore:-129.12 highscore:40.19 time:0.99
+Episode:863 score:31.21 avgscore:-110.82 highscore:40.19 time:1.10
+Episode:864 score:-144.77 avgscore:-112.99 highscore:40.19 time:2.68
+Episode:865 score:-85.82 avgscore:-114.04 highscore:40.19 time:1.47
+Episode:866 score:-85.56 avgscore:-114.28 highscore:40.19 time:1.05
+Episode:867 score:-115.96 avgscore:-116.44 highscore:40.19 time:2.79
+Episode:868 score:-40.89 avgscore:-114.82 highscore:40.19 time:1.06
+Episode:869 score:-51.34 avgscore:-113.76 highscore:40.19 time:1.27
+Episode:870 score:-12.25 avgscore:-112.33 highscore:40.19 time:0.83
+Episode:871 score:-34.69 avgscore:-112.11 highscore:40.19 time:1.06
+Episode:872 score:-51.25 avgscore:-110.47 highscore:40.19 time:1.16
+Episode:873 score:-226.48 avgscore:-110.99 highscore:40.19 time:1.82
+Episode:874 score:-8.28 avgscore:-110.08 highscore:40.19 time:1.35
+Episode:875 score:-34.17 avgscore:-109.25 highscore:40.19 time:1.00
+Episode:876 score:-47.35 avgscore:-109.17 highscore:40.19 time:1.00
+Episode:877 score:-56.39 avgscore:-110.38 highscore:40.19 time:1.68
+Episode:878 score:-53.47 avgscore:-111.41 highscore:40.19 time:1.33
+Episode:879 score:-52.34 avgscore:-107.93 highscore:40.19 time:0.88
+Episode:880 score:-226.21 avgscore:-112.49 highscore:40.19 time:1.97
+Episode:881 score:-86.26 avgscore:-114.41 highscore:40.19 time:1.63
+Episode:882 score:-220.02 avgscore:-118.40 highscore:40.19 time:1.69
+Episode:883 score:-188.94 avgscore:-119.69 highscore:40.19 time:1.50
+Episode:884 score:-1.61 avgscore:-113.70 highscore:40.19 time:0.86
+Episode:885 score:-62.13 avgscore:-114.09 highscore:40.19 time:1.69
+Episode:886 score:-20.91 avgscore:-112.83 highscore:40.19 time:0.95
+Episode:887 score:-56.75 avgscore:-113.26 highscore:40.19 time:1.66
+Episode:888 score:-244.11 avgscore:-117.98 highscore:40.19 time:1.93
+Episode:889 score:-172.25 avgscore:-117.43 highscore:40.19 time:1.91
+Episode:890 score:7.44 avgscore:-114.27 highscore:40.19 time:1.04
+Episode:891 score:-236.03 avgscore:-117.04 highscore:40.19 time:1.90
+Episode:892 score:51.53 avgscore:-115.60 highscore:51.53 time:1.89
+Episode:893 score:52.67 avgscore:-113.99 highscore:52.67 time:1.45
+Episode:894 score:-40.70 avgscore:-114.57 highscore:52.67 time:0.88
+Episode:895 score:-77.26 avgscore:-115.83 highscore:52.67 time:1.77
+Episode:896 score:-28.52 avgscore:-105.66 highscore:52.67 time:1.28
+Episode:897 score:-148.96 avgscore:-107.92 highscore:52.67 time:0.86
+Episode:898 score:28.03 avgscore:-104.13 highscore:52.67 time:0.89
+Episode:899 score:-61.06 avgscore:-95.95 highscore:52.67 time:1.31
+Episode:900 score:-214.89 avgscore:-98.78 highscore:52.67 time:1.75
+
+Evaluation at episode 900
+Evaluation Episode:1 score:-48.2914176117138
+Evaluation Episode:2 score:-22.158051090806552
+Evaluation Episode:3 score:-109.22512920363218
+Evaluation Episode:4 score:-20.850734374023872
+Evaluation Episode:5 score:-71.66296596416674
+Evaluation Episode:6 score:-259.0252180806291
+Evaluation Episode:7 score:-105.88773962679389
+Evaluation Episode:8 score:23.136317692418245
+Evaluation Episode:9 score:-74.40699919131532
+Evaluation Episode:10 score:-40.89858447910793
+Evaluation at episode 900 average evaluation score:-72.92705219297711
+
+Episode:901 score:-10.57 avgscore:-97.64 highscore:52.67 time:8.78
+Episode:902 score:33.40 avgscore:-95.85 highscore:52.67 time:1.65
+Episode:903 score:5.93 avgscore:-96.07 highscore:52.67 time:0.87
+Episode:904 score:-143.89 avgscore:-95.70 highscore:52.67 time:1.66
+Episode:905 score:-143.69 avgscore:-81.24 highscore:52.67 time:1.45
+Episode:906 score:-56.00 avgscore:-74.33 highscore:52.67 time:1.08
+Episode:907 score:-163.69 avgscore:-71.79 highscore:52.67 time:1.46
+Episode:908 score:-92.90 avgscore:-72.64 highscore:52.67 time:1.74
+Episode:909 score:-96.56 avgscore:-72.94 highscore:52.67 time:0.87
+Episode:910 score:-13.58 avgscore:-73.37 highscore:52.67 time:0.77
+Episode:911 score:-132.69 avgscore:-76.20 highscore:52.67 time:1.45
+Episode:912 score:-49.26 avgscore:-77.60 highscore:52.67 time:0.92
+Episode:913 score:-162.44 avgscore:-81.48 highscore:52.67 time:0.99
+Episode:914 score:-82.80 avgscore:-80.24 highscore:52.67 time:1.51
+Episode:915 score:-30.23 avgscore:-79.13 highscore:52.67 time:1.40
+Episode:916 score:-26.19 avgscore:-77.94 highscore:52.67 time:1.06
+Episode:917 score:-35.72 avgscore:-76.33 highscore:52.67 time:1.40
+Episode:918 score:-35.71 avgscore:-76.23 highscore:52.67 time:1.13
+Episode:919 score:-15.79 avgscore:-75.52 highscore:52.67 time:1.11
+Episode:920 score:-27.72 avgscore:-75.83 highscore:52.67 time:1.40
+Episode:921 score:-48.71 avgscore:-76.11 highscore:52.67 time:0.80
+Episode:922 score:-37.30 avgscore:-75.83 highscore:52.67 time:1.35
+Episode:923 score:-38.35 avgscore:-72.07 highscore:52.67 time:0.79
+Episode:924 score:3.62 avgscore:-71.83 highscore:52.67 time:1.02
+Episode:925 score:-35.63 avgscore:-71.86 highscore:52.67 time:1.40
+Episode:926 score:-55.58 avgscore:-72.02 highscore:52.67 time:1.05
+Episode:927 score:0.30 avgscore:-70.89 highscore:52.67 time:0.95
+Episode:928 score:-35.25 avgscore:-70.53 highscore:52.67 time:0.92
+Episode:929 score:-106.77 avgscore:-71.61 highscore:52.67 time:0.99
+Episode:930 score:-65.51 avgscore:-68.40 highscore:52.67 time:1.24
+Episode:931 score:-135.25 avgscore:-69.38 highscore:52.67 time:1.22
+Episode:932 score:-44.51 avgscore:-65.87 highscore:52.67 time:0.97
+Episode:933 score:-57.05 avgscore:-63.23 highscore:52.67 time:0.89
+Episode:934 score:-46.51 avgscore:-64.13 highscore:52.67 time:1.08
+Episode:935 score:-51.34 avgscore:-63.91 highscore:52.67 time:0.75
+Episode:936 score:-84.58 avgscore:-65.19 highscore:52.67 time:1.15
+Episode:937 score:-85.08 avgscore:-65.75 highscore:52.67 time:0.96
+Episode:938 score:-39.60 avgscore:-61.66 highscore:52.67 time:1.01
+Episode:939 score:-45.62 avgscore:-59.13 highscore:52.67 time:0.87
+Episode:940 score:-4.58 avgscore:-59.37 highscore:52.67 time:0.73
+Episode:941 score:-69.17 avgscore:-56.03 highscore:52.67 time:1.07
+Episode:942 score:-697.42 avgscore:-71.01 highscore:52.67 time:103.63
+Episode:943 score:-49.25 avgscore:-73.05 highscore:52.67 time:1.00
+Episode:944 score:-68.24 avgscore:-73.60 highscore:52.67 time:0.93
+Episode:945 score:-30.76 avgscore:-72.67 highscore:52.67 time:1.19
+Episode:946 score:-39.99 avgscore:-72.90 highscore:52.67 time:0.95
+Episode:947 score:-34.42 avgscore:-70.61 highscore:52.67 time:0.86
+Episode:948 score:-0.89 avgscore:-71.19 highscore:52.67 time:1.47
+Episode:949 score:-189.65 avgscore:-73.76 highscore:52.67 time:2.11
+Episode:950 score:-16.53 avgscore:-69.79 highscore:52.67 time:1.29
+Episode:951 score:-62.12 avgscore:-70.82 highscore:52.67 time:0.82
+Episode:952 score:-61.73 avgscore:-72.73 highscore:52.67 time:1.05
+Episode:953 score:-27.84 avgscore:-73.40 highscore:52.67 time:1.34
+Episode:954 score:-212.71 avgscore:-74.78 highscore:52.67 time:1.45
+Episode:955 score:1.58 avgscore:-71.87 highscore:52.67 time:1.30
+Episode:956 score:-225.78 avgscore:-75.27 highscore:52.67 time:1.70
+Episode:957 score:-102.32 avgscore:-74.04 highscore:52.67 time:1.45
+Episode:958 score:-31.26 avgscore:-72.81 highscore:52.67 time:1.24
+Episode:959 score:16.59 avgscore:-70.55 highscore:52.67 time:0.92
+Episode:960 score:-236.41 avgscore:-75.00 highscore:52.67 time:1.40
+Episode:961 score:-170.89 avgscore:-75.77 highscore:52.67 time:1.34
+Episode:962 score:-52.34 avgscore:-75.83 highscore:52.67 time:1.03
+Episode:963 score:-60.31 avgscore:-73.79 highscore:52.67 time:1.66
+Episode:964 score:-27.85 avgscore:-72.69 highscore:52.67 time:0.96
+Episode:965 score:6.57 avgscore:-71.95 highscore:52.67 time:2.48
+Episode:966 score:-1.86 avgscore:-71.46 highscore:52.67 time:1.05
+Episode:967 score:31.92 avgscore:-70.11 highscore:52.67 time:1.15
+Episode:968 score:-3.25 avgscore:-69.46 highscore:52.67 time:1.04
+Episode:969 score:-5.14 avgscore:-69.25 highscore:52.67 time:0.83
+Episode:970 score:-13.50 avgscore:-68.96 highscore:52.67 time:1.24
+Episode:971 score:-40.53 avgscore:-68.80 highscore:52.67 time:1.25
+Episode:972 score:-55.28 avgscore:-69.16 highscore:52.67 time:0.95
+Episode:973 score:-16.59 avgscore:-68.73 highscore:52.67 time:1.22
+Episode:974 score:-10.17 avgscore:-69.00 highscore:52.67 time:0.76
+Episode:975 score:-10.31 avgscore:-68.49 highscore:52.67 time:1.08
+Episode:976 score:-160.58 avgscore:-70.59 highscore:52.67 time:1.47
+Episode:977 score:-2.51 avgscore:-70.65 highscore:52.67 time:1.12
+Episode:978 score:-55.47 avgscore:-71.06 highscore:52.67 time:0.88
+Episode:979 score:-20.62 avgscore:-69.33 highscore:52.67 time:0.76
+Episode:980 score:-30.93 avgscore:-68.64 highscore:52.67 time:1.08
+Episode:981 score:-61.38 avgscore:-67.16 highscore:52.67 time:0.90
+Episode:982 score:-13.09 avgscore:-66.53 highscore:52.67 time:1.50
+Episode:983 score:-27.19 avgscore:-65.94 highscore:52.67 time:1.28
+Episode:984 score:-7.69 avgscore:-65.16 highscore:52.67 time:1.04
+Episode:985 score:-20.66 avgscore:-64.55 highscore:52.67 time:1.22
+Episode:986 score:-68.12 avgscore:-64.22 highscore:52.67 time:1.04
+Episode:987 score:-7.02 avgscore:-62.66 highscore:52.67 time:1.47
+Episode:988 score:9.85 avgscore:-61.67 highscore:52.67 time:1.14
+Episode:989 score:-83.28 avgscore:-62.42 highscore:52.67 time:1.14
+Episode:990 score:-39.77 avgscore:-63.13 highscore:52.67 time:1.53
+Episode:991 score:-858.08 avgscore:-78.90 highscore:52.67 time:104.78
+Episode:992 score:18.01 avgscore:-64.60 highscore:52.67 time:1.11
+Episode:993 score:-543.08 avgscore:-74.47 highscore:52.67 time:27.55
+Episode:994 score:-25.60 avgscore:-73.62 highscore:52.67 time:1.09
+Episode:995 score:18.20 avgscore:-72.64 highscore:52.67 time:1.16
+Episode:996 score:-28.50 avgscore:-72.41 highscore:52.67 time:1.32
+Episode:997 score:-56.49 avgscore:-72.85 highscore:52.67 time:1.13
+Episode:998 score:-40.27 avgscore:-73.64 highscore:52.67 time:1.12
+Episode:999 score:-223.71 avgscore:-74.32 highscore:52.67 time:1.52
+Episode:1000 score:-2.86 avgscore:-74.05 highscore:52.67 time:1.14
+
+Evaluation at episode 1000
+Evaluation Episode:1 score:-21.264716099737512
+Evaluation Episode:2 score:-20.300011398154098
+Evaluation Episode:3 score:-5.274866305521243
+Evaluation Episode:4 score:-20.356669034046845
+Evaluation Episode:5 score:-121.88867314002644
+Evaluation Episode:6 score:-32.81785429376664
+Evaluation Episode:7 score:-28.357358919003815
+Evaluation Episode:8 score:-3.597660871673426
+Evaluation Episode:9 score:-51.56807178778824
+Evaluation Episode:10 score:-45.37143268500979
+Evaluation at episode 1000 average evaluation score:-35.0797314534728
+
+Episode:1001 score:-27.77 avgscore:-73.36 highscore:52.67 time:7.69
+Episode:1002 score:-52.56 avgscore:-73.18 highscore:52.67 time:1.01
+Episode:1003 score:-36.48 avgscore:-73.35 highscore:52.67 time:1.33
+Episode:1004 score:-32.36 avgscore:-69.74 highscore:52.67 time:1.11
+Episode:1005 score:-158.34 avgscore:-72.94 highscore:52.67 time:1.01
+Episode:1006 score:-69.08 avgscore:-69.81 highscore:52.67 time:1.14
+Episode:1007 score:-10.08 avgscore:-67.96 highscore:52.67 time:1.75
+Episode:1008 score:0.70 avgscore:-67.32 highscore:52.67 time:0.96
+Episode:1009 score:5.69 avgscore:-67.54 highscore:52.67 time:0.93
+Episode:1010 score:-38.87 avgscore:-63.59 highscore:52.67 time:1.24
+Episode:1011 score:-28.88 avgscore:-60.75 highscore:52.67 time:1.29
+Episode:1012 score:-59.34 avgscore:-60.89 highscore:52.67 time:1.48
+Episode:1013 score:-61.92 avgscore:-60.92 highscore:52.67 time:1.17
+Episode:1014 score:-49.64 avgscore:-61.36 highscore:52.67 time:0.72
+Episode:1015 score:-175.25 avgscore:-64.99 highscore:52.67 time:0.97
+Episode:1016 score:-119.45 avgscore:-67.35 highscore:52.67 time:1.04
+Episode:1017 score:-43.57 avgscore:-68.86 highscore:52.67 time:1.02
+Episode:1018 score:-32.62 avgscore:-69.44 highscore:52.67 time:1.32
+Episode:1019 score:-92.10 avgscore:-71.18 highscore:52.67 time:1.41
+Episode:1020 score:-22.48 avgscore:-71.36 highscore:52.67 time:1.23
+Episode:1021 score:-21.03 avgscore:-70.97 highscore:52.67 time:1.16
+Episode:1022 score:18.96 avgscore:-69.49 highscore:52.67 time:1.52
+Episode:1023 score:-50.35 avgscore:-70.16 highscore:52.67 time:1.06
+Episode:1024 score:-216.04 avgscore:-74.28 highscore:52.67 time:1.56
+Episode:1025 score:1.35 avgscore:-74.05 highscore:52.67 time:1.60
+Episode:1026 score:29.13 avgscore:-70.25 highscore:52.67 time:0.95
+Episode:1027 score:-8.37 avgscore:-70.37 highscore:52.67 time:0.87
+Episode:1028 score:-50.06 avgscore:-70.26 highscore:52.67 time:0.93
+Episode:1029 score:33.04 avgscore:-69.19 highscore:52.67 time:1.00
+Episode:1030 score:-167.65 avgscore:-71.92 highscore:52.67 time:1.40
+Episode:1031 score:-3.84 avgscore:-70.77 highscore:52.67 time:1.28
+Episode:1032 score:-6.82 avgscore:-70.65 highscore:52.67 time:1.15
+Episode:1033 score:12.25 avgscore:-69.86 highscore:52.67 time:1.13
+Episode:1034 score:-29.63 avgscore:-70.30 highscore:52.67 time:1.07
+Episode:1035 score:-25.85 avgscore:-70.40 highscore:52.67 time:1.22
+Episode:1036 score:-288.35 avgscore:-74.81 highscore:52.67 time:1.65
+Episode:1037 score:19.93 avgscore:-74.27 highscore:52.67 time:0.97
+Episode:1038 score:-16.92 avgscore:-74.80 highscore:52.67 time:1.02
+Episode:1039 score:-18.94 avgscore:-73.52 highscore:52.67 time:1.08
+Episode:1040 score:-30.25 avgscore:-73.32 highscore:52.67 time:1.19
+Episode:1041 score:-64.47 avgscore:-57.45 highscore:52.67 time:1.47
+Episode:1042 score:-183.37 avgscore:-61.48 highscore:52.67 time:0.90
+Episode:1043 score:30.95 avgscore:-50.00 highscore:52.67 time:1.50
+Episode:1044 score:1.94 avgscore:-49.45 highscore:52.67 time:1.58
+Episode:1045 score:-107.09 avgscore:-51.95 highscore:52.67 time:0.97
+Episode:1046 score:-256.82 avgscore:-56.52 highscore:52.67 time:0.77
+Episode:1047 score:-257.63 avgscore:-60.54 highscore:52.67 time:1.61
+Episode:1048 score:-38.35 avgscore:-60.51 highscore:52.67 time:0.94
+Episode:1049 score:-209.76 avgscore:-60.23 highscore:52.67 time:1.29
+Episode:1050 score:-26.21 avgscore:-60.69 highscore:52.67 time:1.02
+Episode:1051 score:-39.69 avgscore:-60.93 highscore:52.67 time:1.46
+Episode:1052 score:16.74 avgscore:-59.55 highscore:52.67 time:1.46
+Episode:1053 score:-67.51 avgscore:-60.17 highscore:52.67 time:1.50
+Episode:1054 score:-51.09 avgscore:-60.54 highscore:52.67 time:0.99
+Episode:1055 score:-1.55 avgscore:-57.41 highscore:52.67 time:1.08
+Episode:1056 score:-120.78 avgscore:-58.44 highscore:52.67 time:1.87
+Episode:1057 score:-478.37 avgscore:-67.80 highscore:52.67 time:1.93
+Episode:1058 score:-3.08 avgscore:-67.88 highscore:52.67 time:1.02
+Episode:1059 score:-43.21 avgscore:-68.86 highscore:52.67 time:1.47
+Episode:1060 score:-73.38 avgscore:-69.55 highscore:52.67 time:1.46
+Episode:1061 score:-1.65 avgscore:-69.00 highscore:52.67 time:1.01
+Episode:1062 score:31.62 avgscore:-67.18 highscore:52.67 time:0.94
+Episode:1063 score:5.22 avgscore:-65.84 highscore:52.67 time:0.96
+Episode:1064 score:-57.92 avgscore:-66.01 highscore:52.67 time:1.44
+Episode:1065 score:-41.33 avgscore:-63.33 highscore:52.67 time:1.16
+Episode:1066 score:-220.64 avgscore:-65.35 highscore:52.67 time:1.47
+Episode:1067 score:-26.42 avgscore:-65.01 highscore:52.67 time:1.19
+Episode:1068 score:36.92 avgscore:-63.62 highscore:52.67 time:1.36
+Episode:1069 score:-149.75 avgscore:-64.77 highscore:52.67 time:1.40
+Episode:1070 score:7.22 avgscore:-64.18 highscore:52.67 time:1.36
+Episode:1071 score:-0.68 avgscore:-63.77 highscore:52.67 time:1.27
+Episode:1072 score:-12.84 avgscore:-64.41 highscore:52.67 time:0.96
+Episode:1073 score:-17.98 avgscore:-63.76 highscore:52.67 time:0.85
+Episode:1074 score:-48.07 avgscore:-60.40 highscore:52.67 time:1.05
+Episode:1075 score:-32.48 avgscore:-61.08 highscore:52.67 time:0.97
+Episode:1076 score:9.60 avgscore:-61.47 highscore:52.67 time:1.07
+Episode:1077 score:-37.87 avgscore:-62.06 highscore:52.67 time:0.90
+Episode:1078 score:-853.17 avgscore:-78.12 highscore:52.67 time:44.32
+Episode:1079 score:-55.45 avgscore:-79.89 highscore:52.67 time:1.22
+Episode:1080 score:-12.48 avgscore:-76.79 highscore:52.67 time:1.03
+Episode:1081 score:30.69 avgscore:-76.10 highscore:52.67 time:1.02
+Episode:1082 score:-53.23 avgscore:-77.02 highscore:52.67 time:1.04
+Episode:1083 score:-17.78 avgscore:-77.62 highscore:52.67 time:0.91
+Episode:1084 score:-58.51 avgscore:-78.20 highscore:52.67 time:1.34
+Episode:1085 score:-21.87 avgscore:-78.12 highscore:52.67 time:1.43
+Episode:1086 score:-54.96 avgscore:-73.45 highscore:52.67 time:1.56
+Episode:1087 score:-52.92 avgscore:-74.91 highscore:52.67 time:1.41
+Episode:1088 score:-73.03 avgscore:-76.03 highscore:52.67 time:1.20
+Episode:1089 score:-35.39 avgscore:-76.36 highscore:52.67 time:1.34
+Episode:1090 score:-14.55 avgscore:-76.05 highscore:52.67 time:1.36
+Episode:1091 score:13.82 avgscore:-74.48 highscore:52.67 time:0.95
+Episode:1092 score:-26.32 avgscore:-71.34 highscore:52.67 time:0.95
+Episode:1093 score:-19.20 avgscore:-72.34 highscore:52.67 time:1.19
+Episode:1094 score:-24.96 avgscore:-72.88 highscore:52.67 time:1.37
+Episode:1095 score:-22.58 avgscore:-71.19 highscore:52.67 time:0.75
+Episode:1096 score:-24.57 avgscore:-66.55 highscore:52.67 time:1.13
+Episode:1097 score:-19.38 avgscore:-61.78 highscore:52.67 time:1.57
+Episode:1098 score:-21.59 avgscore:-61.45 highscore:52.67 time:1.11
+Episode:1099 score:-16.14 avgscore:-57.57 highscore:52.67 time:1.57
+Episode:1100 score:-76.74 avgscore:-58.59 highscore:52.67 time:0.87
+
+Evaluation at episode 1100
+Evaluation Episode:1 score:-94.61030314547878
+Evaluation Episode:2 score:-105.34949613517519
+Evaluation Episode:3 score:-71.61234037262383
+Evaluation Episode:4 score:-9.91055256133778
+Evaluation Episode:5 score:-13.649573053397845
+Evaluation Episode:6 score:-40.96556302509924
+Evaluation Episode:7 score:-121.37754131350054
+Evaluation Episode:8 score:-35.270246322669706
+Evaluation Episode:9 score:-53.22041949354214
+Evaluation Episode:10 score:-89.0459724971411
+Evaluation at episode 1100 average evaluation score:-63.50120079199661
+
+Episode:1101 score:21.86 avgscore:-57.35 highscore:52.67 time:8.03
+Episode:1102 score:-25.01 avgscore:-58.19 highscore:52.67 time:1.02
+Episode:1103 score:-37.83 avgscore:-57.60 highscore:52.67 time:0.78
+Episode:1104 score:-16.06 avgscore:-56.90 highscore:52.67 time:1.03
+Episode:1105 score:-1.61 avgscore:-56.90 highscore:52.67 time:1.09
+Episode:1106 score:-4.64 avgscore:-54.57 highscore:52.67 time:0.89
+Episode:1107 score:-35.00 avgscore:-45.71 highscore:52.67 time:0.79
+Episode:1108 score:-64.93 avgscore:-46.94 highscore:52.67 time:1.32
+Episode:1109 score:42.33 avgscore:-45.23 highscore:52.67 time:1.55
+Episode:1110 score:-26.93 avgscore:-44.30 highscore:52.67 time:1.07
+Episode:1111 score:-2.26 avgscore:-44.32 highscore:52.67 time:1.39
+Episode:1112 score:41.32 avgscore:-44.12 highscore:52.67 time:1.25
+Episode:1113 score:-63.01 avgscore:-45.49 highscore:52.67 time:1.01
+Episode:1114 score:27.08 avgscore:-43.79 highscore:52.67 time:1.69
+Episode:1115 score:-59.52 avgscore:-44.15 highscore:52.67 time:1.12
+Episode:1116 score:-117.81 avgscore:-42.09 highscore:52.67 time:1.91
+Episode:1117 score:7.16 avgscore:-41.42 highscore:52.67 time:1.19
+Episode:1118 score:17.14 avgscore:-41.82 highscore:52.67 time:1.12
+Episode:1119 score:44.47 avgscore:-37.93 highscore:52.67 time:1.26
+Episode:1120 score:-76.06 avgscore:-39.60 highscore:52.67 time:1.38
+Episode:1121 score:-111.49 avgscore:-41.81 highscore:52.67 time:1.64
+Episode:1122 score:-35.02 avgscore:-42.26 highscore:52.67 time:1.50
+Episode:1123 score:-844.87 avgscore:-58.80 highscore:52.67 time:105.00
+Episode:1124 score:-116.46 avgscore:-60.16 highscore:52.67 time:2.02
+Episode:1125 score:-772.07 avgscore:-74.96 highscore:52.67 time:106.11
+Episode:1126 score:-125.92 avgscore:-77.67 highscore:52.67 time:2.32
+Episode:1127 score:-138.57 avgscore:-79.68 highscore:52.67 time:1.59
+Episode:1128 score:-37.45 avgscore:-63.37 highscore:52.67 time:1.27
+Episode:1129 score:-75.24 avgscore:-63.76 highscore:52.67 time:1.92
+Episode:1130 score:-26.95 avgscore:-64.05 highscore:52.67 time:1.33
+Episode:1131 score:-35.91 avgscore:-65.38 highscore:52.67 time:1.54
+Episode:1132 score:-6.37 avgscore:-64.45 highscore:52.67 time:1.18
+Episode:1133 score:-17.35 avgscore:-64.44 highscore:52.67 time:1.91
+Episode:1134 score:-23.14 avgscore:-63.73 highscore:52.67 time:0.99
+Episode:1135 score:-34.23 avgscore:-63.98 highscore:52.67 time:1.13
+Episode:1136 score:2.69 avgscore:-62.82 highscore:52.67 time:1.28
+Episode:1137 score:-49.19 avgscore:-62.75 highscore:52.67 time:1.31
+Episode:1138 score:-117.16 avgscore:-63.63 highscore:52.67 time:0.93
+Episode:1139 score:-23.63 avgscore:-63.40 highscore:52.67 time:1.34
+Episode:1140 score:-14.38 avgscore:-63.39 highscore:52.67 time:1.04
+Episode:1141 score:-180.95 avgscore:-67.29 highscore:52.67 time:1.53
+Episode:1142 score:-38.68 avgscore:-67.54 highscore:52.67 time:1.30
+Episode:1143 score:-61.52 avgscore:-68.38 highscore:52.67 time:1.54
+Episode:1144 score:-647.69 avgscore:-80.84 highscore:52.67 time:105.44
+Episode:1145 score:-49.00 avgscore:-81.37 highscore:52.67 time:1.70
+Episode:1146 score:-43.40 avgscore:-81.74 highscore:52.67 time:1.48
+Episode:1147 score:-41.49 avgscore:-82.18 highscore:52.67 time:0.94
+Episode:1148 score:-62.60 avgscore:-83.00 highscore:52.67 time:1.31
+Episode:1149 score:-0.69 avgscore:-82.70 highscore:52.67 time:1.20
+Episode:1150 score:-24.41 avgscore:-81.65 highscore:52.67 time:1.53
+Episode:1151 score:-84.31 avgscore:-83.77 highscore:52.67 time:1.44
+Episode:1152 score:-61.09 avgscore:-84.49 highscore:52.67 time:1.02
+Episode:1153 score:-75.78 avgscore:-85.25 highscore:52.67 time:1.27
+Episode:1154 score:29.46 avgscore:-84.34 highscore:52.67 time:1.00
+Episode:1155 score:-5.32 avgscore:-84.42 highscore:52.67 time:1.13
+Episode:1156 score:-158.65 avgscore:-87.50 highscore:52.67 time:2.01
+Episode:1157 score:-47.56 avgscore:-87.75 highscore:52.67 time:1.63
+Episode:1158 score:-165.88 avgscore:-89.77 highscore:52.67 time:2.31
+Episode:1159 score:-459.07 avgscore:-99.80 highscore:52.67 time:105.47
+Episode:1160 score:31.55 avgscore:-98.63 highscore:52.67 time:0.93
+Episode:1161 score:11.29 avgscore:-98.36 highscore:52.67 time:1.01
+Episode:1162 score:-25.22 avgscore:-99.69 highscore:52.67 time:1.34
+Episode:1163 score:3.00 avgscore:-98.37 highscore:52.67 time:1.61
+Episode:1164 score:-554.19 avgscore:-109.99 highscore:52.67 time:106.20
+Episode:1165 score:-13.87 avgscore:-109.08 highscore:52.67 time:1.62
+Episode:1166 score:-12.76 avgscore:-106.98 highscore:52.67 time:1.39
+Episode:1167 score:6.18 avgscore:-107.00 highscore:52.67 time:1.61
+Episode:1168 score:-93.11 avgscore:-109.20 highscore:52.67 time:1.71
+Episode:1169 score:-46.09 avgscore:-111.01 highscore:52.67 time:1.42
+Episode:1170 score:-28.65 avgscore:-110.06 highscore:52.67 time:0.84
+Episode:1171 score:1.34 avgscore:-107.81 highscore:52.67 time:1.15
+Episode:1172 score:-128.65 avgscore:-109.68 highscore:52.67 time:1.54
+Episode:1173 score:-33.35 avgscore:-93.45 highscore:52.67 time:1.50
+Episode:1174 score:26.91 avgscore:-90.58 highscore:52.67 time:1.30
+Episode:1175 score:-37.98 avgscore:-75.90 highscore:52.67 time:1.22
+Episode:1176 score:-7.36 avgscore:-73.53 highscore:52.67 time:1.57
+Episode:1177 score:-44.62 avgscore:-71.65 highscore:52.67 time:1.35
+Episode:1178 score:-76.39 avgscore:-72.43 highscore:52.67 time:1.45
+Episode:1179 score:-96.71 avgscore:-72.86 highscore:52.67 time:1.75
+Episode:1180 score:-121.33 avgscore:-74.75 highscore:52.67 time:1.59
+Episode:1181 score:-106.86 avgscore:-76.17 highscore:52.67 time:1.98
+Episode:1182 score:-55.80 avgscore:-77.15 highscore:52.67 time:1.78
+Episode:1183 score:-99.42 avgscore:-78.80 highscore:52.67 time:1.40
+Episode:1184 score:-22.15 avgscore:-78.78 highscore:52.67 time:1.17
+Episode:1185 score:16.96 avgscore:-77.75 highscore:52.67 time:1.27
+Episode:1186 score:-6.09 avgscore:-77.93 highscore:52.67 time:1.91
+Episode:1187 score:-337.54 avgscore:-83.69 highscore:52.67 time:1.88
+Episode:1188 score:-52.41 avgscore:-82.40 highscore:52.67 time:1.63
+Episode:1189 score:-21.72 avgscore:-82.36 highscore:52.67 time:1.43
+Episode:1190 score:6.85 avgscore:-81.94 highscore:52.67 time:1.81
+Episode:1191 score:-295.58 avgscore:-84.23 highscore:52.67 time:1.77
+Episode:1192 score:-105.53 avgscore:-85.57 highscore:52.67 time:2.91
+Episode:1193 score:-128.09 avgscore:-86.90 highscore:52.67 time:2.82
+Episode:1194 score:-305.39 avgscore:-80.05 highscore:52.67 time:28.07
+Episode:1195 score:-249.13 avgscore:-84.05 highscore:52.67 time:1.61
+Episode:1196 score:-427.04 avgscore:-91.73 highscore:52.67 time:107.12
+Episode:1197 score:30.46 avgscore:-90.29 highscore:52.67 time:1.83
+Episode:1198 score:-78.52 avgscore:-90.61 highscore:52.67 time:1.89
+Episode:1199 score:-437.43 avgscore:-99.34 highscore:52.67 time:107.32
+Episode:1200 score:-41.42 avgscore:-99.68 highscore:52.67 time:1.86
+
+Evaluation at episode 1200
+Evaluation Episode:1 score:-25.145283910276532
+Evaluation Episode:2 score:-15.795904247532633
+Evaluation Episode:3 score:-31.29215747418634
+Evaluation Episode:4 score:7.661067078555121
+Evaluation Episode:5 score:8.645858385527646
+Evaluation Episode:6 score:15.394835707314058
+Evaluation Episode:7 score:27.514859493747792
+Evaluation Episode:8 score:-184.48686519659643
+Evaluation Episode:9 score:-21.412404770682443
+Evaluation Episode:10 score:-73.72823761158901
+Evaluation at episode 1200 average evaluation score:-29.264423254571874
+
+Episode:1201 score:22.33 avgscore:-97.55 highscore:52.67 time:12.56
+Episode:1202 score:-571.24 avgscore:-107.75 highscore:52.67 time:106.79
+Episode:1203 score:-22.33 avgscore:-106.68 highscore:52.67 time:2.09
+Episode:1204 score:21.33 avgscore:-106.84 highscore:52.67 time:1.20
+Episode:1205 score:17.90 avgscore:-106.38 highscore:52.67 time:0.96
+Episode:1206 score:28.74 avgscore:-102.63 highscore:52.67 time:1.24
+Episode:1207 score:-76.89 avgscore:-103.22 highscore:52.67 time:1.19
+Episode:1208 score:25.78 avgscore:-99.39 highscore:52.67 time:1.17
+Episode:1209 score:6.82 avgscore:-90.07 highscore:52.67 time:1.52
+Episode:1210 score:40.44 avgscore:-89.89 highscore:52.67 time:0.97
+Episode:1211 score:22.66 avgscore:-89.66 highscore:52.67 time:1.29
+Episode:1212 score:-22.04 avgscore:-89.60 highscore:52.67 time:1.48
+Episode:1213 score:-11.74 avgscore:-89.89 highscore:52.67 time:1.36
+Episode:1214 score:-46.09 avgscore:-79.73 highscore:52.67 time:1.46
+Episode:1215 score:-2.31 avgscore:-79.50 highscore:52.67 time:1.43
+Episode:1216 score:1.30 avgscore:-79.22 highscore:52.67 time:1.62
+Episode:1217 score:-413.80 avgscore:-87.62 highscore:52.67 time:109.17
+Episode:1218 score:-29.63 avgscore:-86.35 highscore:52.67 time:1.28
+Episode:1219 score:16.45 avgscore:-85.10 highscore:52.67 time:1.28
+Episode:1220 score:-9.34 avgscore:-84.71 highscore:52.67 time:1.66
+Episode:1221 score:-89.74 avgscore:-86.53 highscore:52.67 time:1.85
+Episode:1222 score:35.50 avgscore:-83.25 highscore:52.67 time:1.64
+Episode:1223 score:-6.40 avgscore:-82.71 highscore:52.67 time:1.61
+Episode:1224 score:8.02 avgscore:-83.09 highscore:52.67 time:1.21
+Episode:1225 score:-20.45 avgscore:-82.74 highscore:52.67 time:1.80
+Episode:1226 score:-56.61 avgscore:-83.72 highscore:52.67 time:1.69
+Episode:1227 score:-17.32 avgscore:-83.18 highscore:52.67 time:1.30
+Episode:1228 score:4.14 avgscore:-81.57 highscore:52.67 time:1.72
+Episode:1229 score:-55.19 avgscore:-80.74 highscore:52.67 time:1.72
+Episode:1230 score:-17.41 avgscore:-78.66 highscore:52.67 time:2.09
+Episode:1231 score:16.72 avgscore:-76.19 highscore:52.67 time:1.74
+Episode:1232 score:10.71 avgscore:-74.86 highscore:52.67 time:1.18
+Episode:1233 score:-114.80 avgscore:-75.16 highscore:52.67 time:2.03
+Episode:1234 score:-23.43 avgscore:-75.19 highscore:52.67 time:1.82
+Episode:1235 score:50.24 avgscore:-74.52 highscore:52.67 time:1.24
+Episode:1236 score:-47.44 avgscore:-75.35 highscore:52.67 time:1.62
+Episode:1237 score:-19.29 avgscore:-68.99 highscore:52.67 time:1.40
+Episode:1238 score:4.61 avgscore:-67.85 highscore:52.67 time:1.34
+Episode:1239 score:2.85 avgscore:-67.36 highscore:52.67 time:1.43
+Episode:1240 score:-25.34 avgscore:-68.00 highscore:52.67 time:1.32
+Episode:1241 score:-3.24 avgscore:-62.15 highscore:52.67 time:1.60
+Episode:1242 score:-20.98 avgscore:-60.46 highscore:52.67 time:0.97
+Episode:1243 score:-14.55 avgscore:-58.19 highscore:52.67 time:1.14
+Episode:1244 score:50.73 avgscore:-51.07 highscore:52.67 time:0.94
+Episode:1245 score:-19.46 avgscore:-46.48 highscore:52.67 time:1.81
+Episode:1246 score:-23.95 avgscore:-38.41 highscore:52.67 time:1.60
+Episode:1247 score:-9.18 avgscore:-39.21 highscore:52.67 time:1.05
+Episode:1248 score:3.18 avgscore:-37.57 highscore:52.67 time:1.33
+Episode:1249 score:-11.46 avgscore:-29.05 highscore:52.67 time:1.24
+Episode:1250 score:-79.58 avgscore:-29.82 highscore:52.67 time:1.62
+Episode:1251 score:38.29 avgscore:-29.50 highscore:52.67 time:1.22
+Episode:1252 score:-6.75 avgscore:-18.21 highscore:52.67 time:1.25
+Episode:1253 score:0.72 avgscore:-17.75 highscore:52.67 time:1.39
+Episode:1254 score:11.19 avgscore:-17.95 highscore:52.67 time:1.72
+Episode:1255 score:13.46 avgscore:-18.04 highscore:52.67 time:1.66
+Episode:1256 score:-7.28 avgscore:-18.76 highscore:52.67 time:1.17
+Episode:1257 score:-129.86 avgscore:-19.82 highscore:52.67 time:105.50
+Episode:1258 score:-122.76 avgscore:-22.79 highscore:52.67 time:1.94
+Episode:1259 score:38.94 avgscore:-22.15 highscore:52.67 time:1.28
+Episode:1260 score:-52.59 avgscore:-24.01 highscore:52.67 time:1.69
+Episode:1261 score:0.08 avgscore:-24.46 highscore:52.67 time:1.38
+Episode:1262 score:40.93 avgscore:-23.20 highscore:52.67 time:1.80
+Episode:1263 score:-47.58 avgscore:-23.92 highscore:52.67 time:1.55
+Episode:1264 score:-37.64 avgscore:-23.75 highscore:52.67 time:1.43
+Episode:1265 score:-51.66 avgscore:-24.73 highscore:52.67 time:1.36
+Episode:1266 score:-25.41 avgscore:-25.27 highscore:52.67 time:1.55
+Episode:1267 score:-4.77 avgscore:-17.09 highscore:52.67 time:0.86
+Episode:1268 score:-16.04 avgscore:-16.82 highscore:52.67 time:1.44
+Episode:1269 score:-32.96 avgscore:-17.80 highscore:52.67 time:1.26
+Episode:1270 score:-8.16 avgscore:-17.78 highscore:52.67 time:1.17
+Episode:1271 score:-273.77 avgscore:-21.46 highscore:52.67 time:107.07
+Episode:1272 score:-47.32 avgscore:-23.12 highscore:52.67 time:1.31
+Episode:1273 score:-134.85 avgscore:-25.69 highscore:52.67 time:2.93
+Episode:1274 score:-4.21 avgscore:-25.93 highscore:52.67 time:1.50
+Episode:1275 score:-74.02 avgscore:-27.00 highscore:52.67 time:1.38
+Episode:1276 score:-53.00 avgscore:-26.93 highscore:52.67 time:1.75
+Episode:1277 score:-244.08 avgscore:-31.46 highscore:52.67 time:108.11
+Episode:1278 score:8.75 avgscore:-31.37 highscore:52.67 time:1.31
+Episode:1279 score:-63.55 avgscore:-31.54 highscore:52.67 time:2.53
+Episode:1280 score:-79.26 avgscore:-32.78 highscore:52.67 time:1.90
+Episode:1281 score:31.70 avgscore:-32.48 highscore:52.67 time:1.31
+Episode:1282 score:-68.31 avgscore:-34.06 highscore:52.67 time:1.59
+Episode:1283 score:-46.22 avgscore:-32.69 highscore:52.67 time:1.94
+Episode:1284 score:-11.48 avgscore:-32.45 highscore:52.67 time:1.37
+Episode:1285 score:2.64 avgscore:-33.40 highscore:52.67 time:1.92
+Episode:1286 score:-23.16 avgscore:-32.91 highscore:52.67 time:1.25
+Episode:1287 score:-47.37 avgscore:-33.47 highscore:52.67 time:1.03
+Episode:1288 score:-36.82 avgscore:-34.30 highscore:52.67 time:1.34
+Episode:1289 score:-339.20 avgscore:-41.14 highscore:52.67 time:108.08
+Episode:1290 score:-0.84 avgscore:-40.65 highscore:52.67 time:1.71
+Episode:1291 score:15.81 avgscore:-40.27 highscore:52.67 time:1.25
+Episode:1292 score:-142.36 avgscore:-42.70 highscore:52.67 time:1.48
+Episode:1293 score:7.92 avgscore:-42.25 highscore:52.67 time:1.39
+Episode:1294 score:38.01 avgscore:-42.51 highscore:52.67 time:1.39
+Episode:1295 score:37.66 avgscore:-41.36 highscore:52.67 time:1.66
+Episode:1296 score:14.75 avgscore:-40.59 highscore:52.67 time:1.23
+Episode:1297 score:-32.11 avgscore:-41.05 highscore:52.67 time:2.23
+Episode:1298 score:-0.12 avgscore:-41.11 highscore:52.67 time:1.42
+Episode:1299 score:28.55 avgscore:-40.31 highscore:52.67 time:1.67
+Episode:1300 score:18.26 avgscore:-38.36 highscore:52.67 time:1.44
+
+Evaluation at episode 1300
+Evaluation Episode:1 score:4.947235549574842
+Evaluation Episode:2 score:-50.77019996697877
+Evaluation Episode:3 score:68.55816396550765
+Evaluation Episode:4 score:-5.1153490186007815
+Evaluation Episode:5 score:34.547465719219474
+Evaluation Episode:6 score:21.460970707376873
+Evaluation Episode:7 score:-67.65564689368344
+Evaluation Episode:8 score:-241.43719579407139
+Evaluation Episode:9 score:22.32164389129794
+Evaluation Episode:10 score:-162.40605529883396
+Evaluation at episode 1300 average evaluation score:-37.55489671391915
+
+Episode:1301 score:14.46 avgscore:-38.83 highscore:52.67 time:82.43
+Episode:1302 score:-251.72 avgscore:-43.73 highscore:52.67 time:110.84
+Episode:1303 score:41.49 avgscore:-42.92 highscore:52.67 time:2.24
+Episode:1304 score:45.48 avgscore:-42.23 highscore:52.67 time:1.58
+Episode:1305 score:-234.04 avgscore:-47.18 highscore:52.67 time:110.81
+Episode:1306 score:-141.99 avgscore:-49.88 highscore:52.67 time:14.48
+Episode:1307 score:-11.91 avgscore:-47.52 highscore:52.67 time:1.58
+Episode:1308 score:-80.74 avgscore:-46.68 highscore:52.67 time:1.73
+Episode:1309 score:-65.11 avgscore:-48.76 highscore:52.67 time:1.84
+Episode:1310 score:-135.94 avgscore:-50.42 highscore:52.67 time:1.87
+Episode:1311 score:-426.44 avgscore:-58.96 highscore:52.67 time:52.40
+Episode:1312 score:51.09 avgscore:-58.75 highscore:52.67 time:1.42
+Episode:1313 score:3.22 avgscore:-57.74 highscore:52.67 time:1.80
+Episode:1314 score:-5.53 avgscore:-57.09 highscore:52.67 time:1.81
+Episode:1315 score:-27.62 avgscore:-56.61 highscore:52.67 time:2.00
+Episode:1316 score:-185.35 avgscore:-59.81 highscore:52.67 time:111.19
+Episode:1317 score:-6.64 avgscore:-59.85 highscore:52.67 time:1.66
+Episode:1318 score:-17.20 avgscore:-59.87 highscore:52.67 time:1.82
+Episode:1319 score:-120.71 avgscore:-61.63 highscore:52.67 time:3.58
+Episode:1320 score:-43.98 avgscore:-62.34 highscore:52.67 time:1.65
+Episode:1321 score:-60.59 avgscore:-58.08 highscore:52.67 time:1.72
+Episode:1322 score:19.42 avgscore:-56.75 highscore:52.67 time:1.84
+Episode:1323 score:-210.92 avgscore:-58.27 highscore:52.67 time:108.83
+Episode:1324 score:-17.11 avgscore:-58.52 highscore:52.67 time:1.55
+Episode:1325 score:16.05 avgscore:-56.72 highscore:52.67 time:1.30
+Episode:1326 score:-16.87 avgscore:-56.00 highscore:52.67 time:1.44
+Episode:1327 score:4.63 avgscore:-51.03 highscore:52.67 time:1.23
+Episode:1328 score:12.24 avgscore:-50.96 highscore:52.67 time:1.94
+Episode:1329 score:-140.18 avgscore:-52.49 highscore:52.67 time:1.76
+Episode:1330 score:13.38 avgscore:-50.64 highscore:52.67 time:1.40
+Episode:1331 score:-22.73 avgscore:-51.72 highscore:52.67 time:1.84
+Episode:1332 score:35.21 avgscore:-49.65 highscore:52.67 time:1.31
+Episode:1333 score:-59.33 avgscore:-49.92 highscore:52.67 time:1.70
+Episode:1334 score:7.23 avgscore:-49.54 highscore:52.67 time:1.27
+Episode:1335 score:-3.47 avgscore:-49.66 highscore:52.67 time:1.93
+Episode:1336 score:-72.20 avgscore:-50.65 highscore:52.67 time:110.40
+Episode:1337 score:-186.71 avgscore:-53.43 highscore:52.67 time:112.59
+Episode:1338 score:-148.83 avgscore:-55.67 highscore:52.67 time:1.76
+Episode:1339 score:-42.00 avgscore:-49.73 highscore:52.67 time:1.83
+Episode:1340 score:-29.57 avgscore:-50.30 highscore:52.67 time:2.17
+Episode:1341 score:40.42 avgscore:-49.81 highscore:52.67 time:1.36
+Episode:1342 score:23.56 avgscore:-46.49 highscore:52.67 time:1.94
+Episode:1343 score:-54.62 avgscore:-47.74 highscore:52.67 time:1.84
+Episode:1344 score:-18.59 avgscore:-48.87 highscore:52.67 time:1.96
+Episode:1345 score:-171.21 avgscore:-53.05 highscore:52.67 time:111.82
+Episode:1346 score:-115.27 avgscore:-55.65 highscore:52.67 time:110.73
+Episode:1347 score:-4.20 avgscore:-55.09 highscore:52.67 time:1.63
+Episode:1348 score:-120.46 avgscore:-57.50 highscore:52.67 time:108.00
+Episode:1349 score:-175.89 avgscore:-61.59 highscore:52.67 time:1.82
+Episode:1350 score:20.95 avgscore:-61.54 highscore:52.67 time:1.57
+Episode:1351 score:-147.03 avgscore:-64.77 highscore:52.67 time:1.75
+Episode:1352 score:-69.19 avgscore:-61.12 highscore:52.67 time:2.31
+Episode:1353 score:-18.88 avgscore:-62.32 highscore:52.67 time:1.66
+Episode:1354 score:30.38 avgscore:-62.63 highscore:52.67 time:1.49
+Episode:1355 score:-23.06 avgscore:-58.41 highscore:52.67 time:1.99
+Episode:1356 score:2.51 avgscore:-55.52 highscore:52.67 time:2.02
+Episode:1357 score:-7.23 avgscore:-55.42 highscore:52.67 time:1.95
+Episode:1358 score:-84.01 avgscore:-55.49 highscore:52.67 time:112.87
+Episode:1359 score:-70.71 avgscore:-55.60 highscore:52.67 time:1.67
+Episode:1360 score:-41.85 avgscore:-53.72 highscore:52.67 time:1.79
+Episode:1361 score:-9.08 avgscore:-45.37 highscore:52.67 time:1.13
+Episode:1362 score:-21.18 avgscore:-46.82 highscore:52.67 time:1.74
+Episode:1363 score:34.75 avgscore:-46.18 highscore:52.67 time:1.56
+Episode:1364 score:51.14 avgscore:-45.05 highscore:52.67 time:1.54
+Episode:1365 score:-172.20 avgscore:-47.94 highscore:52.67 time:1.88
+Episode:1366 score:-43.17 avgscore:-45.10 highscore:52.67 time:1.68
+Episode:1367 score:-23.14 avgscore:-45.43 highscore:52.67 time:2.20
+Episode:1368 score:-20.08 avgscore:-45.49 highscore:52.67 time:1.57
+Episode:1369 score:-8.93 avgscore:-43.25 highscore:52.67 time:1.99
+Episode:1370 score:205.17 avgscore:-38.27 highscore:205.17 time:5.37
+Episode:1371 score:-81.89 avgscore:-38.69 highscore:205.17 time:2.30
+Episode:1372 score:-135.13 avgscore:-41.79 highscore:205.17 time:113.54
+Episode:1373 score:-29.06 avgscore:-38.15 highscore:205.17 time:2.36
+Episode:1374 score:11.28 avgscore:-37.58 highscore:205.17 time:1.75
+Episode:1375 score:160.36 avgscore:-34.69 highscore:205.17 time:28.42
+Episode:1376 score:-151.91 avgscore:-37.40 highscore:205.17 time:115.59
+Episode:1377 score:4.17 avgscore:-37.40 highscore:205.17 time:1.84
+Episode:1378 score:21.27 avgscore:-37.22 highscore:205.17 time:1.61
+Episode:1379 score:18.15 avgscore:-34.06 highscore:205.17 time:2.24
+Episode:1380 score:64.24 avgscore:-33.04 highscore:205.17 time:1.74
+Episode:1381 score:-82.07 avgscore:-34.23 highscore:205.17 time:1.76
+Episode:1382 score:2.43 avgscore:-34.88 highscore:205.17 time:2.03
+Episode:1383 score:-137.08 avgscore:-36.44 highscore:205.17 time:1.57
+Episode:1384 score:-89.77 avgscore:-38.38 highscore:205.17 time:112.24
+Episode:1385 score:61.16 avgscore:-37.09 highscore:205.17 time:1.63
+Episode:1386 score:-23.52 avgscore:-36.11 highscore:205.17 time:2.02
+Episode:1387 score:-24.16 avgscore:-32.86 highscore:205.17 time:2.16
+Episode:1388 score:20.47 avgscore:-29.47 highscore:205.17 time:1.82
+Episode:1389 score:24.79 avgscore:-28.14 highscore:205.17 time:2.04
+Episode:1390 score:188.76 avgscore:-23.77 highscore:205.17 time:4.39
+Episode:1391 score:118.16 avgscore:-22.22 highscore:205.17 time:90.22
+Episode:1392 score:189.53 avgscore:-18.90 highscore:205.17 time:29.32
+Episode:1393 score:-47.29 avgscore:-18.75 highscore:205.17 time:1.54
+Episode:1394 score:0.73 avgscore:-18.36 highscore:205.17 time:2.05
+Episode:1395 score:-48.15 avgscore:-15.90 highscore:205.17 time:114.42
+Episode:1396 score:-113.58 avgscore:-15.87 highscore:205.17 time:3.02
+Episode:1397 score:-82.44 avgscore:-17.43 highscore:205.17 time:113.27
+Episode:1398 score:0.94 avgscore:-15.01 highscore:205.17 time:2.14
+Episode:1399 score:-46.51 avgscore:-12.42 highscore:205.17 time:2.16
+Episode:1400 score:-198.54 avgscore:-16.81 highscore:205.17 time:114.50
+
+Evaluation at episode 1400
+Evaluation Episode:1 score:-18.09028527949178
+Evaluation Episode:2 score:38.87059388210463
+Evaluation Episode:3 score:13.785007091188902
+Evaluation Episode:4 score:-95.46918427932548
+Evaluation Episode:5 score:112.67276498251273
+Evaluation Episode:6 score:-175.78178596859013
+Evaluation Episode:7 score:179.35401597168433
+Evaluation Episode:8 score:-34.728449943419534
+Evaluation Episode:9 score:28.58261252799511
+Evaluation Episode:10 score:7.673828246901621
+Evaluation at episode 1400 average evaluation score:5.686911723156042
+
+Episode:1401 score:-96.70 avgscore:-15.80 highscore:205.17 time:230.20
+Episode:1402 score:265.65 avgscore:-9.11 highscore:265.65 time:12.47
+Episode:1403 score:-6.80 avgscore:-8.86 highscore:265.65 time:2.19
+Episode:1404 score:-8.53 avgscore:-9.64 highscore:265.65 time:1.99
+Episode:1405 score:151.96 avgscore:-6.14 highscore:265.65 time:17.68
+Episode:1406 score:-1.52 avgscore:-6.22 highscore:265.65 time:1.74
+Episode:1407 score:47.52 avgscore:-5.13 highscore:265.65 time:2.05
+Episode:1408 score:-14.08 avgscore:-3.73 highscore:265.65 time:1.97
+Episode:1409 score:-9.10 avgscore:-2.50 highscore:265.65 time:2.78
+Episode:1410 score:-3.94 avgscore:-1.74 highscore:265.65 time:2.17
+Episode:1411 score:24.48 avgscore:-1.07 highscore:265.65 time:1.98
+Episode:1412 score:127.56 avgscore:1.91 highscore:265.65 time:63.95
+Episode:1413 score:-41.78 avgscore:0.38 highscore:265.65 time:3.35
+Episode:1414 score:-277.03 avgscore:-6.19 highscore:265.65 time:1.82
+Episode:1415 score:-89.50 avgscore:-4.53 highscore:265.65 time:118.29
+Episode:1416 score:-108.48 avgscore:-5.84 highscore:265.65 time:2.37
+Episode:1417 score:243.06 avgscore:-0.51 highscore:265.65 time:9.61
+Episode:1418 score:-151.44 avgscore:-3.14 highscore:265.65 time:3.28
+Episode:1419 score:177.58 avgscore:0.59 highscore:265.65 time:60.56
+Episode:1420 score:-12.84 avgscore:-3.77 highscore:265.65 time:2.37
+Episode:1421 score:208.78 avgscore:2.04 highscore:265.65 time:5.15
+Episode:1422 score:-116.86 avgscore:2.41 highscore:265.65 time:3.84
+Episode:1423 score:-61.02 avgscore:1.77 highscore:265.65 time:3.04
+Episode:1424 score:-115.81 avgscore:-0.77 highscore:265.65 time:117.79
+Episode:1425 score:163.63 avgscore:-0.71 highscore:265.65 time:14.02
+Episode:1426 score:164.73 avgscore:5.62 highscore:265.65 time:25.54
+Episode:1427 score:-108.18 avgscore:3.38 highscore:265.65 time:5.27
+Episode:1428 score:-56.39 avgscore:1.82 highscore:265.65 time:115.69
+Episode:1429 score:-190.75 avgscore:-2.35 highscore:265.65 time:2.88
+Episode:1430 score:-155.48 avgscore:-6.75 highscore:265.65 time:5.93
+Episode:1431 score:125.98 avgscore:-2.59 highscore:265.65 time:100.27
+Episode:1432 score:-138.32 avgscore:-5.40 highscore:265.65 time:2.50
+Episode:1433 score:-140.25 avgscore:-5.47 highscore:265.65 time:2.21
+Episode:1434 score:195.76 avgscore:0.24 highscore:265.65 time:23.25
+Episode:1435 score:-49.43 avgscore:-1.97 highscore:265.65 time:118.30
+Episode:1436 score:213.78 avgscore:2.78 highscore:265.65 time:7.22
+Episode:1437 score:-74.75 avgscore:1.77 highscore:265.65 time:2.73
+Episode:1438 score:-120.91 avgscore:-1.06 highscore:265.65 time:2.18
+Episode:1439 score:236.53 avgscore:3.17 highscore:265.65 time:3.53
+Episode:1440 score:193.91 avgscore:3.28 highscore:265.65 time:4.97
+Episode:1441 score:-154.10 avgscore:-2.17 highscore:265.65 time:2.62
+Episode:1442 score:-84.13 avgscore:-7.64 highscore:265.65 time:1.84
+Episode:1443 score:-9.82 avgscore:-6.89 highscore:265.65 time:1.72
+Episode:1444 score:-22.43 avgscore:-7.35 highscore:265.65 time:1.87
+Episode:1445 score:-94.73 avgscore:-8.29 highscore:265.65 time:2.38
+Episode:1446 score:56.98 avgscore:-4.88 highscore:265.65 time:1.60
+Episode:1447 score:232.79 avgscore:1.43 highscore:265.65 time:6.56
+Episode:1448 score:-43.54 avgscore:0.54 highscore:265.65 time:2.21
+Episode:1449 score:32.46 avgscore:2.12 highscore:265.65 time:1.74
+Episode:1450 score:-83.31 avgscore:4.42 highscore:265.65 time:2.04
+Episode:1451 score:25.05 avgscore:6.86 highscore:265.65 time:2.25
+Episode:1452 score:28.05 avgscore:2.11 highscore:265.65 time:2.51
+Episode:1453 score:-123.02 avgscore:-0.22 highscore:265.65 time:2.69
+Episode:1454 score:-3.60 avgscore:-0.12 highscore:265.65 time:2.12
+Episode:1455 score:206.63 avgscore:0.97 highscore:265.65 time:5.45
+Episode:1456 score:-38.28 avgscore:0.24 highscore:265.65 time:2.23
+Episode:1457 score:228.29 avgscore:3.85 highscore:265.65 time:4.74
+Episode:1458 score:10.25 avgscore:4.34 highscore:265.65 time:2.47
+Episode:1459 score:-64.74 avgscore:3.23 highscore:265.65 time:1.79
+Episode:1460 score:67.46 avgscore:4.66 highscore:265.65 time:2.36
+Episode:1461 score:-8.81 avgscore:3.99 highscore:265.65 time:2.32
+Episode:1462 score:10.46 avgscore:1.65 highscore:265.65 time:3.54
+Episode:1463 score:18.36 avgscore:2.85 highscore:265.65 time:2.15
+Episode:1464 score:260.02 avgscore:13.59 highscore:265.65 time:5.10
+Episode:1465 score:234.75 avgscore:20.08 highscore:265.65 time:5.48
+Episode:1466 score:-7.55 avgscore:22.10 highscore:265.65 time:2.68
+Episode:1467 score:220.28 avgscore:21.64 highscore:265.65 time:3.19
+Episode:1468 score:211.78 avgscore:28.90 highscore:265.65 time:4.62
+Episode:1469 score:-48.07 avgscore:24.39 highscore:265.65 time:3.19
+Episode:1470 score:202.91 avgscore:28.71 highscore:265.65 time:5.66
+Episode:1471 score:10.97 avgscore:24.75 highscore:265.65 time:2.55
+Episode:1472 score:288.25 avgscore:32.85 highscore:288.25 time:3.67
+Episode:1473 score:-17.58 avgscore:33.72 highscore:288.25 time:2.42
+Episode:1474 score:242.42 avgscore:40.89 highscore:288.25 time:4.42
+Episode:1475 score:-182.85 avgscore:33.96 highscore:288.25 time:1.82
+Episode:1476 score:-265.41 avgscore:25.35 highscore:288.25 time:7.34
+Episode:1477 score:2.36 avgscore:27.56 highscore:288.25 time:3.14
+Episode:1478 score:200.06 avgscore:32.69 highscore:288.25 time:4.76
+Episode:1479 score:-61.44 avgscore:35.28 highscore:288.25 time:3.03
+Episode:1480 score:239.89 avgscore:43.19 highscore:288.25 time:6.57
+Episode:1481 score:-30.80 avgscore:40.05 highscore:288.25 time:3.33
+Episode:1482 score:-39.66 avgscore:42.03 highscore:288.25 time:3.26
+Episode:1483 score:215.83 avgscore:49.15 highscore:288.25 time:6.94
+Episode:1484 score:221.29 avgscore:49.66 highscore:288.25 time:5.87
+Episode:1485 score:234.57 avgscore:55.34 highscore:288.25 time:3.88
+Episode:1486 score:-63.53 avgscore:49.79 highscore:288.25 time:3.70
+Episode:1487 score:-11.49 avgscore:51.06 highscore:288.25 time:3.13
+Episode:1488 score:201.94 avgscore:57.51 highscore:288.25 time:4.66
+Episode:1489 score:201.92 avgscore:56.82 highscore:288.25 time:5.26
+Episode:1490 score:-182.26 avgscore:49.30 highscore:288.25 time:2.90
+Episode:1491 score:-88.92 avgscore:50.60 highscore:288.25 time:5.47
+Episode:1492 score:139.40 avgscore:55.07 highscore:288.25 time:4.87
+Episode:1493 score:248.49 avgscore:60.24 highscore:288.25 time:3.95
+Episode:1494 score:157.48 avgscore:63.84 highscore:288.25 time:4.97
+Episode:1495 score:-57.02 avgscore:64.59 highscore:288.25 time:2.00
+Episode:1496 score:162.50 avgscore:66.70 highscore:288.25 time:4.82
+Episode:1497 score:-49.81 avgscore:61.05 highscore:288.25 time:2.05
+Episode:1498 score:252.67 avgscore:66.97 highscore:288.25 time:4.20
+Episode:1499 score:241.15 avgscore:71.15 highscore:288.25 time:4.04
+Episode:1500 score:-8.36 avgscore:72.65 highscore:288.25 time:2.86
+
+Evaluation at episode 1500
+Evaluation Episode:1 score:263.3652449943013
+Evaluation Episode:2 score:-15.042894144006084
+Evaluation Episode:3 score:-43.36363145310525
+Evaluation Episode:4 score:258.01920450580656
+Evaluation Episode:5 score:-162.64804938456774
+Evaluation Episode:6 score:259.7609306366059
+Evaluation Episode:7 score:-13.063073079441608
+Evaluation Episode:8 score:6.940657562383876
+Evaluation Episode:9 score:19.15041305756577
+Evaluation Episode:10 score:249.89106038551176
+Evaluation at episode 1500 average evaluation score:82.30098630810545
+
+Episode:1501 score:-0.16 avgscore:72.14 highscore:288.25 time:22.20
+Episode:1502 score:-115.57 avgscore:69.27 highscore:288.25 time:2.28
+Episode:1503 score:-70.27 avgscore:70.32 highscore:288.25 time:2.51
+Episode:1504 score:14.96 avgscore:70.70 highscore:288.25 time:2.98
+Episode:1505 score:275.99 avgscore:72.08 highscore:288.25 time:3.28
+Episode:1506 score:259.33 avgscore:78.04 highscore:288.25 time:4.13
+Episode:1507 score:-36.49 avgscore:72.74 highscore:288.25 time:2.73
+Episode:1508 score:269.58 avgscore:77.93 highscore:288.25 time:3.74
+Episode:1509 score:42.67 avgscore:80.07 highscore:288.25 time:2.98
+Episode:1510 score:-57.31 avgscore:77.58 highscore:288.25 time:2.48
+Episode:1511 score:137.88 avgscore:80.51 highscore:288.25 time:5.97
+Episode:1512 score:250.13 avgscore:85.31 highscore:288.25 time:4.11
+Episode:1513 score:211.41 avgscore:89.17 highscore:288.25 time:5.27
+Episode:1514 score:-28.03 avgscore:83.41 highscore:288.25 time:2.21
+Episode:1515 score:191.14 avgscore:82.53 highscore:288.25 time:3.63
+Episode:1516 score:13.01 avgscore:82.94 highscore:288.25 time:2.43
+Episode:1517 score:-15.06 avgscore:78.24 highscore:288.25 time:2.25
+Episode:1518 score:-17.07 avgscore:73.66 highscore:288.25 time:2.59
+Episode:1519 score:16.90 avgscore:74.96 highscore:288.25 time:2.34
+Episode:1520 score:11.85 avgscore:71.14 highscore:288.25 time:2.21
+Episode:1521 score:255.65 avgscore:76.03 highscore:288.25 time:6.79
+Episode:1522 score:-80.95 avgscore:68.65 highscore:288.25 time:2.57
+Episode:1523 score:20.94 avgscore:69.42 highscore:288.25 time:3.18
+Episode:1524 score:54.92 avgscore:65.67 highscore:288.25 time:2.55
+Episode:1525 score:217.59 avgscore:73.68 highscore:288.25 time:4.55
+Episode:1526 score:11.07 avgscore:79.21 highscore:288.25 time:2.51
+Episode:1527 score:-75.15 avgscore:77.66 highscore:288.25 time:2.23
+Episode:1528 score:28.79 avgscore:74.23 highscore:288.25 time:2.44
+Episode:1529 score:-40.32 avgscore:74.65 highscore:288.25 time:1.94
+Episode:1530 score:-37.20 avgscore:69.11 highscore:288.25 time:2.14
+Episode:1531 score:276.39 avgscore:75.26 highscore:288.25 time:3.74
+Episode:1532 score:168.25 avgscore:79.41 highscore:288.25 time:3.81
+Episode:1533 score:-38.78 avgscore:74.32 highscore:288.25 time:1.91
+Episode:1534 score:162.75 avgscore:73.15 highscore:288.25 time:4.84
+Episode:1535 score:-59.34 avgscore:67.27 highscore:288.25 time:2.45
+Episode:1536 score:-44.89 avgscore:67.65 highscore:288.25 time:2.66
+Episode:1537 score:-39.46 avgscore:67.09 highscore:288.25 time:2.69
+Episode:1538 score:217.13 avgscore:67.39 highscore:288.25 time:4.11
+Episode:1539 score:193.12 avgscore:67.21 highscore:288.25 time:4.70
+Episode:1540 score:232.43 avgscore:75.51 highscore:288.25 time:3.37
+Episode:1541 score:183.17 avgscore:80.95 highscore:288.25 time:3.67
+Episode:1542 score:-14.60 avgscore:77.87 highscore:288.25 time:2.45
+Episode:1543 score:248.72 avgscore:77.87 highscore:288.25 time:3.36
+Episode:1544 score:212.91 avgscore:78.98 highscore:288.25 time:7.99
+Episode:1545 score:220.96 avgscore:84.54 highscore:288.25 time:5.91
+Episode:1546 score:-41.06 avgscore:80.47 highscore:288.25 time:2.64
+Episode:1547 score:-74.87 avgscore:79.97 highscore:288.25 time:2.69
+Episode:1548 score:219.90 avgscore:79.31 highscore:288.25 time:4.19
+Episode:1549 score:196.71 avgscore:78.43 highscore:288.25 time:4.61
+Episode:1550 score:-45.81 avgscore:77.68 highscore:288.25 time:3.31
+Episode:1551 score:211.60 avgscore:81.91 highscore:288.25 time:4.84
+Episode:1552 score:216.42 avgscore:88.55 highscore:288.25 time:6.54
+Episode:1553 score:230.46 avgscore:94.57 highscore:288.25 time:5.19
+Episode:1554 score:203.32 avgscore:98.33 highscore:288.25 time:7.40
+Episode:1555 score:-33.51 avgscore:92.14 highscore:288.25 time:2.99
+Episode:1556 score:-30.85 avgscore:86.34 highscore:288.25 time:3.15
+Episode:1557 score:-16.84 avgscore:86.73 highscore:288.25 time:3.35
+Episode:1558 score:221.07 avgscore:85.76 highscore:288.25 time:4.49
+Episode:1559 score:-100.89 avgscore:82.89 highscore:288.25 time:1.88
+Episode:1560 score:26.90 avgscore:84.58 highscore:288.25 time:3.92
+Episode:1561 score:-357.63 avgscore:74.67 highscore:288.25 time:3.63
+Episode:1562 score:-62.27 avgscore:68.42 highscore:288.25 time:4.96
+Episode:1563 score:6.28 avgscore:64.31 highscore:288.25 time:3.53
+Episode:1564 score:252.22 avgscore:69.92 highscore:288.25 time:4.33
+Episode:1565 score:169.43 avgscore:69.49 highscore:288.25 time:4.40
+Episode:1566 score:178.41 avgscore:72.79 highscore:288.25 time:6.20
+Episode:1567 score:-49.79 avgscore:72.10 highscore:288.25 time:2.09
+Episode:1568 score:218.86 avgscore:76.82 highscore:288.25 time:5.62
+Episode:1569 score:226.45 avgscore:81.01 highscore:288.25 time:4.22
+Episode:1570 score:-4.56 avgscore:80.68 highscore:288.25 time:1.98
+Episode:1571 score:197.32 avgscore:79.51 highscore:288.25 time:5.41
+Episode:1572 score:216.28 avgscore:85.46 highscore:288.25 time:4.58
+Episode:1573 score:244.00 avgscore:89.92 highscore:288.25 time:3.67
+Episode:1574 score:-37.90 avgscore:88.06 highscore:288.25 time:3.59
+Episode:1575 score:44.33 avgscore:84.60 highscore:288.25 time:2.44
+Episode:1576 score:253.66 avgscore:89.45 highscore:288.25 time:3.40
+Episode:1577 score:-190.05 avgscore:87.15 highscore:288.25 time:6.29
+Episode:1578 score:-54.52 avgscore:85.49 highscore:288.25 time:3.65
+Episode:1579 score:-30.97 avgscore:85.67 highscore:288.25 time:3.94
+Episode:1580 score:12.87 avgscore:86.67 highscore:288.25 time:3.94
+Episode:1581 score:106.08 avgscore:83.27 highscore:288.25 time:6.38
+Episode:1582 score:208.12 avgscore:84.06 highscore:288.25 time:4.15
+Episode:1583 score:253.72 avgscore:89.91 highscore:288.25 time:5.39
+Episode:1584 score:159.91 avgscore:89.86 highscore:288.25 time:6.86
+Episode:1585 score:173.02 avgscore:94.51 highscore:288.25 time:5.66
+Episode:1586 score:231.08 avgscore:100.02 highscore:288.25 time:4.49
+Episode:1587 score:187.36 avgscore:104.56 highscore:288.25 time:5.72
+Episode:1588 score:-37.70 avgscore:99.46 highscore:288.25 time:2.55
+Episode:1589 score:29.21 avgscore:96.19 highscore:288.25 time:3.77
+Episode:1590 score:134.00 avgscore:94.22 highscore:288.25 time:7.98
+Episode:1591 score:-64.52 avgscore:89.26 highscore:288.25 time:4.04
+Episode:1592 score:25.46 avgscore:90.07 highscore:288.25 time:3.01
+Episode:1593 score:176.15 avgscore:88.61 highscore:288.25 time:3.77
+Episode:1594 score:202.35 avgscore:88.40 highscore:288.25 time:4.70
+Episode:1595 score:223.43 avgscore:88.45 highscore:288.25 time:6.38
+Episode:1596 score:240.63 avgscore:94.09 highscore:288.25 time:4.46
+Episode:1597 score:247.11 avgscore:100.53 highscore:288.25 time:4.73
+Episode:1598 score:232.29 avgscore:100.77 highscore:288.25 time:5.17
+Episode:1599 score:194.75 avgscore:100.73 highscore:288.25 time:6.56
+Episode:1600 score:213.84 avgscore:105.93 highscore:288.25 time:6.09
+
+Evaluation at episode 1600
+Evaluation Episode:1 score:269.38192386608597
+Evaluation Episode:2 score:235.0575176567018
+Evaluation Episode:3 score:242.93468109981052
+Evaluation Episode:4 score:162.65966946875176
+Evaluation Episode:5 score:198.64974614100498
+Evaluation Episode:6 score:233.74302564727714
+Evaluation Episode:7 score:12.061392246182251
+Evaluation Episode:8 score:14.418925772702693
+Evaluation Episode:9 score:247.58704688802786
+Evaluation Episode:10 score:-41.37783271218643
+Evaluation at episode 1600 average evaluation score:157.51160960743582
+
+Episode:1601 score:212.27 avgscore:105.94 highscore:288.25 time:34.31
+Episode:1602 score:227.79 avgscore:106.17 highscore:288.25 time:5.14
+Episode:1603 score:29.76 avgscore:102.15 highscore:288.25 time:4.00
+Episode:1604 score:231.65 avgscore:102.72 highscore:288.25 time:4.52
+Episode:1605 score:197.85 avgscore:107.35 highscore:288.25 time:5.66
+Episode:1606 score:267.78 avgscore:113.32 highscore:288.25 time:3.86
+Episode:1607 score:25.03 avgscore:114.16 highscore:288.25 time:2.91
+Episode:1608 score:122.53 avgscore:112.19 highscore:288.25 time:4.51
+Episode:1609 score:197.52 avgscore:118.15 highscore:288.25 time:4.20
+Episode:1610 score:41.63 avgscore:118.45 highscore:288.25 time:3.56
+Episode:1611 score:-21.03 avgscore:125.18 highscore:288.25 time:2.54
+Episode:1612 score:257.64 avgscore:131.58 highscore:288.25 time:4.53
+Episode:1613 score:279.23 avgscore:137.04 highscore:288.25 time:5.15
+Episode:1614 score:12.04 avgscore:132.23 highscore:288.25 time:2.45
+Episode:1615 score:-27.62 avgscore:128.29 highscore:288.25 time:2.62
+Episode:1616 score:273.43 avgscore:130.19 highscore:288.25 time:4.57
+Episode:1617 score:149.18 avgscore:134.17 highscore:288.25 time:4.84
+Episode:1618 score:280.63 avgscore:135.41 highscore:288.25 time:3.99
+Episode:1619 score:219.13 avgscore:135.26 highscore:288.25 time:4.12
+Episode:1620 score:155.40 avgscore:138.46 highscore:288.25 time:5.18
+Episode:1621 score:-90.71 avgscore:132.70 highscore:288.25 time:4.26
+Episode:1622 score:36.03 avgscore:129.10 highscore:288.25 time:3.36
+Episode:1623 score:-32.78 avgscore:123.56 highscore:288.25 time:2.80
+Episode:1624 score:239.34 avgscore:129.11 highscore:288.25 time:3.95
+Episode:1625 score:199.53 avgscore:132.21 highscore:288.25 time:4.23
+Episode:1626 score:83.41 avgscore:128.80 highscore:288.25 time:5.14
+Episode:1627 score:195.53 avgscore:136.52 highscore:288.25 time:5.26
+Episode:1628 score:185.20 avgscore:141.31 highscore:288.25 time:5.12
+Episode:1629 score:5.50 avgscore:142.04 highscore:288.25 time:4.12
+Episode:1630 score:205.09 avgscore:145.88 highscore:288.25 time:4.97
+Episode:1631 score:250.44 avgscore:148.77 highscore:288.25 time:4.69
+Episode:1632 score:199.49 avgscore:148.60 highscore:288.25 time:11.14
+Episode:1633 score:226.19 avgscore:148.05 highscore:288.25 time:5.31
+Episode:1634 score:218.51 avgscore:149.22 highscore:288.25 time:5.50
+Episode:1635 score:202.66 avgscore:149.81 highscore:288.25 time:3.72
+Episode:1636 score:250.47 avgscore:150.20 highscore:288.25 time:4.58
+Episode:1637 score:-41.38 avgscore:145.63 highscore:288.25 time:4.45
+Episode:1638 score:-133.38 avgscore:143.71 highscore:288.25 time:4.55
+Episode:1639 score:124.37 avgscore:145.62 highscore:288.25 time:7.03
+Episode:1640 score:-139.38 avgscore:140.15 highscore:288.25 time:7.27
+Episode:1641 score:259.45 avgscore:146.63 highscore:288.25 time:4.33
+Episode:1642 score:220.81 avgscore:150.54 highscore:288.25 time:5.62
+Episode:1643 score:264.96 avgscore:152.31 highscore:288.25 time:6.39
+Episode:1644 score:253.14 avgscore:153.33 highscore:288.25 time:3.97
+Episode:1645 score:260.36 avgscore:154.07 highscore:288.25 time:3.80
+Episode:1646 score:257.64 avgscore:154.41 highscore:288.25 time:3.48
+Episode:1647 score:276.41 avgscore:154.99 highscore:288.25 time:4.41
+Episode:1648 score:4.94 avgscore:150.44 highscore:288.25 time:2.43
+Episode:1649 score:-0.06 avgscore:146.55 highscore:288.25 time:2.45
+Episode:1650 score:154.10 avgscore:145.35 highscore:288.25 time:7.07
+Episode:1651 score:31.28 avgscore:141.73 highscore:288.25 time:3.07
+Episode:1652 score:185.97 avgscore:140.90 highscore:288.25 time:4.73
+Episode:1653 score:220.35 avgscore:144.71 highscore:288.25 time:4.25
+Episode:1654 score:194.44 avgscore:143.97 highscore:288.25 time:7.78
+Episode:1655 score:20.66 avgscore:140.42 highscore:288.25 time:2.65
+Episode:1656 score:256.38 avgscore:140.19 highscore:288.25 time:3.87
+Episode:1657 score:293.86 avgscore:145.57 highscore:293.86 time:3.83
+Episode:1658 score:-52.45 avgscore:142.07 highscore:293.86 time:1.87
+Episode:1659 score:-2.85 avgscore:138.06 highscore:293.86 time:2.96
+Episode:1660 score:-13.10 avgscore:136.97 highscore:293.86 time:2.25
+Episode:1661 score:246.06 avgscore:142.31 highscore:293.86 time:3.64
+Episode:1662 score:233.38 avgscore:141.83 highscore:293.86 time:4.68
+Episode:1663 score:148.09 avgscore:139.20 highscore:293.86 time:6.73
+Episode:1664 score:31.56 avgscore:139.59 highscore:293.86 time:2.80
+Episode:1665 score:-51.11 avgscore:139.12 highscore:293.86 time:2.61
+Episode:1666 score:4.58 avgscore:133.75 highscore:293.86 time:1.97
+Episode:1667 score:25.33 avgscore:131.27 highscore:293.86 time:3.00
+Episode:1668 score:200.85 avgscore:129.67 highscore:293.86 time:4.08
+Episode:1669 score:269.89 avgscore:130.69 highscore:293.86 time:3.22
+Episode:1670 score:267.45 avgscore:132.93 highscore:293.86 time:2.87
+Episode:1671 score:276.06 avgscore:140.27 highscore:293.86 time:4.00
+Episode:1672 score:283.64 avgscore:145.22 highscore:293.86 time:3.43
+Episode:1673 score:300.54 avgscore:151.88 highscore:300.54 time:3.79
+Episode:1674 score:270.85 avgscore:152.51 highscore:300.54 time:4.60
+Episode:1675 score:247.95 avgscore:153.48 highscore:300.54 time:3.76
+Episode:1676 score:65.14 avgscore:153.12 highscore:300.54 time:2.32
+Episode:1677 score:284.95 avgscore:154.91 highscore:300.54 time:3.14
+Episode:1678 score:-18.78 avgscore:150.83 highscore:300.54 time:2.21
+Episode:1679 score:234.76 avgscore:155.41 highscore:300.54 time:2.50
+Episode:1680 score:-0.84 avgscore:151.29 highscore:300.54 time:1.77
+Episode:1681 score:-31.26 avgscore:145.66 highscore:300.54 time:1.90
+Episode:1682 score:263.67 avgscore:146.94 highscore:300.54 time:3.34
+Episode:1683 score:-6.48 avgscore:142.29 highscore:300.54 time:1.60
+Episode:1684 score:61.42 avgscore:139.15 highscore:300.54 time:1.58
+Episode:1685 score:31.38 avgscore:135.72 highscore:300.54 time:2.18
+Episode:1686 score:202.38 avgscore:134.76 highscore:300.54 time:2.83
+Episode:1687 score:278.12 avgscore:141.15 highscore:300.54 time:2.08
+Episode:1688 score:37.05 avgscore:144.56 highscore:300.54 time:1.35
+Episode:1689 score:-8.56 avgscore:141.90 highscore:300.54 time:1.38
+Episode:1690 score:36.52 avgscore:145.42 highscore:300.54 time:1.58
+Episode:1691 score:15.87 avgscore:140.55 highscore:300.54 time:1.28
+Episode:1692 score:278.30 avgscore:141.70 highscore:300.54 time:2.77
+Episode:1693 score:259.03 avgscore:141.58 highscore:300.54 time:2.43
+Episode:1694 score:22.47 avgscore:136.96 highscore:300.54 time:1.32
+Episode:1695 score:286.73 avgscore:137.49 highscore:300.54 time:2.85
+Episode:1696 score:33.28 avgscore:133.00 highscore:300.54 time:1.61
+Episode:1697 score:244.13 avgscore:132.36 highscore:300.54 time:5.90
+Episode:1698 score:14.30 avgscore:132.55 highscore:300.54 time:1.58
+Episode:1699 score:-19.07 avgscore:132.17 highscore:300.54 time:1.86
+Episode:1700 score:248.07 avgscore:134.05 highscore:300.54 time:2.45
+
+Evaluation at episode 1700
+Evaluation Episode:1 score:39.88657608347114
+Evaluation Episode:2 score:20.979455155361478
+Evaluation Episode:3 score:-34.33868048907446
+Evaluation Episode:4 score:49.38248412754737
+Evaluation Episode:5 score:-13.491460372516954
+Evaluation Episode:6 score:41.75821080652673
+Evaluation Episode:7 score:1.9374835769636434
+Evaluation Episode:8 score:275.4046262643943
+Evaluation Episode:9 score:7.165715200578205
+Evaluation Episode:10 score:6.639970565507326
+Evaluation at episode 1700 average evaluation score:39.532438091875875
+
+Episode:1701 score:8.56 avgscore:133.59 highscore:300.54 time:13.30
+Episode:1702 score:28.23 avgscore:130.44 highscore:300.54 time:1.55
+Episode:1703 score:257.84 avgscore:131.19 highscore:300.54 time:2.01
+Episode:1704 score:27.69 avgscore:127.85 highscore:300.54 time:1.62
+Episode:1705 score:-35.74 avgscore:126.72 highscore:300.54 time:1.49
+Episode:1706 score:14.66 avgscore:121.89 highscore:300.54 time:1.34
+Episode:1707 score:34.10 avgscore:116.69 highscore:300.54 time:1.40
+Episode:1708 score:250.24 avgscore:122.75 highscore:300.54 time:3.04
+Episode:1709 score:47.07 avgscore:123.75 highscore:300.54 time:1.61
+Episode:1710 score:26.84 avgscore:124.54 highscore:300.54 time:1.10
+Episode:1711 score:259.58 avgscore:124.81 highscore:300.54 time:2.39
+Episode:1712 score:7.06 avgscore:120.29 highscore:300.54 time:1.53
+Episode:1713 score:256.59 avgscore:122.46 highscore:300.54 time:3.12
+Episode:1714 score:228.12 avgscore:126.39 highscore:300.54 time:2.03
+Episode:1715 score:245.48 avgscore:132.32 highscore:300.54 time:4.33
+Episode:1716 score:248.52 avgscore:137.20 highscore:300.54 time:2.55
+Episode:1717 score:-30.06 avgscore:136.09 highscore:300.54 time:1.38
+Episode:1718 score:41.49 avgscore:132.90 highscore:300.54 time:1.79
+Episode:1719 score:247.98 avgscore:132.47 highscore:300.54 time:3.04
+Episode:1720 score:50.69 avgscore:128.13 highscore:300.54 time:1.56
+Episode:1721 score:55.38 avgscore:123.72 highscore:300.54 time:1.57
+Episode:1722 score:45.28 avgscore:118.95 highscore:300.54 time:1.77
+Episode:1723 score:11.93 avgscore:113.18 highscore:300.54 time:2.45
+Episode:1724 score:52.45 avgscore:108.81 highscore:300.54 time:1.71
+Episode:1725 score:-21.95 avgscore:103.41 highscore:300.54 time:2.00
+Episode:1726 score:32.47 avgscore:102.76 highscore:300.54 time:1.75
+Episode:1727 score:283.78 avgscore:102.74 highscore:300.54 time:3.12
+Episode:1728 score:-79.85 avgscore:101.51 highscore:300.54 time:2.07
+Episode:1729 score:251.74 avgscore:101.85 highscore:300.54 time:3.69
+Episode:1730 score:0.08 avgscore:101.87 highscore:300.54 time:1.34
+Episode:1731 score:7.56 avgscore:102.65 highscore:300.54 time:1.62
+Episode:1732 score:284.40 avgscore:103.06 highscore:300.54 time:3.52
+Episode:1733 score:279.30 avgscore:108.78 highscore:300.54 time:2.77
+Episode:1734 score:257.83 avgscore:112.71 highscore:300.54 time:4.69
+Episode:1735 score:200.16 avgscore:116.08 highscore:300.54 time:3.87
+Episode:1736 score:56.79 avgscore:113.17 highscore:300.54 time:1.98
+Episode:1737 score:-37.75 avgscore:106.85 highscore:300.54 time:2.50
+Episode:1738 score:-22.50 avgscore:105.66 highscore:300.54 time:2.59
+Episode:1739 score:272.40 avgscore:111.28 highscore:300.54 time:3.12
+Episode:1740 score:241.88 avgscore:115.39 highscore:300.54 time:2.59
+Episode:1741 score:-74.72 avgscore:113.58 highscore:300.54 time:2.15
+Episode:1742 score:240.49 avgscore:112.82 highscore:300.54 time:2.84
+Episode:1743 score:-32.01 avgscore:107.00 highscore:300.54 time:2.34
+Episode:1744 score:-50.02 avgscore:105.55 highscore:300.54 time:1.88
+Episode:1745 score:-125.10 avgscore:97.31 highscore:300.54 time:3.30
+Episode:1746 score:53.43 avgscore:97.72 highscore:300.54 time:1.59
+Episode:1747 score:260.76 avgscore:98.05 highscore:300.54 time:3.08
+Episode:1748 score:30.62 avgscore:98.38 highscore:300.54 time:1.44
+Episode:1749 score:261.48 avgscore:103.99 highscore:300.54 time:3.71
+Episode:1750 score:51.01 avgscore:100.05 highscore:300.54 time:2.18
+Episode:1751 score:311.35 avgscore:106.10 highscore:311.35 time:2.59
+Episode:1752 score:-46.16 avgscore:104.61 highscore:311.35 time:1.31
+Episode:1753 score:193.17 avgscore:103.32 highscore:311.35 time:2.97
+Episode:1754 score:215.16 avgscore:107.07 highscore:311.35 time:3.48
+Episode:1755 score:-1.18 avgscore:107.76 highscore:311.35 time:1.56
+Episode:1756 score:274.61 avgscore:112.96 highscore:311.35 time:2.72
+Episode:1757 score:45.47 avgscore:113.19 highscore:311.35 time:1.68
+Episode:1758 score:21.11 avgscore:108.60 highscore:311.35 time:1.84
+Episode:1759 score:0.84 avgscore:107.68 highscore:311.35 time:2.06
+Episode:1760 score:222.75 avgscore:111.60 highscore:311.35 time:2.89
+Episode:1761 score:212.89 avgscore:110.66 highscore:311.35 time:2.31
+Episode:1762 score:214.51 avgscore:114.81 highscore:311.35 time:2.56
+Episode:1763 score:198.64 avgscore:113.65 highscore:311.35 time:2.87
+Episode:1764 score:-19.26 avgscore:108.71 highscore:311.35 time:2.21
+Episode:1765 score:57.01 avgscore:104.94 highscore:311.35 time:1.75
+Episode:1766 score:228.79 avgscore:104.54 highscore:311.35 time:4.12
+Episode:1767 score:269.84 avgscore:110.54 highscore:311.35 time:2.43
+Episode:1768 score:36.54 avgscore:110.44 highscore:311.35 time:1.79
+Episode:1769 score:-48.98 avgscore:104.50 highscore:311.35 time:2.67
+Episode:1770 score:275.53 avgscore:109.00 highscore:311.35 time:2.48
+Episode:1771 score:51.22 avgscore:108.92 highscore:311.35 time:2.00
+Episode:1772 score:-9.80 avgscore:107.81 highscore:311.35 time:2.32
+Episode:1773 score:4.08 avgscore:107.66 highscore:311.35 time:2.14
+Episode:1774 score:-7.00 avgscore:106.47 highscore:311.35 time:1.87
+Episode:1775 score:253.54 avgscore:111.98 highscore:311.35 time:3.11
+Episode:1776 score:42.90 avgscore:112.19 highscore:311.35 time:1.60
+Episode:1777 score:281.46 avgscore:112.14 highscore:311.35 time:2.99
+Episode:1778 score:20.77 avgscore:114.15 highscore:311.35 time:2.38
+Episode:1779 score:-44.63 avgscore:108.23 highscore:311.35 time:2.26
+Episode:1780 score:263.12 avgscore:113.49 highscore:311.35 time:3.27
+Episode:1781 score:243.17 avgscore:118.20 highscore:311.35 time:3.30
+Episode:1782 score:225.48 avgscore:117.02 highscore:311.35 time:3.76
+Episode:1783 score:34.25 avgscore:112.12 highscore:311.35 time:1.45
+Episode:1784 score:260.51 avgscore:112.17 highscore:311.35 time:3.48
+Episode:1785 score:258.14 avgscore:113.33 highscore:311.35 time:2.80
+Episode:1786 score:23.95 avgscore:112.68 highscore:311.35 time:2.77
+Episode:1787 score:259.85 avgscore:118.63 highscore:311.35 time:2.74
+Episode:1788 score:51.95 avgscore:120.12 highscore:311.35 time:1.81
+Episode:1789 score:248.48 avgscore:119.64 highscore:311.35 time:3.25
+Episode:1790 score:279.98 avgscore:120.40 highscore:311.35 time:3.62
+Episode:1791 score:182.91 avgscore:125.55 highscore:311.35 time:3.50
+Episode:1792 score:257.50 avgscore:125.89 highscore:311.35 time:2.20
+Episode:1793 score:266.12 avgscore:131.86 highscore:311.35 time:3.71
+Episode:1794 score:245.13 avgscore:137.76 highscore:311.35 time:2.93
+Episode:1795 score:-38.40 avgscore:139.49 highscore:311.35 time:2.32
+Episode:1796 score:271.42 avgscore:143.85 highscore:311.35 time:3.11
+Episode:1797 score:258.38 avgscore:143.80 highscore:311.35 time:4.57
+Episode:1798 score:30.86 avgscore:143.81 highscore:311.35 time:2.13
+Episode:1799 score:-26.26 avgscore:138.05 highscore:311.35 time:2.54
+Episode:1800 score:254.20 avgscore:142.12 highscore:311.35 time:4.23
+
+Evaluation at episode 1800
+Evaluation Episode:1 score:264.71844790931937
+Evaluation Episode:2 score:41.50231836266653
+Evaluation Episode:3 score:239.91442615634676
+Evaluation Episode:4 score:267.13253719635566
+Evaluation Episode:5 score:192.5559258416221
+Evaluation Episode:6 score:272.33294359021295
+Evaluation Episode:7 score:265.14721363497443
+Evaluation Episode:8 score:245.52353079538062
+Evaluation Episode:9 score:245.2611937218454
+Evaluation Episode:10 score:254.76966660541984
+Evaluation at episode 1800 average evaluation score:228.88582038141436
+
+Episode:1801 score:21.75 avgscore:136.33 highscore:311.35 time:25.32
+Episode:1802 score:270.96 avgscore:142.67 highscore:311.35 time:3.26
+Episode:1803 score:166.84 avgscore:142.14 highscore:311.35 time:4.68
+Episode:1804 score:276.50 avgscore:143.37 highscore:311.35 time:3.65
+Episode:1805 score:281.35 avgscore:149.02 highscore:311.35 time:4.47
+Episode:1806 score:249.07 avgscore:148.51 highscore:311.35 time:3.41
+Episode:1807 score:230.17 avgscore:152.20 highscore:311.35 time:2.58
+Episode:1808 score:269.93 avgscore:157.18 highscore:311.35 time:3.05
+Episode:1809 score:28.62 avgscore:157.73 highscore:311.35 time:1.85
+Episode:1810 score:245.99 avgscore:158.20 highscore:311.35 time:4.50
+Episode:1811 score:264.62 avgscore:159.23 highscore:311.35 time:3.05
+Episode:1812 score:14.20 avgscore:155.23 highscore:311.35 time:2.18
+Episode:1813 score:222.29 avgscore:155.70 highscore:311.35 time:4.33
+Episode:1814 score:-135.50 avgscore:153.38 highscore:311.35 time:3.33
+Episode:1815 score:271.26 avgscore:157.66 highscore:311.35 time:2.85
+Episode:1816 score:32.84 avgscore:153.74 highscore:311.35 time:1.47
+Episode:1817 score:52.65 avgscore:149.40 highscore:311.35 time:1.86
+Episode:1818 score:243.20 avgscore:153.53 highscore:311.35 time:3.46
+Episode:1819 score:270.89 avgscore:159.93 highscore:311.35 time:2.58
+Episode:1820 score:184.10 avgscore:158.10 highscore:311.35 time:3.03
+Episode:1821 score:10.64 avgscore:157.29 highscore:311.35 time:1.52
+Episode:1822 score:285.45 avgscore:163.19 highscore:311.35 time:2.66
+Episode:1823 score:272.37 avgscore:168.56 highscore:311.35 time:2.38
+Episode:1824 score:43.48 avgscore:169.57 highscore:311.35 time:1.38
+Episode:1825 score:-17.39 avgscore:164.15 highscore:311.35 time:1.26
+Episode:1826 score:255.26 avgscore:168.40 highscore:311.35 time:2.99
+Episode:1827 score:29.20 avgscore:163.35 highscore:311.35 time:1.77
+Episode:1828 score:257.44 avgscore:168.09 highscore:311.35 time:2.29
+Episode:1829 score:258.48 avgscore:174.15 highscore:311.35 time:2.41
+Episode:1830 score:296.67 avgscore:174.82 highscore:311.35 time:3.56
+Episode:1831 score:225.47 avgscore:174.47 highscore:311.35 time:3.08
+Episode:1832 score:258.96 avgscore:175.13 highscore:311.35 time:2.99
+Episode:1833 score:-9.85 avgscore:174.25 highscore:311.35 time:1.76
+Episode:1834 score:226.69 avgscore:173.58 highscore:311.35 time:2.73
+Episode:1835 score:-44.83 avgscore:167.52 highscore:311.35 time:1.70
+Episode:1836 score:253.10 avgscore:172.10 highscore:311.35 time:1.93
+Episode:1837 score:244.72 avgscore:171.80 highscore:311.35 time:2.47
+Episode:1838 score:-7.00 avgscore:170.62 highscore:311.35 time:1.56
+Episode:1839 score:250.34 avgscore:170.65 highscore:311.35 time:2.94
+Episode:1840 score:255.33 avgscore:170.16 highscore:311.35 time:2.38
+Episode:1841 score:-17.03 avgscore:166.16 highscore:311.35 time:1.68
+Episode:1842 score:51.99 avgscore:162.05 highscore:311.35 time:1.41
+Episode:1843 score:25.66 avgscore:157.24 highscore:311.35 time:1.89
+Episode:1844 score:242.43 avgscore:157.19 highscore:311.35 time:2.36
+Episode:1845 score:9.90 avgscore:158.16 highscore:311.35 time:1.61
+Episode:1846 score:256.13 avgscore:157.85 highscore:311.35 time:3.07
+Episode:1847 score:37.32 avgscore:153.43 highscore:311.35 time:1.78
+Episode:1848 score:-3.21 avgscore:152.75 highscore:311.35 time:1.52
+Episode:1849 score:218.25 avgscore:157.64 highscore:311.35 time:2.14
+Episode:1850 score:282.19 avgscore:158.20 highscore:311.35 time:1.82
+Episode:1851 score:263.85 avgscore:163.04 highscore:311.35 time:2.78
+Episode:1852 score:250.30 avgscore:162.63 highscore:311.35 time:2.06
+Episode:1853 score:51.71 avgscore:160.32 highscore:311.35 time:1.33
+Episode:1854 score:46.01 avgscore:155.71 highscore:311.35 time:1.68
+Episode:1855 score:267.01 avgscore:155.43 highscore:311.35 time:3.04
+Episode:1856 score:44.69 avgscore:151.34 highscore:311.35 time:1.31
+Episode:1857 score:244.96 avgscore:151.64 highscore:311.35 time:2.62
+Episode:1858 score:39.52 avgscore:147.03 highscore:311.35 time:1.28
+Episode:1859 score:58.94 avgscore:147.63 highscore:311.35 time:1.46
+Episode:1860 score:27.52 avgscore:143.26 highscore:311.35 time:1.48
+Episode:1861 score:54.99 avgscore:139.07 highscore:311.35 time:1.72
+Episode:1862 score:254.42 avgscore:143.88 highscore:311.35 time:2.37
+Episode:1863 score:263.19 avgscore:144.69 highscore:311.35 time:1.92
+Episode:1864 score:4.18 avgscore:147.49 highscore:311.35 time:1.60
+Episode:1865 score:282.26 avgscore:147.71 highscore:311.35 time:1.96
+Episode:1866 score:23.44 avgscore:147.52 highscore:311.35 time:1.01
+Episode:1867 score:270.31 avgscore:151.87 highscore:311.35 time:2.73
+Episode:1868 score:36.16 avgscore:147.73 highscore:311.35 time:1.39
+Episode:1869 score:224.66 avgscore:146.81 highscore:311.35 time:2.58
+Episode:1870 score:48.76 avgscore:144.10 highscore:311.35 time:1.02
+Episode:1871 score:226.09 avgscore:148.41 highscore:311.35 time:2.31
+Episode:1872 score:39.11 avgscore:143.48 highscore:311.35 time:1.61
+Episode:1873 score:4.58 avgscore:138.13 highscore:311.35 time:1.47
+Episode:1874 score:239.18 avgscore:142.04 highscore:311.35 time:2.80
+Episode:1875 score:30.18 avgscore:142.99 highscore:311.35 time:1.77
+Episode:1876 score:259.28 avgscore:143.07 highscore:311.35 time:2.06
+Episode:1877 score:241.70 avgscore:147.32 highscore:311.35 time:2.48
+Episode:1878 score:7.64 avgscore:142.33 highscore:311.35 time:1.03
+Episode:1879 score:37.72 avgscore:137.91 highscore:311.35 time:1.61
+Episode:1880 score:39.26 avgscore:132.76 highscore:311.35 time:1.13
+Episode:1881 score:54.78 avgscore:129.35 highscore:311.35 time:1.58
+Episode:1882 score:275.81 avgscore:129.69 highscore:311.35 time:2.19
+Episode:1883 score:292.66 avgscore:135.74 highscore:311.35 time:1.81
+Episode:1884 score:271.95 avgscore:136.64 highscore:311.35 time:1.63
+Episode:1885 score:255.68 avgscore:142.65 highscore:311.35 time:2.44
+Episode:1886 score:61.36 avgscore:138.82 highscore:311.35 time:1.71
+Episode:1887 score:12.53 avgscore:134.17 highscore:311.35 time:1.83
+Episode:1888 score:15.12 avgscore:134.62 highscore:311.35 time:1.88
+Episode:1889 score:58.87 avgscore:130.79 highscore:311.35 time:1.70
+Episode:1890 score:256.08 avgscore:130.80 highscore:311.35 time:2.50
+Episode:1891 score:297.70 avgscore:137.10 highscore:311.35 time:2.84
+Episode:1892 score:271.62 avgscore:141.49 highscore:311.35 time:2.38
+Episode:1893 score:4.48 avgscore:141.07 highscore:311.35 time:1.55
+Episode:1894 score:239.96 avgscore:141.02 highscore:311.35 time:2.50
+Episode:1895 score:69.05 avgscore:142.20 highscore:311.35 time:1.94
+Episode:1896 score:257.98 avgscore:142.24 highscore:311.35 time:2.97
+Episode:1897 score:262.41 avgscore:146.74 highscore:311.35 time:2.94
+Episode:1898 score:258.94 avgscore:151.98 highscore:311.35 time:3.40
+Episode:1899 score:275.66 avgscore:153.13 highscore:311.35 time:3.10
+Episode:1900 score:214.86 avgscore:151.78 highscore:311.35 time:3.13
+
+Evaluation at episode 1900
+Evaluation Episode:1 score:137.44857725539288
+Evaluation Episode:2 score:287.4398416221975
+Evaluation Episode:3 score:251.98701171605563
+Evaluation Episode:4 score:276.98330213899885
+Evaluation Episode:5 score:217.6627831916423
+Evaluation Episode:6 score:252.47972619596354
+Evaluation Episode:7 score:28.638601222392737
+Evaluation Episode:8 score:296.0302606956383
+Evaluation Episode:9 score:246.55281608950125
+Evaluation Episode:10 score:234.27197181960537
+Evaluation at episode 1900 average evaluation score:222.94948919473882
