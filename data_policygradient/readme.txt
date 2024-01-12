@@ -16,5 +16,5 @@ run 6: learning rate 0.0005, gamma 0.99, fc_dim 256, time_threshold 30
 run 7: learning rate 0.0005, gamma 0.99, fc_dim 256, time_threshold 20
 
 for effect of learning rate, compare runs 1,2,3
-for effect of fc_dim, compare runs 1,4,5
-for effect of time_threshold, compare runs 1,6,7
+for effect of fc_dim, compare runs 2,4,5
+for effect of time_threshold, compare runs 2,6,7
