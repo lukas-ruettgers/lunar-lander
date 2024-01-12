@@ -11,10 +11,12 @@ run 1: learning rate 0.0003, gamma 0.99, fc_dim 256, time_threshold 40
 run 2: learning rate 0.0005, gamma 0.99, fc_dim 256, time_threshold 40
 run 3: learning rate 0.0007, gamma 0.99, fc_dim 256, time_threshold 40
 run 4: learning rate 0.0005, gamma 0.99, fc_dim 128, time_threshold 40
-run 5: learning rate 0.0005, gamma 0.99, fc_dim 512, time_threshold 40
+run 5: learning rate 0.0005, gamma 0.99, fc_dim 64, time_threshold 40
 run 6: learning rate 0.0005, gamma 0.99, fc_dim 256, time_threshold 30
 run 7: learning rate 0.0005, gamma 0.99, fc_dim 256, time_threshold 20
 
 for effect of learning rate, compare runs 1,2,3
 for effect of fc_dim, compare runs 2,4,5
 for effect of time_threshold, compare runs 2,6,7
+
+note: for run 4 onwards, i chose learning rate 0.0005 only because learning rate 0.0003 did not really converge (see run 1). sorry for any confusion.
