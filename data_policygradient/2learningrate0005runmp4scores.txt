@@ -3,3 +3,6 @@ Round:1 score:257.98209201205674
 Round:2 score:229.07157118510662
 Round:3 score:-35.71532360307374
 Round:4 score:-40.70379758200127
+
+success (landed within flags): round 1
+note: poor performance due to unlearning after convergence
