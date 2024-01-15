@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.14)  11 JAN 2024 14:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.14)  15 JAN 2024 10:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1123,137 +1123,208 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 147.
- [1
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+50.
+
+(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [1
 
 {C:/Users/lukas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/luka
 s/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/lukas/Ap
-pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/lukas/AppDat
-a/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/lukas/AppDat
-a/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] [2{C:/Users/lukas/Ap
-pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] [3]
-Overfull \hbox (21.37152pt too wide) detected at line 215
+pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/lukas/AppDa
+ta/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/lukas/AppData/L
+ocal/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/lukas/AppData/L
+ocal/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] [2{C:/Users/lukas/AppDa
+ta/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] [3]
+Overfull \hbox (21.37152pt too wide) detected at line 222
 []
  []
 
 [4]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 228.
+put line 235.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 233.
+(Font)              <10> on input line 240.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 233.
+(Font)              <7> on input line 240.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 233.
+(Font)              <5> on input line 240.
  [5
 pdfTeX warning (ext4): destination with the same identifier (name{figure.captio
 n.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.265 	\[
-         J(\theta')-J(\theta)=\mathbb{E}_{\tau\sim P_{\pi_{\theta'}}}\left[\...
-] [6
+         V^{(j+1)}(s_t)=A_n(s_t,a_t):=\sum_{i=0}^{T-1}\left(\gamma^i r(s_{t+...
+] [6] [7
 pdfTeX warning (ext4): destination with the same identifier (name{figure.captio
 n.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.301 	\begin{itemize}
-                      ]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3
-02.
-
-(C:\Users\lukas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [7{C:/Users/lukas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc
-}] [8]
-<ppo_figures/custom_env_results.png, id=174, 734.9859pt x 395.3169pt>
+l.323 	
+       ] [8] [9]
+<ppo_figures/custom_env_results.png, id=208, 734.9859pt x 395.3169pt>
 File: ppo_figures/custom_env_results.png Graphic file (type png)
 <use ppo_figures/custom_env_results.png>
 Package pdftex.def Info: ppo_figures/custom_env_results.png  used on input line
- 374.
+ 383.
 (pdftex.def)             Requested size: 232.17242pt x 124.87534pt.
-<ppo_figures/default_env_results.png, id=176, 741.4902pt x 395.3169pt>
+<ppo_figures/default_env_results.png, id=210, 741.4902pt x 395.3169pt>
 File: ppo_figures/default_env_results.png Graphic file (type png)
 <use ppo_figures/default_env_results.png>
 Package pdftex.def Info: ppo_figures/default_env_results.png  used on input lin
-e 379.
+e 388.
 (pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
-<ppo_figures/combined_env_results.png, id=177, 734.9859pt x 395.3169pt>
+<ppo_figures/combined_env_results.png, id=211, 734.9859pt x 395.3169pt>
 File: ppo_figures/combined_env_results.png Graphic file (type png)
 <use ppo_figures/combined_env_results.png>
 Package pdftex.def Info: ppo_figures/combined_env_results.png  used on input li
-ne 384.
+ne 393.
 (pdftex.def)             Requested size: 232.17242pt x 124.87534pt.
-
-[9] [10 <./ppo_figures/custom_env_results.png> <./ppo_figures/default_env_resul
-ts.png> <./ppo_figures/combined_env_results.png>]
-<ppo_figures/lr_results_0.01.png, id=194, 741.4902pt x 395.3169pt>
+ [10 <./ppo_figures/custom_env_results.png> <./ppo_figures/default_env_results.
+png> <./ppo_figures/combined_env_results.png>]
+<ppo_figures/lr_results_0.01.png, id=223, 741.4902pt x 395.3169pt>
 File: ppo_figures/lr_results_0.01.png Graphic file (type png)
 <use ppo_figures/lr_results_0.01.png>
-Package pdftex.def Info: ppo_figures/lr_results_0.01.png  used on input line 40
-4.
+Package pdftex.def Info: ppo_figures/lr_results_0.01.png  used on input line 41
+3.
 (pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
-<ppo_figures/lr_results_0.001.png, id=195, 773.89125pt x 411.03563pt>
+<ppo_figures/lr_results_0.001.png, id=224, 773.89125pt x 411.03563pt>
 File: ppo_figures/lr_results_0.001.png Graphic file (type png)
 <use ppo_figures/lr_results_0.001.png>
 Package pdftex.def Info: ppo_figures/lr_results_0.001.png  used on input line 4
-09.
+18.
 (pdftex.def)             Requested size: 232.17242pt x 123.31163pt.
-<ppo_figures/lr_results_0.0003.png, id=196, 741.4902pt x 395.3169pt>
+<ppo_figures/lr_results_0.0003.png, id=225, 741.4902pt x 395.3169pt>
 File: ppo_figures/lr_results_0.0003.png Graphic file (type png)
 <use ppo_figures/lr_results_0.0003.png>
 Package pdftex.def Info: ppo_figures/lr_results_0.0003.png  used on input line 
-414.
+423.
 (pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
  [11 <./ppo_figures/lr_results_0.01.png> <./ppo_figures/lr_results_0.001.png> <
 ./ppo_figures/lr_results_0.0003.png>]
-<ppo_figures/gamma_results_0.5.png, id=209, 749.4399pt x 395.3169pt>
+<ppo_figures/gamma_results_0.5.png, id=238, 749.4399pt x 395.3169pt>
 File: ppo_figures/gamma_results_0.5.png Graphic file (type png)
 <use ppo_figures/gamma_results_0.5.png>
 Package pdftex.def Info: ppo_figures/gamma_results_0.5.png  used on input line 
-430.
+439.
 (pdftex.def)             Requested size: 232.17242pt x 122.46251pt.
-<ppo_figures/gamma_results_0.7.png, id=210, 748.7172pt x 395.3169pt>
+<ppo_figures/gamma_results_0.7.png, id=239, 748.7172pt x 395.3169pt>
 File: ppo_figures/gamma_results_0.7.png Graphic file (type png)
 <use ppo_figures/gamma_results_0.7.png>
 Package pdftex.def Info: ppo_figures/gamma_results_0.7.png  used on input line 
-435.
+444.
 (pdftex.def)             Requested size: 232.17242pt x 122.58316pt.
-<ppo_figures/gamma_results_0.9.png, id=211, 741.4902pt x 395.3169pt>
+<ppo_figures/gamma_results_0.9.png, id=240, 741.4902pt x 395.3169pt>
 File: ppo_figures/gamma_results_0.9.png Graphic file (type png)
 <use ppo_figures/gamma_results_0.9.png>
 Package pdftex.def Info: ppo_figures/gamma_results_0.9.png  used on input line 
-440.
+449.
 (pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
-<ppo_figures/cr_results_0.1.png, id=219, 734.9859pt x 395.3169pt>
+<ppo_figures/cr_results_0.1.png, id=248, 734.9859pt x 395.3169pt>
 File: ppo_figures/cr_results_0.1.png Graphic file (type png)
 <use ppo_figures/cr_results_0.1.png>
-Package pdftex.def Info: ppo_figures/cr_results_0.1.png  used on input line 458
+Package pdftex.def Info: ppo_figures/cr_results_0.1.png  used on input line 467
 .
 (pdftex.def)             Requested size: 232.17242pt x 124.87534pt.
-<ppo_figures/cr_results_0.3.png, id=220, 741.4902pt x 395.3169pt>
+<ppo_figures/cr_results_0.3.png, id=249, 741.4902pt x 395.3169pt>
 File: ppo_figures/cr_results_0.3.png Graphic file (type png)
 <use ppo_figures/cr_results_0.3.png>
-Package pdftex.def Info: ppo_figures/cr_results_0.3.png  used on input line 463
+Package pdftex.def Info: ppo_figures/cr_results_0.3.png  used on input line 472
 .
 (pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
-<ppo_figures/cr_results_0.2.png, id=221, 741.4902pt x 395.3169pt>
+<ppo_figures/cr_results_0.2.png, id=250, 741.4902pt x 395.3169pt>
 File: ppo_figures/cr_results_0.2.png Graphic file (type png)
 <use ppo_figures/cr_results_0.2.png>
-Package pdftex.def Info: ppo_figures/cr_results_0.2.png  used on input line 468
+Package pdftex.def Info: ppo_figures/cr_results_0.2.png  used on input line 477
 .
 (pdftex.def)             Requested size: 232.17242pt x 123.7775pt.
  [12 <./ppo_figures/gamma_results_0.5.png> <./ppo_figures/gamma_results_0.7.png
-> <./ppo_figures/gamma_results_0.9.png>] (ml_report.bbl) [13 <./ppo_figures/cr_
-results_0.1.png> <./ppo_figures/cr_results_0.3.png> <./ppo_figures/cr_results_0
-.2.png>] (ml_report.aux)
+> <./ppo_figures/gamma_results_0.9.png>] [13 <./ppo_figures/cr_results_0.1.png>
+ <./ppo_figures/cr_results_0.3.png> <./ppo_figures/cr_results_0.2.png>]
+<data_policygradient/stages.png, id=276, 469.755pt x 246.1697pt>
+File: data_policygradient/stages.png Graphic file (type png)
+<use data_policygradient/stages.png>
+Package pdftex.def Info: data_policygradient/stages.png  used on input line 511
+.
+(pdftex.def)             Requested size: 232.17242pt x 121.66467pt.
+<data_policygradient/stages_background.PNG, id=277, 811.833pt x 431.81325pt>
+File: data_policygradient/stages_background.PNG Graphic file (type png)
+<use data_policygradient/stages_background.PNG>
+Package pdftex.def Info: data_policygradient/stages_background.PNG  used on inp
+ut line 516.
+(pdftex.def)             Requested size: 232.17242pt x 123.48973pt.
+<data_policygradient/1defaultrun.PNG, id=278, 820.86674pt x 487.22025pt>
+File: data_policygradient/1defaultrun.PNG Graphic file (type png)
+<use data_policygradient/1defaultrun.PNG>
+Package pdftex.def Info: data_policygradient/1defaultrun.PNG  used on input lin
+e 534.
+(pdftex.def)             Requested size: 232.17242pt x 137.80353pt.
+<data_policygradient/2learningrate0005run.PNG, id=279, 813.0375pt x 490.83376pt
+>
+File: data_policygradient/2learningrate0005run.PNG Graphic file (type png)
+<use data_policygradient/2learningrate0005run.PNG>
+Package pdftex.def Info: data_policygradient/2learningrate0005run.PNG  used on 
+input line 539.
+(pdftex.def)             Requested size: 232.17242pt x 140.15869pt.
+<data_policygradient/3learningrate0007run.PNG, id=280, 813.63976pt x 486.618pt>
+
+File: data_policygradient/3learningrate0007run.PNG Graphic file (type png)
+<use data_policygradient/3learningrate0007run.PNG>
+Package pdftex.def Info: data_policygradient/3learningrate0007run.PNG  used on 
+input line 544.
+(pdftex.def)             Requested size: 232.17242pt x 138.85834pt.
+ [14 <./data_policygradient/stages.png> <./data_policygradient/stages_backgroun
+d.PNG>]
+<data_policygradient/5fcdim64run.PNG, id=291, 818.45775pt x 487.8225pt>
+File: data_policygradient/5fcdim64run.PNG Graphic file (type png)
+<use data_policygradient/5fcdim64run.PNG>
+Package pdftex.def Info: data_policygradient/5fcdim64run.PNG  used on input lin
+e 560.
+(pdftex.def)             Requested size: 232.17242pt x 138.37582pt.
+<data_policygradient/4fcdim128run.PNG, id=292, 813.63976pt x 484.81125pt>
+File: data_policygradient/4fcdim128run.PNG Graphic file (type png)
+<use data_policygradient/4fcdim128run.PNG>
+Package pdftex.def Info: data_policygradient/4fcdim128run.PNG  used on input li
+ne 565.
+(pdftex.def)             Requested size: 232.17242pt x 138.34277pt.
+File: data_policygradient/2learningrate0005run.PNG Graphic file (type png)
+<use data_policygradient/2learningrate0005run.PNG>
+Package pdftex.def Info: data_policygradient/2learningrate0005run.PNG  used on 
+input line 570.
+(pdftex.def)             Requested size: 232.17242pt x 140.15869pt.
+ [15 <./data_policygradient/1defaultrun.PNG> <./data_policygradient/2learningra
+te0005run.PNG> <./data_policygradient/3learningrate0007run.PNG>]
+<data_policygradient/7timethreshold20run.PNG, id=301, 814.242pt x 488.42474pt>
+File: data_policygradient/7timethreshold20run.PNG Graphic file (type png)
+<use data_policygradient/7timethreshold20run.PNG>
+Package pdftex.def Info: data_policygradient/7timethreshold20run.PNG  used on i
+nput line 588.
+(pdftex.def)             Requested size: 232.17242pt x 139.26956pt.
+<data_policygradient/6timethreshold30run.PNG, id=302, 813.0375pt x 484.81125pt>
+
+File: data_policygradient/6timethreshold30run.PNG Graphic file (type png)
+<use data_policygradient/6timethreshold30run.PNG>
+Package pdftex.def Info: data_policygradient/6timethreshold30run.PNG  used on i
+nput line 593.
+(pdftex.def)             Requested size: 232.17242pt x 138.43895pt.
+File: data_policygradient/2learningrate0005run.PNG Graphic file (type png)
+<use data_policygradient/2learningrate0005run.PNG>
+Package pdftex.def Info: data_policygradient/2learningrate0005run.PNG  used on 
+input line 598.
+(pdftex.def)             Requested size: 232.17242pt x 140.15869pt.
+ [16 <./data_policygradient/5fcdim64run.PNG> <./data_policygradient/4fcdim128ru
+n.PNG>] [17 <./data_policygradient/7timethreshold20run.PNG> <./data_policygradi
+ent/6timethreshold30run.PNG>] (ml_report.bbl) [18] (ml_report.aux)
 Package rerunfilecheck Info: File `ml_report.out' has not changed.
-(rerunfilecheck)             Checksum: AE372A798AD5CF94313691D5E9138B28;2725.
+(rerunfilecheck)             Checksum: D0926EC1D921D5C794BD2D1EC46B9398;3836.
  ) 
 Here is how much of TeX's memory you used:
- 29957 strings out of 476331
- 580053 string characters out of 5787765
- 1871660 words of memory out of 5000000
- 49795 multiletter control sequences out of 15000+600000
+ 30109 strings out of 476331
+ 584033 string characters out of 5787765
+ 1870660 words of memory out of 5000000
+ 49913 multiletter control sequences out of 15000+600000
  604762 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,12n,104p,1489b,943s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1279,9 +1350,9 @@ as/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/luka
 s/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/luka
 s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
 
-Output written on ml_report.pdf (13 pages, 1748297 bytes).
+Output written on ml_report.pdf (18 pages, 3392607 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 233 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 451 PDF objects out of 1000 (max. 8388607)
+ 86 named destinations out of 1000 (max. 500000)
+ 334 words of extra memory for PDF output out of 10000 (max. 10000000)
 

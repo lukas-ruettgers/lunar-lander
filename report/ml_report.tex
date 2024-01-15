@@ -145,6 +145,13 @@
 	To teach robots such a behaviour, we often formalise this problem in the field of Reinforcement Learning. Although is field of research achieved much attention in the last decades, it still remains a hard challenge to allow robots to abstract from specific experiences and achieve general navigation and manipulation capabilities. In this project report, we study some popular policy optimization methods that are widely used in practice to teach robots such behaviour.
 	To that end, we first formally introduce the problem formulation of Reinforcement Learning and theoretically derive the core approaches. Afterwards, we motivate the development of actor-critic, policy gradient, and policy optimization methods and explain their functioning.
 	We will then conduct experiments with these algorithms on OpenAI's LunarLander simulation environment to investigate how strongly the performance of these algorithms depends on each of the hyperparameters and conclude with an analysis of our results. The implementations, figures, and evaluation videos are publicly accessible at \url{https://github.com/lukas-ruettgers/lunar-lander}.
+	\subsection{Our contributions}
+	\begin{itemize}
+		\item Isaac was in charge of implementing PPO, defining the experiment setup on this agent, conducting the experiments, and reporting the experiment results to Lukas.
+		\item Chenrui implemented a REINFORCE model, also defined the experiment setup on this model, conducted experiments on it, and reported the experiment results along with their evaluation to Lukas.
+		\item The theoretical introduction and derivation of algorithms is attributable to Lukas. Besides the evaluation of the REINFORCE experiments in Section \ref{sec:reinforce} that was written by Chenrui, Lukas independently wrote all other parts of the report.
+		The details on the experiment setup and the figures, videos and other data from experiment were provided by Isaac and Chenrui respectively.
+	\end{itemize}
 	\section{Reinforcement Learning}
 	\subsection{Problem Formulation}
 	Reinforcement Learning addresses the problem of learning successful behaviour in an unknown environment. This environment is usually modeled as a stochastic process, namely a \textit{Markov Decision process} (MDP) $(S,A,r,P,\gamma)$. Every process-relevant detail of the environment is included in a state vector $s\in S$, where $S$ is the set of all possible states the environment can be in. The agent has a state-independent set of actions $a\in A$ that describe his options to influence or interact with the environment. The current state $s$ of the environment is usually affected by the action $a$ of the agent, else the action would be useless. 
@@ -243,7 +250,7 @@
 				\ENDWHILE
 			\end{algorithmic}
 		\end{algorithm}
-		\caption{REINFORCE pseudo code algorithm.}
+		\caption{REINFORCE pseudo code algorithm for a Gaussian distribution policy network.}
 		\label{fig:reinforce}
 	\end{figure}
 	
@@ -256,6 +263,7 @@
 	This term is also known as the \textit{advantage function} $A_{\pi_{\theta}}(s_t,a_t):=Q_{\pi_{\theta}}(s_t,a_t)-V_{\pi_{\theta}}(s)$, which measures the advantage, when taking action $a_t$ over alternative actions in $s_t$ and continuing to act by the policy $\pi_{\theta}$. If the rewards perceived in this trajectory are high, then $a_t$ truly exhibits an advantage over the average action, because $V(s_t)$ is defined as the \textit{expectation value} of cumulative rewards.
 	To approximate this advantage function with a good trade-off between Temporal Difference with low variance and Monte Carlo with low bias, one could theoretically choose any $1\leq n \leq T$, accumulate the empirical rewards until step $n$ and cap off with the prior estimate of the value function at the $n$-th state,
 	\[V^{(j+1)}(s_t)=A_n(s_t,a_t):=\sum_{i=0}^{T-1}\left(\gamma^i r(s_{t+i},a_{t+i},s_{t+i+1})\right) +\gamma^n V^{(j)}(s_{t+n})-V^{(j)}(s_t).\]
+	\label{sec:gae}
 	This term $A_n(s_t,a_t)$ is often referred to as the $n$-step approximation of the \textit{advantage function}.
 	The \textit{Generalized Advantage Estimation} combines all these terms into one and steers their importance decay with one hyperparameter $\lambda\in(0,1)$, culminating in
 	\[A_{GAE}(s_t,a_t)=\frac{1}{1-\lambda}\sum_{n=1}^{T}\lambda^n A_n(s_t,a_t)=\frac{1}{1-\lambda}\sum_{i=0}^{T}(\lambda\gamma)^i\left( r(s_{t+i},a_{t+i},s_{t+i+1}+\gamma V(s_{t+i+1})-V(s_{t+i})\right).\]
@@ -266,11 +274,11 @@
 	Intuitively, this means that $\theta'$ is desirable over $\theta$ if the new policy $\pi_{\theta'}$ executes those actions with a higher probability that are advantageous even if we follow the old policy $\pi_{\theta}$ in the subsequent states. Unfortunately, the evaluation of this term requires an approximation of the distribution of states and actions under the very $\theta'$ that we are trying to optimize. Na\"ively, this would require to empirically estimate the distribution under $P_{\pi_{\theta'}}$ with a large number of trajectories for each $\theta'$ we want to consider as a new parameter candidate, which imposes a severe computational limitation on the number of $\theta'$s that one can explore in each update step.
 	Instead we can constrain $\theta'$ to remain close to $\theta$ with regard to $P_{\pi_{\theta}}$. Then approximating 
 	\[\mathbb{E}_{\tau\sim P_{\pi_{\theta'}}}\left[\sum_{t=0}^{\infty} A_{\pi_{\theta}}(s_t,a_t) \right]\approx\mathbb{E}_{\tau\sim P_{\pi_{\theta}}}\left[\sum_{t=0}^{\infty} \frac{\pi_{\theta'}(a_t\mid s_t)}{\pi_{\theta}(a_t\mid s_t)}A_{\pi_{\theta}}(s_t,a_t) \right]\]
-	will not exhibit a large distributional shift in the likelihood of states. \textit{Trust Region Policy Optimization} formulates this as a constrained optimization problem and maximize
+	will not exhibit a large distributional shift in the likelihood of states. \textit{Trust Region Policy Optimization} formulates this as a constrained optimization problem and maximizes
 	\[J(\theta')=\mathbb{E}_{\tau\sim P_{\pi_{\theta}}}\left[\sum_{t=0}^{\infty} \frac{\pi_{\theta'}(a_t\mid s_t)}{\pi_{\theta}(a_t\mid s_t)}A_{\pi_{\theta}}(s_t,a_t) - \delta \operatorname{KL}\left(\pi_{\theta}(a_t\mid s_t)||\pi_{\theta'}(a_t\mid s_t)\right) \right],\]
-	which can be solved by conjugate gradient algorithm that however requires second-order derivatives to approximate the penalty KL divergence term. Instead, \textit{Proximal Policy Optimization} proposes a first-order approximation 
+	which can be solved by a conjugate gradient algorithm that however requires second-order derivatives to approximate the penalty KL divergence term. Instead, \textit{Proximal Policy Optimization} proposes a first-order approximation 
 	\[J(\theta')=\mathbb{E}_{\tau\sim P_{\pi_{\theta}}}\left[\sum_{t=0}^{\infty} \min\left(1+\varepsilon,\frac{\pi_{\theta'}(a_t\mid s_t)}{\pi_{\theta}(a_t\mid s_t)}\right)A_{\pi_{\theta}}(s_t,a_t)\right]\]
-	that clips overly advantageous deviations from the current policy $\pi_{\theta}$ and therefore evokes a more stable, stepwise optimization procedure. Since the estimation of the advantage function requires a state-value function $V$, a separate neural network is trained as \textit{critic}. Together with the critic loss and a term that encourages entropy on the action distribution of $\pi_{\theta'}(a_t\mid s_t)$, the above $J(\theta')$ constitute the loss function $J(\theta',\psi')$. The original paper trains multiple agents in parallel (\cite{schulman2017proximal}), but since it is no specific feature of PPO, we omitted it in the pseudocode in Figure \ref{fig:ppo}.
+	that clips overly advantageous deviations from the current policy $\pi_{\theta}$ and therefore evokes a more stable, stepwise optimization procedure. Since the estimation of the advantage function requires a state-value function $V$, a separate neural network is trained as \textit{critic}. Together with the critic loss and a term that encourages entropy on the action distribution of $\pi_{\theta'}(a_t\mid s_t)$, the above $J(\theta')$ constitute the loss function $J(\theta',\psi')$. The original paper trains multiple agents in parallel \cite{schulman2017proximal}, but since it is no specific feature of PPO, we omitted it in the pseudocode in Figure \ref{fig:ppo}.
 	\begin{figure}[H]
 		\begin{algorithm}[H]
 			\caption{\textbf{Proximal Policy Optimization}}
@@ -312,13 +320,14 @@
 	To assess how such an early termination influenced the environment, we consider different values in the experiments too. We were concerned to not provide our agent a too strong incentive to quickly end the execution, because erratic crashes would then become more acceptable in comparison to the more careful and long-horizon interplay of engine activations that is required to successfully approach and land in the goal area.
 	Over and above, the learning rate that proved most successful in the PPO optimization failed completely to provide a stable and convergent parameter update in the REINFORCE case. For that reason, we considered the choice of an adequate learning rate again an open question for REINFORCE, which makes sense since the network architectures and limitations are of different nature.
 	As smaller learning rates were suggested from reference implementations, we considered learning rates in the $10^{-4}$ domain.
+	
 	For REINFORCE, we hence alternate over
-	% TODO: Specific experiment values.
 	\begin{itemize}
-		\item the learning rates $\alpha=0.0001,0.0003,0.0005$,
-		\item the hidden layer size $H$ of the two hidden layers in the MLP to get a feeling of the required model size to achieve a good performance in the environment, and
+		\item the learning rates $\alpha=0.0003,0.0005,0.0007$,
+		\item the hidden layer size $H=64,128,256$ of the two hidden layers in the MLP to get a feeling of the required model size to achieve a good performance in the environment, and
 		\item the early termination threshold $T=20,30,40$.
 	\end{itemize}
+	Again, we will conduct the experiments sequentially and continue the subsequent experiments with the hyperparameter that proved best among the investigated values. This eventually requires us to conduct only runs for seven different hyperparameter combinations.
 	\subsection{LunarLander Environment}
 	The lunar environment simulates the problem of landing a spacecraft on a platform. The observation space $(q_x,q_y,\vartheta,v_x,v_y,\omega,\ell,r)$ is quasi-continuous and comprises both the robots coordinates, azimuthal angle, linear and angular velocities and two boolean variables that reflect if the left or right leg contact point touched the land.
 	The actions space is finite and merely continue four actions:
@@ -475,6 +484,142 @@
 	\end{figure}
 	
 	\subsection{REINFORCE}
+	\label{sec:reinforce}
+	Eventually, our experiment comprised the following seven hyperparameter combinations:
+	\begin{enumerate}
+	 \item run: learning rate $\alpha=0.0003$, hidden layer size $H=256$, time threshold $T=40$,
+	 \item run: learning rate $\alpha=0.0005$, hidden layer size $H=256$, time threshold $T=40$,
+	 \item run: learning rate $\alpha=0.0007$, hidden layer size $H=256$, time threshold $T=40$,
+	 \item run: learning rate $\alpha=0.0005$, hidden layer size $H=128$, time threshold $T=40$,
+	 \item run: learning rate $\alpha=0.0005$, hidden layer size $H=64$, time threshold  $T=40$,
+	 \item run: learning rate $\alpha=0.0005$, hidden layer size $H=256$, time threshold $T=30$,
+	 \item run: learning rate $\alpha=0.0005$, hidden layer size $H=256$, time threshold $T=20$.
+	\end{enumerate}
+	That is, we first studied the effects of the learning rate in the runs 1, 2 and 3, then fixed $\alpha=0.0005$ and continued with the hidden layer size $H$ across runs 2, 4, 5. Then, we fixed $H=256$ and assessed the time threshold $T$ across runs 2, 6, 7.
+	
+	Initially, we used a standardised design of 3000 training episodes in the training process. In addition, to monitor the performance of the agent, we performed an evaluation over 10 episodes after every 100 training episodes. 
+	For each training episode, a few key metrics are recorded: training episode score, average training score over the last 50 training episodes, and a highscore that is the highest recorded score in the run until that point. During each evaluation period, the scores of each episode and the overall average score are recorded. 
+	At the end of the run, The training scores and average evaluation scores are plotted against the training episodes. The average training scores curve gives a smooth interpretation of the training process. In addition, the videos of the agents performance over five episodes are recorded and available in \texttt{.\ data\_policygradient}. Here, success is measured by the whether the spacecraft landed and came to a stop in between the flags.
+	
+	By the third run, it is noticed that fixing 3000 iterations is not a good idea as the performance of some agents start to degrade with more episodes. An early stopping mechanism is introduced where the performance of the agent is artificially evaluated after every 100 training episodes and evaluation stint. The run will not continue if the average training or evaluation scores are observed to be beyond 200 and have peaked. Not only does this improve the time and space complexity of running the training algorithm, we are also able to evaluate the performance of the agent when it is at its best.
+	\subsection{Training progress}
+	Over the course of the seven runs, we have observed a few clear stages throughout the agent’s learning process, which are depicted in Figure \ref{fig:pg_stages}
+	
+	\begin{figure}[ht]
+		\begin{center}
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{data_policygradient/stages.png}
+				\caption{Overlay with stage description.}
+				\label{fig:pg_stage}
+			\end{subfigure}\hfill 
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{data_policygradient/stages_background.PNG}
+				\caption{Original learning curve.}
+				\label{fig:pg_stagetemplate}
+			\end{subfigure}
+		\end{center}
+		\caption{Considering the evaluation videos along the learning process, each model seems to traverse multiple stages of competence throughout the training process.}
+		\label{fig:pg_stages}
+	\end{figure}
+	
+	The first stage is random trials, where the agent tries random actions at each step. This stage is marked by a large variance in episode scores. Then, it enters the second stage where it focuses on its positioning to maximise rewards by moving towards the goal; and the third stage, which involves slowing down during the descent. These two stages are represented by a gradual increase in scores, and additionally for the third stage, the time taken per episode is also observed to increase slightly. The fourth stage is the touch down. Here, since the agent does not know when to stop firing its rockets, this is indicated by a huge decrease in score (from the waste of fuel), and an increase in time taken per episode (longer episodes, and to process the larger state, action and rewards arrays). Finally, in the final stage, the model will learn through random action exploration that stopping the rockets when it has landed significantly improves the score. This stage is indicated by a huge increase in individual and average scores, and a huge decrease in time taken per episode. With this framework in mind, we are able to determine the stage each run is in at each episode, and therefore compare the learning process across the different runs. 
+	
+	However, it is wise to remain cognisant that the boundaries of these stages may be blurred. Furthermore, the learning process can be highly stochastic even with the same hyperparameter configuration. The advance to the next stages in the framework, while possibly affected sby hyperparameter configurations, is nevertheless highly unexpected and dependent on chance. Thus, the scores and success rate of each individual run only provide a rough gauge of the performance we can expect. 
+	\subsection{Hyperparameters}
+	\subsubsection{Learning rate}
+	Comparing the results across runs 1, 2 and 3, we observe that for run 1 above, a learning rate of 0.0003 is too low and as a result the model failed to converge within the upper bound of 3000 episodes. Here, convergence can be defined as having a definitive peak in scores, or an average training or evaluation score of at least 200. The slow jagged increase in average training scores later in the run indicates that the craft only managed to stop in a portion of the episodes, and that the agent is transitioning between stages 4 and 5 of the learning framework. 
+	\begin{figure}[ht]
+		\begin{center}
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{data_policygradient/1defaultrun.PNG}
+				\caption{$\alpha=0.0003$}
+				\label{fig:pg_lr0.0003}
+			\end{subfigure}\hfill 
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{data_policygradient/2learningrate0005run.PNG}
+				\caption{$\alpha=0.0005$}
+				\label{fig:pg_lr0.0005}
+			\end{subfigure}\\
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{data_policygradient/3learningrate0007run.PNG}
+				\caption{$\alpha=0.0007$}
+				\label{fig:pg_lr0.0007}
+			\end{subfigure} 
+		\end{center}
+		\caption{Training and evaluation rewards of REINFORCE for different learning rates $\alpha=0.0003,0.0005,0.0007$.}
+		\label{fig:pg_lr}
+	\end{figure}
+	
+	Both runs 2 and 3 above managed to converge beyond the score of 200. For run 2, this occurred at the 2000th episode, evidenced by the high average evaluation score of 254.71. Run 3 converged earlier at the 1300th to 1400th episode mark, with evaluation scores of 187.41 and 216.36 respectively. This shows that the model with a lower learning rate of 0.0005 converges later and has slightly better performance than a higher learning rate of 0.0007, which is in line with our expectations. Comparing the performance of the ship from the video clips, we can see that the ships from run 1 exhibit more risky behaviour of landing quicker, and they also have a tendency to fire the rocket after touch down. The ships from runs 2 and 3 on the other hand all landed steadily, and stopped firing their rockets after touchdown. With success defined as stopping the ship in between the flags, the success rates of runs 1, 2 and 3 over the five episodes in the videos are 2, 1 and 3 respectively. However, the success rate of run 2 is underreported due to the performance of the model having diminished after convergence. This can be due to the learning of wrong behaviour or unlearning, which reduces performance.
+	\subsubsection{Hidden layer size}
+	Comparing runs 2, 4 and 5 ($H=256,128,64$ respectively), we can see that the model in run 4 exhibited convergence first at 1800 to 1900 episodes with average evaluation scores of 228.89 and 222.95 respectively (Fig. \ref{fig:pg_h128}), followed by the model in run 2 at 2000 episodes with an average evaluation score of 254.71 (Fig. \ref{fig:pg_h256}), while lastly run 5 only converged after 2900 episodes with an average evaluation score of 189.20 (Fig. \ref{fig:pg_h64}). 
+	The latter is plausible as the lower hidden layer size $H=64$ shrinks the capacity of the neural network to capture key trends in the state, action and rewards dynamics, leading to poorer parameter estimation. However, because policy gradient approach is highly stochastic and unexpected, how early or late a model converges (and the best scores reached at convergence) could also be due to pure chance.
+	\begin{figure}[ht]
+		\begin{center}
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{data_policygradient/5fcdim64run.PNG}
+				\caption{$H=64$}
+				\label{fig:pg_h64}
+			\end{subfigure}\hfill 
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{data_policygradient/4fcdim128run.PNG}
+				\caption{$H=128$}
+				\label{fig:pg_h128}
+			\end{subfigure}\\
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{data_policygradient/2learningrate0005run.PNG}
+				\caption{$H=256$}
+				\label{fig:pg_h256}
+			\end{subfigure} 
+		\end{center}
+		\caption{Training and evaluation rewards of REINFORCE for different hidden layer sizes $H=64,128,256$ of our policy network.}
+		\label{fig:pg_h}
+	\end{figure}
+	
+	With the exception of the number of episodes required to converge, the general shape of the scores curves across the three runs are similar. As for the video playback, the ships in all three runs managed to stop firing the rocket after landing, exhibiting advanced stage 5 behaviour and demonstrated a thoroughly learned behaviour. The ships also descended steadily, with very few crashes on impact. The success rates of runs 2, 4 and 5 over five episodes are 1 (past convergence), 4 and 3.
+	
+	\subsubsection{Time threshold}
+	The time threshold is a hyperparameter dedicated to this LunarLander environment. It defines the maximum allowable time for each episode in seconds, and effectively discourages the ship from prolonging an episode by firing its side engines in an idle position, as was observed to occur frequently in the original evaluations. 
+	When the time threshold is met, the done variable is forcefully set to True and a reward of -50 is given as a punishment. 
+	
+	\begin{figure}[ht]
+		\begin{center}
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{data_policygradient/7timethreshold20run.PNG}
+				\caption{$T=20$}
+				\label{fig:pg_t20}
+			\end{subfigure}\hfill 
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{data_policygradient/6timethreshold30run.PNG}
+				\caption{$T=30$}
+				\label{fig:pg_t30}
+			\end{subfigure}\\
+			\begin{subfigure}{0.48\textwidth}
+				\includegraphics[width=\linewidth]{data_policygradient/2learningrate0005run.PNG}
+				\caption{$T=40$}
+				\label{fig:pg_t40}
+			\end{subfigure} 
+		\end{center}
+		\caption{Training and evaluation rewards of REINFORCE for different time thresholds $T=20,30,40$.}
+		\label{fig:pg_t}
+	\end{figure}
+	
+	Comparing runs 2, 6 and 7 (time threshold $T=40, 30, 20$ respectively), we observe convergence first for run 2 at 2000 episodes, with an average evaluation score of 254.71 (Fig. \ref{fig:pg_t40}), followed by run 6 and 7 at 2500 episodes, with average evaluation scores of 194.40 and 223.32 respectively (Figures \ref{fig:pg_t30} and \ref{fig:pg_t20}). 
+	This indicates that a larger time threshold can accelerate model convergence, which is possible considering that a longer episode provides more data for the neural network model to train on, and leaves more room for exploration. 
+	In addition, the video evidence underscores that the ships from run 2 learned the best, as most of them stopped firing their rockets after touchdown, while the ships from runs 6 and 7 all tend to keep firing their side rockets and move themselves to the left. 
+	The success rate is the highest for run 6 with three out of five ships successfully stopping within the flags -- despite unnecessarily firing their side rockets --, followed by runs 2 and 7 with one out of five each.
+	\subsection{Comparison between PPO and REINFORCE}
+	A notable difference between the models lies within the learning rate and their variance they exhibit during training.
+	To that end, compare the PPO learning curve in Figure \ref{fig:ppo_lr0.001} with the learning curve of the best REINFORCE model in \ref{fig:pg_lr0.0005}.
+	While the reward of the PPO model exhibits a graceful variance that does seldom exceed 200 and even converges to a quite steady reward with extremely low the variance, even the best REINFORCE model retains a high variance of more than 200 until the end of the learning process, even though its learning rate is only have of that of the PPO model.
+	
+	This naturally reflects the high variance in the Monte Carlo estimations of the policy gradient that REINFORCE uses to update its parameters.
+	Even a lower learning rate cannot account for this strong fluctuation in the parameter update. 
+	On the other hand, the PPO model avails to the Generalized Advantage Estimation (GAE) introduced in Section \ref{sec:gae} and thereby achieves a good trade-off between the bias in TD errors and the variance in Monte Carlo updates.
+	We therefore hypothesize that the addition of momentum or the application of Generalized Advantage Estimation could further stabilize this process.	
 	\section{Conclusion}
+	The LunarLander environment is just an oversimplified representative for the challenging real-world problems we seek to tackle with RL agents. 
+	Even though PPO is currently one of the most widely used algorithms in practice, the experiments show that its performance is still sensitive to the specific hyperparameter choice and exhibits different preferences across environments.
+	The quest for stable learning algorithms that dynamically adjust themselves to their learning progress in several environments still leads over unpaved paths that need to be explored in the upcoming years of research.
 	\bibliography{references.bib}
 \end{document}
